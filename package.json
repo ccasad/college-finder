@@ -2,10 +2,10 @@
   "name": "colleges",
   "version": "0.0.1",
   "dependencies": {
-    "@targomo/core": "^0.5.5",
     "@turf/turf": "^6.5.0",
     "csvtojson": "^2.0.10",
     "fast-xml-parser": "^4.0.0-beta.8",
+    "geojson-to-kml": "0.0.1",
     "geolib": "^3.3.3",
     "lodash": "^4.17.21"
   }

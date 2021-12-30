@@ -1,3 +1,7 @@
+// This file is used to take html data from NCSA pages 
+// of baseball colleges and csv data from IPEDS and spit out
+// geojson and json files of the combined data
+
 const _ = require("lodash");
 const fs = require("fs");
 const { toDecimal } = require("geolib");
@@ -7,33 +11,15 @@ const csvtojson = require("csvtojson");
 let htmlColleges = [];
 let csvColleges = [];
 
-// TODO
-// * DONE convert mergedColleges array into geojson and put into own file
-// * export each distance buffer layer into it's own geojson file (have 1-8hrs) possibly using this API https://docs.traveltime.com/api/overview/getting-keys
-// * using turfjs (https://turfjs.org/) determine how far each school is using point in polygon function, add that distance as a new property
-//   
+const _process = async () => {
+  const dataHtml = await fs.readFileSync(`./data/colleges.txt`, "utf8");
+  _parseHtmlFile(dataHtml);
 
-// https://docs.traveltime.com/api/reference/isochrones
-// Application ID: 36c52bfc
-// API key:  b1a8a6f648bb1e3b030825f152df8177
+  const dataCsv = await fs.readFileSync(`./data/colleges.csv`, "utf8");
+  _parseCsvFile(dataCsv);
+};
 
-fs.readFile("./colleges.txt", "utf8" , (err, data) => {
-  if (err) {
-    console.error(err)
-    return
-  }
-  _parseHtmlFile(data);
-
-  fs.readFile("./colleges.csv", "utf8" , (err, data) => {
-    if (err) {
-      console.error(err)
-      return
-    }
-    _parseCsvFile(data);
-  });
-});
-
-const _parseCsvFile = (data) => {
+const _parseCsvFile = async (data) => {
   csvtojson({
     noheader: false,
     output: "json",
@@ -45,7 +31,7 @@ const _parseCsvFile = (data) => {
         console.log("Error: ", JSON.stringify(error));
       }
     })
-    .then(output => {
+    .then(async output => {
       const len = output.length;
       for (let i = 0; i < len; i++) {
         const row = output[i];
@@ -58,16 +44,13 @@ const _parseCsvFile = (data) => {
         }
       }
       const mergedColleges = _mergeData();
+      await fs.writeFileSync("./data/colleges.json", JSON.stringify(mergedColleges));
+      console.log("College json file written");
 
-      const gjson = _buildGeoJson(mergedColleges);
-      const geoJson = JSON.stringify(gjson);
-
-      fs.writeFile("./colleges.geojson", geoJson, (err) => {
-        if (err) {
-          throw err;
-        }
-        console.log("geojson data is saved.");
-      });
+      const geoJson = _buildGeoJson(mergedColleges);
+      await fs.writeFileSync("./data/colleges.geojson", JSON.stringify(geoJson));
+      console.log("College geojson file written");
+      console.log("DONE");
     })
     .catch(error => {
       console.error("ERROR: ", error);
@@ -119,7 +102,6 @@ const _parseHtmlFile = (data) => {
       item.region = _.get(infoDivs, `[2].span["#text"]`);
       item.conference = _.get(infoDivs, `[3]["#text"]`);
       item.division = _.get(infoDivs, `[4]`);
-
       htmlColleges.push(item);
     }
   }
@@ -128,10 +110,14 @@ const _parseHtmlFile = (data) => {
 const _buildGeoJson = (json) => {
   let features = [];
   json.forEach(item => {
+    const properties = {};
+    properties.ipedsid = item.ipedsid ? item.ipedsid : null;
+    properties.name = item.name ? item.name : null;
+    properties.division = item.division ? item.division : null;
     features.push({
       type: "Feature",
       geometry: _buildGeometry(item),
-      properties: item
+      properties: properties,
     });
   });
   return {
@@ -141,8 +127,10 @@ const _buildGeoJson = (json) => {
 };
 
 const _buildGeometry = (item) => {
-  const FORMATTED_LAT = toDecimal(item.latitude);
-  const FORMATTED_LNG = toDecimal(item.longitude);
+  const lat = parseFloat(item.latitude).toFixed(5);
+  const lng = parseFloat(item.longitude).toFixed(5);
+  const FORMATTED_LAT = toDecimal(lat);
+  const FORMATTED_LNG = toDecimal(lng);
   return {
     type: "Point",
     coordinates: [
@@ -159,3 +147,7 @@ const _changeObjectProperties = (obj) => {
   });
   return newObj;
 };
+
+(async () => {
+  await _process();
+})();
