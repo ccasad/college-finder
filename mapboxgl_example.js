@@ -1,7 +1,14 @@
+// TODO:
+// * switch out the accessToken to a personal one
+// * add filter to turn on/off colleges by division
+// * add ability to see all data when click on college
+// *
+
 import fs from "fs";
 import mapboxgl from "mapbox-gl";
 import "mapbox-gl/dist/mapbox-gl.css";
-import bbox from "@turf/bbox";
+import { difference, featureCollection, bbox } from "@turf/turf";
+// import bbox from "@turf/bbox";
 
 let hour1, hour2, hour3, hour4, hour5, collegesGeojson, collegesJson;
 
@@ -29,6 +36,17 @@ async function getData() {
     "utf8"
   );
   collegesJson = JSON.parse(result);
+
+  // cutout just the polygon ring for that hour
+  const hour2Diff = difference(hour2.features[0], hour1.features[0]);
+  const hour3Diff = difference(hour3.features[0], hour2.features[0]);
+  const hour4Diff = difference(hour4.features[0], hour3.features[0]);
+  const hour5Diff = difference(hour5.features[0], hour4.features[0]);
+
+  hour2 = featureCollection([hour2Diff]);
+  hour3 = featureCollection([hour3Diff]);
+  hour4 = featureCollection([hour4Diff]);
+  hour5 = featureCollection([hour5Diff]);
 }
 
 (async () => {
@@ -37,7 +55,7 @@ async function getData() {
 })();
 
 mapboxgl.accessToken =
-  "pk.eyJ1Ijoiam9leWtsZWUiLCJhIjoiMlRDV2lCSSJ9.ZmGAJU54Pa-z8KvwoVXVBw";
+  "pk.eyJ1IjoiY2Nhc2FkIiwiYSI6ImNqN3BpNnByZTN1bjkycW5wZXMyYzU0bHEifQ.__Gj3_aFbIH7Uo8YlmHLJQ";
 
 function init() {
   let map = new mapboxgl.Map({
