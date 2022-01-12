@@ -4,7 +4,7 @@ const turf = require("@turf/turf");
 const tokml = require("geojson-to-kml");
 
 const _process = async () => {
-  let result = await fs.readFileSync("./data/colleges.geojson", "utf8");
+  let result = await fs.readFileSync("./data/colleges_with_baseball.geojson", "utf8");
   let allColleges = JSON.parse(result);
   allColleges.features = _.orderBy(allColleges.features, "properties.name", "asc");
 
@@ -54,7 +54,7 @@ const _process = async () => {
 
 const _updateJsonData = async (collegesWithDistance) => {
   const lenCwd = collegesWithDistance.length;
-  const result = await fs.readFileSync("./data/colleges.json", "utf8");
+  const result = await fs.readFileSync("./data/colleges_with_baseball.json", "utf8");
   const origColleges = JSON.parse(result);
   const lenOrigColleges = origColleges.length;
   const colleges = [];
@@ -67,7 +67,7 @@ const _updateJsonData = async (collegesWithDistance) => {
         _.get(cwdCollege, "properties.ipedsid") &&
         origCollege.ipedsid === cwdCollege.properties.ipedsid
       ) {
-        colleges.push(origCollege);
+        colleges.push(cwdCollege.properties);
       }
     }
   }

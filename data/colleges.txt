@@ -68,7 +68,7 @@
     <meta content="7" itemprop="position" />
     <div class="container" itemprop="item" itemscope="" itemtype="http://schema.org/CollegeOrUniversity">
       <link href="https://www.ncsasports.org/athletic-scholarships/baseball/arkansas/arkansas-state-university--jonesboro" itemprop="url" />
-      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/arkansas/arkansas-state-university--jonesboro" itemprop="sameAs">Arkansas State University</a></div>
+      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/arkansas/arkansas-state-university--jonesboro" itemprop="sameAs">Arkansas State University - Main Campus</a></div>
       <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Jonesboro</span>, <span itemprop="addressRegion">Arkansas</span></div>
       <div itemprop="areaServed"><span itemtype="http://schema.org/Text">Mid South</span></div>
       <div itemprop="member">Sun Belt Conference</div>
@@ -200,7 +200,7 @@
     <meta content="19" itemprop="position" />
     <div class="container" itemprop="item" itemscope="" itemtype="http://schema.org/CollegeOrUniversity">
       <link href="https://www.ncsasports.org/athletic-scholarships/baseball/utah/brigham-young-university--provo" itemprop="url" />
-      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/utah/brigham-young-university--provo" itemprop="sameAs">Brigham Young University</a></div>
+      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/utah/brigham-young-university--provo" itemprop="sameAs">Brigham Young University-PROVO</a></div>
       <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Provo</span>, <span itemprop="addressRegion">Utah</span></div>
       <div itemprop="areaServed"><span itemtype="http://schema.org/Text">South West</span></div>
       <div itemprop="member">West Coast Conference</div>
@@ -266,7 +266,7 @@
     <meta content="25" itemprop="position" />
     <div class="container" itemprop="item" itemscope="" itemtype="http://schema.org/CollegeOrUniversity">
       <link href="https://www.ncsasports.org/athletic-scholarships/baseball/california/cal-poly--san-luis-obispo" itemprop="url" />
-      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/california/cal-poly--san-luis-obispo" itemprop="sameAs">California Polytechnic State University – San Luis Obispo</a></div>
+      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/california/cal-poly--san-luis-obispo" itemprop="sameAs">California Polytechnic State University</a></div>
       <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">San Luis Obispo</span>, <span itemprop="addressRegion">California</span></div>
       <div itemprop="areaServed"><span itemtype="http://schema.org/Text">West Coast</span></div>
       <div itemprop="member">Big West Conference</div>
@@ -277,7 +277,7 @@
     <meta content="26" itemprop="position" />
     <div class="container" itemprop="item" itemscope="" itemtype="http://schema.org/CollegeOrUniversity">
       <link href="https://www.ncsasports.org/athletic-scholarships/baseball/california/california-state-university--bakersfield" itemprop="url" />
-      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/california/california-state-university--bakersfield" itemprop="sameAs">California State University – Bakersfield</a></div>
+      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/california/california-state-university--bakersfield" itemprop="sameAs">California State University Bakersfield</a></div>
       <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Bakersfield</span>, <span itemprop="addressRegion">California</span></div>
       <div itemprop="areaServed"><span itemtype="http://schema.org/Text">West Coast</span></div>
       <div itemprop="member">Big West Conference</div>
@@ -288,7 +288,7 @@
     <meta content="27" itemprop="position" />
     <div class="container" itemprop="item" itemscope="" itemtype="http://schema.org/CollegeOrUniversity">
       <link href="https://www.ncsasports.org/athletic-scholarships/baseball/california/california-state-university--fresno" itemprop="url" />
-      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/california/california-state-university--fresno" itemprop="sameAs">California State University – Fresno</a></div>
+      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/california/california-state-university--fresno" itemprop="sameAs">California State University Fresno</a></div>
       <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Fresno</span>, <span itemprop="addressRegion">California</span></div>
       <div itemprop="areaServed"><span itemtype="http://schema.org/Text">West Coast</span></div>
       <div itemprop="member">Mountain West Conference</div>
@@ -299,7 +299,7 @@
     <meta content="28" itemprop="position" />
     <div class="container" itemprop="item" itemscope="" itemtype="http://schema.org/CollegeOrUniversity">
       <link href="https://www.ncsasports.org/athletic-scholarships/baseball/california/california-state-university--fullerton" itemprop="url" />
-      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/california/california-state-university--fullerton" itemprop="sameAs">California State University – Fullerton</a></div>
+      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/california/california-state-university--fullerton" itemprop="sameAs">California State University Fullerton</a></div>
       <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Fullerton</span>, <span itemprop="addressRegion">California</span></div>
       <div itemprop="areaServed"><span itemtype="http://schema.org/Text">West Coast</span></div>
       <div itemprop="member">Big West Conference</div>
@@ -310,7 +310,7 @@
     <meta content="29" itemprop="position" />
     <div class="container" itemprop="item" itemscope="" itemtype="http://schema.org/CollegeOrUniversity">
       <link href="https://www.ncsasports.org/athletic-scholarships/baseball/california/california-state-university--long-beach1" itemprop="url" />
-      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/california/california-state-university--long-beach1" itemprop="sameAs">California State University – Long Beach</a></div>
+      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/california/california-state-university--long-beach1" itemprop="sameAs">California State University Long Beach</a></div>
       <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Long Beach</span>, <span itemprop="addressRegion">California</span></div>
       <div itemprop="areaServed"><span itemtype="http://schema.org/Text">West Coast</span></div>
       <div itemprop="member">Big West Conference</div>
@@ -321,7 +321,7 @@
     <meta content="30" itemprop="position" />
     <div class="container" itemprop="item" itemscope="" itemtype="http://schema.org/CollegeOrUniversity">
       <link href="https://www.ncsasports.org/athletic-scholarships/baseball/california/california-state-university--northridge" itemprop="url" />
-      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/california/california-state-university--northridge" itemprop="sameAs">California State University – Northridge</a></div>
+      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/california/california-state-university--northridge" itemprop="sameAs">California State University Northridge</a></div>
       <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Northridge</span>, <span itemprop="addressRegion">California</span></div>
       <div itemprop="areaServed"><span itemtype="http://schema.org/Text">West Coast</span></div>
       <div itemprop="member">Big West Conference</div>
@@ -332,7 +332,7 @@
     <meta content="31" itemprop="position" />
     <div class="container" itemprop="item" itemscope="" itemtype="http://schema.org/CollegeOrUniversity">
       <link href="https://www.ncsasports.org/athletic-scholarships/baseball/california/california-state-university--sacramento1" itemprop="url" />
-      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/california/california-state-university--sacramento1" itemprop="sameAs">California State University – Sacramento</a></div>
+      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/california/california-state-university--sacramento1" itemprop="sameAs">California State University Sacramento</a></div>
       <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Sacramento</span>, <span itemprop="addressRegion">California</span></div>
       <div itemprop="areaServed"><span itemtype="http://schema.org/Text">West Coast</span></div>
       <div itemprop="member">Big Sky Conference</div>
@@ -1630,7 +1630,7 @@
     <meta content="149" itemprop="position" />
     <div class="container" itemprop="item" itemscope="" itemtype="http://schema.org/CollegeOrUniversity">
       <link href="https://www.ncsasports.org/athletic-scholarships/baseball/new-jersey/rutgers-university" itemprop="url" />
-      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/new-jersey/rutgers-university" itemprop="sameAs">Rutgers University</a></div>
+      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/new-jersey/rutgers-university" itemprop="sameAs">RUTGERS UNIVERSITY NEW BRUNSWICK</a></div>
       <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Piscataway</span>, <span itemprop="addressRegion">New Jersey</span></div>
       <div itemprop="areaServed"><span itemtype="http://schema.org/Text">North East</span></div>
       <div itemprop="member">Big Ten Conference</div>
@@ -1861,7 +1861,7 @@
     <meta content="170" itemprop="position" />
     <div class="container" itemprop="item" itemscope="" itemtype="http://schema.org/CollegeOrUniversity">
       <link href="https://www.ncsasports.org/athletic-scholarships/baseball/new-york/st-johns-university-new-york" itemprop="url" />
-      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/new-york/st-johns-university-new-york" itemprop="sameAs">St. John's University – New York</a></div>
+      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/new-york/st-johns-university-new-york" itemprop="sameAs">ST JOHN'S UNIVERSITY-NEW YORK</a></div>
       <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Queens</span>, <span itemprop="addressRegion">New York</span></div>
       <div itemprop="areaServed"><span itemtype="http://schema.org/Text">North East</span></div>
       <div itemprop="member">Big East Conference</div>
@@ -1905,7 +1905,7 @@
     <meta content="174" itemprop="position" />
     <div class="container" itemprop="item" itemscope="" itemtype="http://schema.org/CollegeOrUniversity">
       <link href="https://www.ncsasports.org/athletic-scholarships/baseball/new-york/suny--binghamton" itemprop="url" />
-      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/new-york/suny--binghamton" itemprop="sameAs">SUNY Binghamton University</a></div>
+      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/new-york/suny--binghamton" itemprop="sameAs">Binghamton University</a></div>
       <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Vestal</span>, <span itemprop="addressRegion">New York</span></div>
       <div itemprop="areaServed"><span itemtype="http://schema.org/Text">North East</span></div>
       <div itemprop="member">America East Conference</div>
@@ -1916,7 +1916,7 @@
     <meta content="175" itemprop="position" />
     <div class="container" itemprop="item" itemscope="" itemtype="http://schema.org/CollegeOrUniversity">
       <link href="https://www.ncsasports.org/athletic-scholarships/baseball/new-york/stony-brook-university" itemprop="url" />
-      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/new-york/stony-brook-university" itemprop="sameAs">SUNY Stony Brook University</a></div>
+      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/new-york/stony-brook-university" itemprop="sameAs">Stony Brook University</a></div>
       <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Stony Brook</span>, <span itemprop="addressRegion">New York</span></div>
       <div itemprop="areaServed"><span itemtype="http://schema.org/Text">North East</span></div>
       <div itemprop="member">Colonial Athletic Association</div>
@@ -1927,7 +1927,7 @@
     <meta content="176" itemprop="position" />
     <div class="container" itemprop="item" itemscope="" itemtype="http://schema.org/CollegeOrUniversity">
       <link href="https://www.ncsasports.org/athletic-scholarships/baseball/new-york/university-at-albany" itemprop="url" />
-      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/new-york/university-at-albany" itemprop="sameAs">SUNY University at Albany</a></div>
+      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/new-york/university-at-albany" itemprop="sameAs">SUNY at Albany</a></div>
       <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Albany</span>, <span itemprop="addressRegion">New York</span></div>
       <div itemprop="areaServed"><span itemtype="http://schema.org/Text">North East</span></div>
       <div itemprop="member">America East Conference&nbsp;</div>
@@ -2488,7 +2488,7 @@
     <meta content="227" itemprop="position" />
     <div class="container" itemprop="item" itemscope="" itemtype="http://schema.org/CollegeOrUniversity">
       <link href="https://www.ncsasports.org/athletic-scholarships/baseball/maryland/university-of-maryland--baltimore-county" itemprop="url" />
-      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/maryland/university-of-maryland--baltimore-county" itemprop="sameAs">University of Maryland – Baltimore County</a></div>
+      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/maryland/university-of-maryland--baltimore-county" itemprop="sameAs">University of Maryland Baltimore County</a></div>
       <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Baltimore</span>, <span itemprop="addressRegion">Maryland</span></div>
       <div itemprop="areaServed"><span itemtype="http://schema.org/Text">North East</span></div>
       <div itemprop="member">America East Conference</div>
@@ -2675,7 +2675,7 @@
     <meta content="244" itemprop="position" />
     <div class="container" itemprop="item" itemscope="" itemtype="http://schema.org/CollegeOrUniversity">
       <link href="https://www.ncsasports.org/athletic-scholarships/baseball/north-carolina/university-of-north-carolina--greensboro" itemprop="url" />
-      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/north-carolina/university-of-north-carolina--greensboro" itemprop="sameAs">University of North Carolina – Greensboro</a></div>
+      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/north-carolina/university-of-north-carolina--greensboro" itemprop="sameAs">University of North Carolina at Greensboro</a></div>
       <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Greensboro</span>, <span itemprop="addressRegion">North Carolina</span></div>
       <div itemprop="areaServed"><span itemtype="http://schema.org/Text">Mid East</span></div>
       <div itemprop="member">Southern Conference</div>
@@ -2686,7 +2686,7 @@
     <meta content="245" itemprop="position" />
     <div class="container" itemprop="item" itemscope="" itemtype="http://schema.org/CollegeOrUniversity">
       <link href="https://www.ncsasports.org/athletic-scholarships/baseball/north-carolina/university-of-north-carolina--wilmington" itemprop="url" />
-      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/north-carolina/university-of-north-carolina--wilmington" itemprop="sameAs">University of North Carolina – Wilmington</a></div>
+      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/north-carolina/university-of-north-carolina--wilmington" itemprop="sameAs">University of North Carolina Wilmington</a></div>
       <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Wilmington</span>, <span itemprop="addressRegion">North Carolina</span></div>
       <div itemprop="areaServed"><span itemtype="http://schema.org/Text">Mid East</span></div>
       <div itemprop="member">Colonial Athletic Association</div>
@@ -2697,7 +2697,7 @@
     <meta content="246" itemprop="position" />
     <div class="container" itemprop="item" itemscope="" itemtype="http://schema.org/CollegeOrUniversity">
       <link href="https://www.ncsasports.org/athletic-scholarships/baseball/north-carolina/university-of-north-carolina--asheville" itemprop="url" />
-      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/north-carolina/university-of-north-carolina--asheville" itemprop="sameAs">University of North Carolina Asheville</a></div>
+      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/north-carolina/university-of-north-carolina--asheville" itemprop="sameAs">University of North Carolina at Asheville</a></div>
       <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Asheville</span>, <span itemprop="addressRegion">North Carolina</span></div>
       <div itemprop="areaServed"><span itemtype="http://schema.org/Text">Mid East</span></div>
       <div itemprop="member">Big South Conference</div>
@@ -2785,7 +2785,7 @@
     <meta content="254" itemprop="position" />
     <div class="container" itemprop="item" itemscope="" itemtype="http://schema.org/CollegeOrUniversity">
       <link href="https://www.ncsasports.org/athletic-scholarships/baseball/pennsylvania/university-of-pennsylvania" itemprop="url" />
-      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/pennsylvania/university-of-pennsylvania" itemprop="sameAs">University of Pennsylvania – Penn</a></div>
+      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/pennsylvania/university-of-pennsylvania" itemprop="sameAs">University of Pennsylvania</a></div>
       <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Philadelphia</span>, <span itemprop="addressRegion">Pennsylvania</span></div>
       <div itemprop="areaServed"><span itemtype="http://schema.org/Text">North East</span></div>
       <div itemprop="member">Ivy League</div>
@@ -2796,7 +2796,7 @@
     <meta content="255" itemprop="position" />
     <div class="container" itemprop="item" itemscope="" itemtype="http://schema.org/CollegeOrUniversity">
       <link href="https://www.ncsasports.org/athletic-scholarships/baseball/pennsylvania/university-of-pittsburgh" itemprop="url" />
-      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/pennsylvania/university-of-pittsburgh" itemprop="sameAs">University of Pittsburgh</a></div>
+      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/pennsylvania/university-of-pittsburgh" itemprop="sameAs">University of Pittsburgh-PITTSBURGH CAMPUS</a></div>
       <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Pittsburgh</span>, <span itemprop="addressRegion">Pennsylvania</span></div>
       <div itemprop="areaServed"><span itemtype="http://schema.org/Text">North East</span></div>
       <div itemprop="member">Atlantic Coast Conference</div>
@@ -3148,7 +3148,7 @@
     <meta content="287" itemprop="position" />
     <div class="container" itemprop="item" itemscope="" itemtype="http://schema.org/CollegeOrUniversity">
       <link href="https://www.ncsasports.org/athletic-scholarships/baseball/virginia/virginia-military-institute" itemprop="url" />
-      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/virginia/virginia-military-institute" itemprop="sameAs">Virginia Military Institute – VMI</a></div>
+      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/virginia/virginia-military-institute" itemprop="sameAs">Virginia Military Institute</a></div>
       <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Lexington</span>, <span itemprop="addressRegion">Virginia</span></div>
       <div itemprop="areaServed"><span itemtype="http://schema.org/Text">Mid East</span></div>
       <div itemprop="member">Southern Conference&nbsp;</div>
@@ -3468,7 +3468,7 @@
     <meta content="12" itemprop="position" />
     <div class="container" itemprop="item" itemscope="" itemtype="http://schema.org/CollegeOrUniversity">
       <link href="https://www.ncsasports.org/athletic-scholarships/baseball/alabama/auburn-university--montgomery" itemprop="url" />
-      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/alabama/auburn-university--montgomery" itemprop="sameAs">Auburn University – Montgomery</a></div>
+      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/alabama/auburn-university--montgomery" itemprop="sameAs">Auburn University at Montgomery</a></div>
       <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Montgomery</span>, <span itemprop="addressRegion">Alabama</span></div>
       <div itemprop="areaServed"><span itemtype="http://schema.org/Text">South East</span></div>
       <div itemprop="member">Gulf South Conference</div>
@@ -3490,7 +3490,7 @@
     <meta content="14" itemprop="position" />
     <div class="container" itemprop="item" itemscope="" itemtype="http://schema.org/CollegeOrUniversity">
       <link href="https://www.ncsasports.org/athletic-scholarships/baseball/south-dakota/augustana-college-sd" itemprop="url" />
-      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/south-dakota/augustana-college-sd" itemprop="sameAs">Augustana University – South Dakota</a></div>
+      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/south-dakota/augustana-college-sd" itemprop="sameAs">Augustana University</a></div>
       <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Sioux Falls</span>, <span itemprop="addressRegion">South Dakota</span></div>
       <div itemprop="areaServed"><span itemtype="http://schema.org/Text">North West</span></div>
       <div itemprop="member">Northern Sun Intercollegiate Conference</div>
@@ -3633,7 +3633,7 @@
     <meta content="27" itemprop="position" />
     <div class="container" itemprop="item" itemscope="" itemtype="http://schema.org/CollegeOrUniversity">
       <link href="https://www.ncsasports.org/athletic-scholarships/baseball/california/california-state-polytechnic-university--pomona" itemprop="url" />
-      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/california/california-state-polytechnic-university--pomona" itemprop="sameAs">California State Polytechnic University – Pomona</a></div>
+      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/california/california-state-polytechnic-university--pomona" itemprop="sameAs">California State Polytechnic University</a></div>
       <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Pomona</span>, <span itemprop="addressRegion">California</span></div>
       <div itemprop="areaServed"><span itemtype="http://schema.org/Text">West Coast</span></div>
       <div itemprop="member">California Collegiate Athletic Association</div>
@@ -3644,7 +3644,7 @@
     <meta content="28" itemprop="position" />
     <div class="container" itemprop="item" itemscope="" itemtype="http://schema.org/CollegeOrUniversity">
       <link href="https://www.ncsasports.org/athletic-scholarships/baseball/california/california-state-university--chico" itemprop="url" />
-      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/california/california-state-university--chico" itemprop="sameAs">California State University – Chico</a></div>
+      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/california/california-state-university--chico" itemprop="sameAs">California State University Chico</a></div>
       <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Chico</span>, <span itemprop="addressRegion">California</span></div>
       <div itemprop="areaServed"><span itemtype="http://schema.org/Text">West Coast</span></div>
       <div itemprop="member">California Collegiate Athletic Association</div>
@@ -3655,7 +3655,7 @@
     <meta content="29" itemprop="position" />
     <div class="container" itemprop="item" itemscope="" itemtype="http://schema.org/CollegeOrUniversity">
       <link href="https://www.ncsasports.org/athletic-scholarships/baseball/california/california-state-university--dominguez-hills" itemprop="url" />
-      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/california/california-state-university--dominguez-hills" itemprop="sameAs">California State University – Dominguez Hills</a></div>
+      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/california/california-state-university--dominguez-hills" itemprop="sameAs">California State University Dominguez Hills</a></div>
       <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Carson</span>, <span itemprop="addressRegion">California</span></div>
       <div itemprop="areaServed"><span itemtype="http://schema.org/Text">West Coast</span></div>
       <div itemprop="member">California Collegiate Athletic Association</div>
@@ -3666,7 +3666,7 @@
     <meta content="30" itemprop="position" />
     <div class="container" itemprop="item" itemscope="" itemtype="http://schema.org/CollegeOrUniversity">
       <link href="https://www.ncsasports.org/athletic-scholarships/baseball/california/california-state-university--east-bay" itemprop="url" />
-      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/california/california-state-university--east-bay" itemprop="sameAs">California State University – East Bay</a></div>
+      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/california/california-state-university--east-bay" itemprop="sameAs">California State University East Bay</a></div>
       <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Hayward</span>, <span itemprop="addressRegion">California</span></div>
       <div itemprop="areaServed"><span itemtype="http://schema.org/Text">West Coast</span></div>
       <div itemprop="member">California Collegiate Athletic Association</div>
@@ -3677,7 +3677,7 @@
     <meta content="31" itemprop="position" />
     <div class="container" itemprop="item" itemscope="" itemtype="http://schema.org/CollegeOrUniversity">
       <link href="https://www.ncsasports.org/athletic-scholarships/baseball/california/california-state-university--los-angeles" itemprop="url" />
-      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/california/california-state-university--los-angeles" itemprop="sameAs">California State University – Los Angeles</a></div>
+      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/california/california-state-university--los-angeles" itemprop="sameAs">California State University Los Angeles</a></div>
       <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Los Angeles</span>, <span itemprop="addressRegion">California</span></div>
       <div itemprop="areaServed"><span itemtype="http://schema.org/Text">West Coast</span></div>
       <div itemprop="member">California Collegiate Athletic Association</div>
@@ -3688,7 +3688,7 @@
     <meta content="32" itemprop="position" />
     <div class="container" itemprop="item" itemscope="" itemtype="http://schema.org/CollegeOrUniversity">
       <link href="https://www.ncsasports.org/athletic-scholarships/baseball/california/california-state-university--monterey-bay" itemprop="url" />
-      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/california/california-state-university--monterey-bay" itemprop="sameAs">California State University – Monterey Bay</a></div>
+      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/california/california-state-university--monterey-bay" itemprop="sameAs">California State University Monterey Bay</a></div>
       <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Seaside</span>, <span itemprop="addressRegion">California</span></div>
       <div itemprop="areaServed"><span itemtype="http://schema.org/Text">West Coast</span></div>
       <div itemprop="member">California Collegiate Athletic Association</div>
@@ -3699,7 +3699,7 @@
     <meta content="33" itemprop="position" />
     <div class="container" itemprop="item" itemscope="" itemtype="http://schema.org/CollegeOrUniversity">
       <link href="https://www.ncsasports.org/athletic-scholarships/baseball/california/california-state-university--san-bernardino" itemprop="url" />
-      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/california/california-state-university--san-bernardino" itemprop="sameAs">California State University – San Bernardino</a></div>
+      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/california/california-state-university--san-bernardino" itemprop="sameAs">California State University San Bernardino</a></div>
       <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">San Bernardino</span>, <span itemprop="addressRegion">California</span></div>
       <div itemprop="areaServed"><span itemtype="http://schema.org/Text">West Coast</span></div>
       <div itemprop="member">California Collegiate Athletic Association</div>
@@ -3710,7 +3710,7 @@
     <meta content="34" itemprop="position" />
     <div class="container" itemprop="item" itemscope="" itemtype="http://schema.org/CollegeOrUniversity">
       <link href="https://www.ncsasports.org/athletic-scholarships/baseball/california/california-state-university--san-marcos" itemprop="url" />
-      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/california/california-state-university--san-marcos" itemprop="sameAs">California State University – San Marcos</a></div>
+      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/california/california-state-university--san-marcos" itemprop="sameAs">California State University San Marcos</a></div>
       <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">San Marcos</span>, <span itemprop="addressRegion">California</span></div>
       <div itemprop="areaServed"><span itemtype="http://schema.org/Text">West Coast</span></div>
       <div itemprop="member">California Collegiate Athletic Association</div>
@@ -3721,7 +3721,7 @@
     <meta content="35" itemprop="position" />
     <div class="container" itemprop="item" itemscope="" itemtype="http://schema.org/CollegeOrUniversity">
       <link href="https://www.ncsasports.org/athletic-scholarships/baseball/california/california-state-university--stanislaus" itemprop="url" />
-      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/california/california-state-university--stanislaus" itemprop="sameAs">California State University – Stanislaus</a></div>
+      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/california/california-state-university--stanislaus" itemprop="sameAs">California State University Stanislaus</a></div>
       <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Turlock</span>, <span itemprop="addressRegion">California</span></div>
       <div itemprop="areaServed"><span itemtype="http://schema.org/Text">West Coast</span></div>
       <div itemprop="member">California Collegiate Athletic Association</div>
@@ -4524,7 +4524,7 @@
     <meta content="108" itemprop="position" />
     <div class="container" itemprop="item" itemscope="" itemtype="http://schema.org/CollegeOrUniversity">
       <link href="https://www.ncsasports.org/athletic-scholarships/baseball/pennsylvania/lincoln-university-pa" itemprop="url" />
-      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/pennsylvania/lincoln-university-pa" itemprop="sameAs">Lincoln University Pennsylvania</a></div>
+      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/pennsylvania/lincoln-university-pa" itemprop="sameAs">Lincoln University - Pennsylvania</a></div>
       <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Lincoln University</span>, <span itemprop="addressRegion">Pennsylvania</span></div>
       <div itemprop="areaServed"><span itemtype="http://schema.org/Text">North East</span></div>
       <div itemprop="member">Central Intercollegiate Athletic Association</div>
@@ -4799,7 +4799,7 @@
     <meta content="133" itemprop="position" />
     <div class="container" itemprop="item" itemscope="" itemtype="http://schema.org/CollegeOrUniversity">
       <link href="https://www.ncsasports.org/athletic-scholarships/baseball/new-york/new-york-institute-of-technology" itemprop="url" />
-      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/new-york/new-york-institute-of-technology" itemprop="sameAs">New York Tech</a></div>
+      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/new-york/new-york-institute-of-technology" itemprop="sameAs">NEW YORK INSTITUTE OF TECHNOLOGY</a></div>
       <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Old Westbury</span>, <span itemprop="addressRegion">New York</span></div>
       <div itemprop="areaServed"><span itemtype="http://schema.org/Text">North East</span></div>
       <div itemprop="member">East Coast Conference</div>
@@ -5261,7 +5261,7 @@
     <meta content="175" itemprop="position" />
     <div class="container" itemprop="item" itemscope="" itemtype="http://schema.org/CollegeOrUniversity">
       <link href="https://www.ncsasports.org/athletic-scholarships/baseball/pennsylvania/slippery-rock-university-of-pennsylvania" itemprop="url" />
-      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/pennsylvania/slippery-rock-university-of-pennsylvania" itemprop="sameAs">Slippery Rock University</a></div>
+      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/pennsylvania/slippery-rock-university-of-pennsylvania" itemprop="sameAs">Slippery Rock University OF PENNSYLVANIA</a></div>
       <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Slippery Rock</span>, <span itemprop="addressRegion">Pennsylvania</span></div>
       <div itemprop="areaServed"><span itemtype="http://schema.org/Text">North East</span></div>
       <div itemprop="member">Pennsylvania State Athletic Conference</div>
@@ -5492,7 +5492,7 @@
     <meta content="196" itemprop="position" />
     <div class="container" itemprop="item" itemscope="" itemtype="http://schema.org/CollegeOrUniversity">
       <link href="https://www.ncsasports.org/athletic-scholarships/baseball/pennsylvania/philadelphia-university" itemprop="url" />
-      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/pennsylvania/philadelphia-university" itemprop="sameAs">Thomas Jefferson University (Formerly Philadelphia University)</a></div>
+      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/pennsylvania/philadelphia-university" itemprop="sameAs">Thomas Jefferson University</a></div>
       <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Philadelphia</span>, <span itemprop="addressRegion">Pennsylvania</span></div>
       <div itemprop="areaServed"><span itemtype="http://schema.org/Text">North East</span></div>
       <div itemprop="member">Central Atlantic Collegiate Conference</div>
@@ -5800,7 +5800,7 @@
     <meta content="224" itemprop="position" />
     <div class="container" itemprop="item" itemscope="" itemtype="http://schema.org/CollegeOrUniversity">
       <link href="https://www.ncsasports.org/athletic-scholarships/baseball/pennsylvania/university-of-pittsburgh-at-johnstown" itemprop="url" />
-      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/pennsylvania/university-of-pittsburgh-at-johnstown" itemprop="sameAs">University of Pittsburgh – Johnstown</a></div>
+      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/pennsylvania/university-of-pittsburgh-at-johnstown" itemprop="sameAs">UNIVERSITY OF PITTSBURGH JOHNSTOWN</a></div>
       <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Johnstown</span>, <span itemprop="addressRegion">Pennsylvania</span></div>
       <div itemprop="areaServed"><span itemtype="http://schema.org/Text">North East</span></div>
       <div itemprop="member">Pennsylvania State Athletic Conference</div>
@@ -6275,7 +6275,7 @@
     <meta content="13" itemprop="position" />
     <div class="container" itemprop="item" itemscope="" itemtype="http://schema.org/CollegeOrUniversity">
       <link href="https://www.ncsasports.org/athletic-scholarships/baseball/illinois/augustana-college-il" itemprop="url" />
-      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/illinois/augustana-college-il" itemprop="sameAs">Augustana College – Illinois</a></div>
+      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/illinois/augustana-college-il" itemprop="sameAs">Augustana College</a></div>
       <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Rock Island</span>, <span itemprop="addressRegion">Illinois</span></div>
       <div itemprop="areaServed"><span itemtype="http://schema.org/Text">Great Lakes</span></div>
       <div itemprop="member">College Conference of Illinois and Wisconsin</div>
@@ -6418,7 +6418,7 @@
     <meta content="26" itemprop="position" />
     <div class="container" itemprop="item" itemscope="" itemtype="http://schema.org/CollegeOrUniversity">
       <link href="https://www.ncsasports.org/athletic-scholarships/baseball/west-virginia/bethany-college-wv" itemprop="url" />
-      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/west-virginia/bethany-college-wv" itemprop="sameAs">Bethany College – West Virginia</a></div>
+      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/west-virginia/bethany-college-wv" itemprop="sameAs">Bethany College West Virginia</a></div>
       <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Bethany</span>, <span itemprop="addressRegion">West Virginia</span></div>
       <div itemprop="areaServed"><span itemtype="http://schema.org/Text">Mid East</span></div>
       <div itemprop="member">Presidents' Athletic Conference</div>
@@ -6704,7 +6704,7 @@
     <meta content="52" itemprop="position" />
     <div class="container" itemprop="item" itemscope="" itemtype="http://schema.org/CollegeOrUniversity">
       <link href="https://www.ncsasports.org/athletic-scholarships/baseball/new-jersey/centenary-college" itemprop="url" />
-      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/new-jersey/centenary-college" itemprop="sameAs">Centenary University – New Jersey</a></div>
+      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/new-jersey/centenary-college" itemprop="sameAs">Centenary University</a></div>
       <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Hackettstown</span>, <span itemprop="addressRegion">New Jersey</span></div>
       <div itemprop="areaServed"><span itemtype="http://schema.org/Text">North East</span></div>
       <div itemprop="member">Colonial States Athletic Conference</div>
@@ -7232,7 +7232,7 @@
     <meta content="100" itemprop="position" />
     <div class="container" itemprop="item" itemscope="" itemtype="http://schema.org/CollegeOrUniversity">
       <link href="https://www.ncsasports.org/athletic-scholarships/baseball/new-jersey/fairleigh-dickinson-university--college-at-florham" itemprop="url" />
-      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/new-jersey/fairleigh-dickinson-university--college-at-florham" itemprop="sameAs">Fairleigh Dickinson University – College at Florham</a></div>
+      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/new-jersey/fairleigh-dickinson-university--college-at-florham" itemprop="sameAs">FAIRLEIGH DICKINSON UNIVERSITY FLORHAM</a></div>
       <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Madison</span>, <span itemprop="addressRegion">New Jersey</span></div>
       <div itemprop="areaServed"><span itemtype="http://schema.org/Text">North East</span></div>
       <div itemprop="member">Middle Atlantic Conferences</div>
@@ -7298,7 +7298,7 @@
     <meta content="106" itemprop="position" />
     <div class="container" itemprop="item" itemscope="" itemtype="http://schema.org/CollegeOrUniversity">
       <link href="https://www.ncsasports.org/athletic-scholarships/baseball/pennsylvania/franklin--marshall-college" itemprop="url" />
-      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/pennsylvania/franklin--marshall-college" itemprop="sameAs">Franklin &amp; Marshall College</a></div>
+      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/pennsylvania/franklin--marshall-college" itemprop="sameAs">Franklin and Marshall College</a></div>
       <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Lancaster</span>, <span itemprop="addressRegion">Pennsylvania</span></div>
       <div itemprop="areaServed"><span itemtype="http://schema.org/Text">North East</span></div>
       <div itemprop="member">Centennial Conference</div>
@@ -8035,7 +8035,7 @@
     <meta content="173" itemprop="position" />
     <div class="container" itemprop="item" itemscope="" itemtype="http://schema.org/CollegeOrUniversity">
       <link href="https://www.ncsasports.org/athletic-scholarships/baseball/virginia/marymount-university" itemprop="url" />
-      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/virginia/marymount-university" itemprop="sameAs">Marymount University (VA)</a></div>
+      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/virginia/marymount-university" itemprop="sameAs">Marymount University - VA</a></div>
       <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Arlington</span>, <span itemprop="addressRegion">Virginia</span></div>
       <div itemprop="areaServed"><span itemtype="http://schema.org/Text">Mid East</span></div>
       <div itemprop="member">Capital Athletic Conference</div>
@@ -8233,7 +8233,7 @@
     <meta content="191" itemprop="position" />
     <div class="container" itemprop="item" itemscope="" itemtype="http://schema.org/CollegeOrUniversity">
       <link href="https://www.ncsasports.org/athletic-scholarships/baseball/new-york/mount-saint-mary-college" itemprop="url" />
-      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/new-york/mount-saint-mary-college" itemprop="sameAs">Mount Saint Mary College – New York</a></div>
+      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/new-york/mount-saint-mary-college" itemprop="sameAs">Mount Saint Mary College</a></div>
       <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Newburgh</span>, <span itemprop="addressRegion">New York</span></div>
       <div itemprop="areaServed"><span itemtype="http://schema.org/Text">North East</span></div>
       <div itemprop="member">Skyline Conference</div>
@@ -8519,7 +8519,7 @@
     <meta content="217" itemprop="position" />
     <div class="container" itemprop="item" itemscope="" itemtype="http://schema.org/CollegeOrUniversity">
       <link href="https://www.ncsasports.org/athletic-scholarships/baseball/pennsylvania/pennsylvania-state-university--beaver-campus" itemprop="url" />
-      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/pennsylvania/pennsylvania-state-university--beaver-campus" itemprop="sameAs">Penn State Beaver</a></div>
+      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/pennsylvania/pennsylvania-state-university--beaver-campus" itemprop="sameAs">PENNSYLVANIA STATE UNIVERSITY-Penn State Beaver</a></div>
       <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Monaca</span>, <span itemprop="addressRegion">Pennsylvania</span></div>
       <div itemprop="areaServed"><span itemtype="http://schema.org/Text">North East</span></div>
       <div itemprop="member">USCAA, Penn State University Athletic Conference</div>
@@ -8530,7 +8530,7 @@
     <meta content="218" itemprop="position" />
     <div class="container" itemprop="item" itemscope="" itemtype="http://schema.org/CollegeOrUniversity">
       <link href="https://www.ncsasports.org/athletic-scholarships/baseball/pennsylvania/pennsylvania-state-university--berks" itemprop="url" />
-      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/pennsylvania/pennsylvania-state-university--berks" itemprop="sameAs">Penn State Berks</a></div>
+      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/pennsylvania/pennsylvania-state-university--berks" itemprop="sameAs">PENNSYLVANIA STATE UNIVERSITY-Penn State Berks</a></div>
       <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Reading</span>, <span itemprop="addressRegion">Pennsylvania</span></div>
       <div itemprop="areaServed"><span itemtype="http://schema.org/Text">North East</span></div>
       <div itemprop="member">United East</div>
@@ -8541,7 +8541,7 @@
     <meta content="219" itemprop="position" />
     <div class="container" itemprop="item" itemscope="" itemtype="http://schema.org/CollegeOrUniversity">
       <link href="https://www.ncsasports.org/athletic-scholarships/baseball/pennsylvania/pennsylvania-state-university--fayette-campus" itemprop="url" />
-      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/pennsylvania/pennsylvania-state-university--fayette-campus" itemprop="sameAs">Penn State Fayette – Eberly Campus</a></div>
+      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/pennsylvania/pennsylvania-state-university--fayette-campus" itemprop="sameAs">PENNSYLVANIA STATE UNIVERSITY Eberly</a></div>
       <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Lemont Furnace</span>, <span itemprop="addressRegion">Pennsylvania</span></div>
       <div itemprop="areaServed"><span itemtype="http://schema.org/Text">North East</span></div>
       <div itemprop="member">PSUAC, USCAA</div>
@@ -8552,7 +8552,7 @@
     <meta content="220" itemprop="position" />
     <div class="container" itemprop="item" itemscope="" itemtype="http://schema.org/CollegeOrUniversity">
       <link href="https://www.ncsasports.org/athletic-scholarships/baseball/pennsylvania/pennsylvania-state-university--harrisburg" itemprop="url" />
-      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/pennsylvania/pennsylvania-state-university--harrisburg" itemprop="sameAs">Penn State Harrisburg</a></div>
+      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/pennsylvania/pennsylvania-state-university--harrisburg" itemprop="sameAs">PENNSYLVANIA STATE UNIVERSITY-Penn State Harrisburg</a></div>
       <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Middletown</span>, <span itemprop="addressRegion">Pennsylvania</span></div>
       <div itemprop="areaServed"><span itemtype="http://schema.org/Text">North East</span></div>
       <div itemprop="member">Capital Athletic Conference</div>
@@ -8662,7 +8662,7 @@
     <meta content="230" itemprop="position" />
     <div class="container" itemprop="item" itemscope="" itemtype="http://schema.org/CollegeOrUniversity">
       <link href="https://www.ncsasports.org/athletic-scholarships/baseball/new-york/rensselaer-polytechnic-institute" itemprop="url" />
-      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/new-york/rensselaer-polytechnic-institute" itemprop="sameAs">Rensselaer Polytechnic Institute – RPI</a></div>
+      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/new-york/rensselaer-polytechnic-institute" itemprop="sameAs">Rensselaer Polytechnic Institute</a></div>
       <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Troy</span>, <span itemprop="addressRegion">New York</span></div>
       <div itemprop="areaServed"><span itemtype="http://schema.org/Text">North East</span></div>
       <div itemprop="member">Liberty League</div>
@@ -8805,7 +8805,7 @@
     <meta content="243" itemprop="position" />
     <div class="container" itemprop="item" itemscope="" itemtype="http://schema.org/CollegeOrUniversity">
       <link href="https://www.ncsasports.org/athletic-scholarships/baseball/new-jersey/rutgers-the-state-university-of-new-jersey--newark" itemprop="url" />
-      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/new-jersey/rutgers-the-state-university-of-new-jersey--newark" itemprop="sameAs">Rutgers University – Newark</a></div>
+      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/new-jersey/rutgers-the-state-university-of-new-jersey--newark" itemprop="sameAs">Rutgers University Newark</a></div>
       <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Newark</span>, <span itemprop="addressRegion">New Jersey</span></div>
       <div itemprop="areaServed"><span itemtype="http://schema.org/Text">North East</span></div>
       <div itemprop="member">New Jersey Athletic Conference; Eastern College Athletic Conference; Eastern Intercollegiate Volleyball Association</div>
@@ -8860,7 +8860,7 @@
     <meta content="248" itemprop="position" />
     <div class="container" itemprop="item" itemscope="" itemtype="http://schema.org/CollegeOrUniversity">
       <link href="https://www.ncsasports.org/athletic-scholarships/baseball/pennsylvania/saint-vincent-college" itemprop="url" />
-      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/pennsylvania/saint-vincent-college" itemprop="sameAs">Saint Vincent College – Pennsylvania</a></div>
+      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/pennsylvania/saint-vincent-college" itemprop="sameAs">Saint Vincent College</a></div>
       <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Latrobe</span>, <span itemprop="addressRegion">Pennsylvania</span></div>
       <div itemprop="areaServed"><span itemtype="http://schema.org/Text">North East</span></div>
       <div itemprop="member">Presidents' Athletic Conference</div>
@@ -9003,7 +9003,7 @@
     <meta content="261" itemprop="position" />
     <div class="container" itemprop="item" itemscope="" itemtype="http://schema.org/CollegeOrUniversity">
       <link href="https://www.ncsasports.org/athletic-scholarships/baseball/new-york/st-john-fisher-college" itemprop="url" />
-      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/new-york/st-john-fisher-college" itemprop="sameAs">St. John Fisher College</a></div>
+      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/new-york/st-john-fisher-college" itemprop="sameAs">SAINT JOHN FISHER COLLEGE</a></div>
       <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Rochester</span>, <span itemprop="addressRegion">New York</span></div>
       <div itemprop="areaServed"><span itemtype="http://schema.org/Text">North East</span></div>
       <div itemprop="member">Empire 8 Athletic Conference</div>
@@ -9014,7 +9014,7 @@
     <meta content="262" itemprop="position" />
     <div class="container" itemprop="item" itemscope="" itemtype="http://schema.org/CollegeOrUniversity">
       <link href="https://www.ncsasports.org/athletic-scholarships/baseball/new-york/st-josephs-college-new-york--brooklyn" itemprop="url" />
-      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/new-york/st-josephs-college-new-york--brooklyn" itemprop="sameAs">St. Joseph's College – Brooklyn</a></div>
+      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/new-york/st-josephs-college-new-york--brooklyn" itemprop="sameAs">St. Joseph's College Brooklyn</a></div>
       <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Brooklyn</span>, <span itemprop="addressRegion">New York</span></div>
       <div itemprop="areaServed"><span itemtype="http://schema.org/Text">North East</span></div>
       <div itemprop="member">Skyline Conference (Division III)</div>
@@ -9025,7 +9025,7 @@
     <meta content="263" itemprop="position" />
     <div class="container" itemprop="item" itemscope="" itemtype="http://schema.org/CollegeOrUniversity">
       <link href="https://www.ncsasports.org/athletic-scholarships/baseball/new-york/st-josephs-college--long-island" itemprop="url" />
-      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/new-york/st-josephs-college--long-island" itemprop="sameAs">St. Joseph's College – Long Island</a></div>
+      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/new-york/st-josephs-college--long-island" itemprop="sameAs">ST. JOSEPH'S COLLEGE LONG ISLAND</a></div>
       <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Patchogue</span>, <span itemprop="addressRegion">New York</span></div>
       <div itemprop="areaServed"><span itemtype="http://schema.org/Text">North East</span></div>
       <div itemprop="member">Skyline Conference, Eastern College Athletic Conference</div>
@@ -9168,7 +9168,7 @@
     <meta content="276" itemprop="position" />
     <div class="container" itemprop="item" itemscope="" itemtype="http://schema.org/CollegeOrUniversity">
       <link href="https://www.ncsasports.org/athletic-scholarships/baseball/new-york/suny-college-at-oneonta" itemprop="url" />
-      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/new-york/suny-college-at-oneonta" itemprop="sameAs">SUNY College at Oneonta</a></div>
+      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/new-york/suny-college-at-oneonta" itemprop="sameAs">SUNY ONEONTA</a></div>
       <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Oneonta</span>, <span itemprop="addressRegion">New York</span></div>
       <div itemprop="areaServed"><span itemtype="http://schema.org/Text">North East</span></div>
       <div itemprop="member">State University of New York Athletic Conference</div>
@@ -9179,7 +9179,7 @@
     <meta content="277" itemprop="position" />
     <div class="container" itemprop="item" itemscope="" itemtype="http://schema.org/CollegeOrUniversity">
       <link href="https://www.ncsasports.org/athletic-scholarships/baseball/new-york/suny-college-of-at--cobleskill" itemprop="url" />
-      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/new-york/suny-college-of-at--cobleskill" itemprop="sameAs">SUNY College of Agriculture &amp; Technology at Cobleskill</a></div>
+      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/new-york/suny-college-of-at--cobleskill" itemprop="sameAs">SUNY COLLEGE OF AGRICULTURE AND TECHNOLOGY AT COBLESKILL</a></div>
       <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Cobleskill</span>, <span itemprop="addressRegion">New York</span></div>
       <div itemprop="areaServed"><span itemtype="http://schema.org/Text">North East</span></div>
       <div itemprop="member">North Eastern Athletic Conference</div>
@@ -9201,7 +9201,7 @@
     <meta content="279" itemprop="position" />
     <div class="container" itemprop="item" itemscope="" itemtype="http://schema.org/CollegeOrUniversity">
       <link href="https://www.ncsasports.org/athletic-scholarships/baseball/new-york/suny--farmingdale" itemprop="url" />
-      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/new-york/suny--farmingdale" itemprop="sameAs">SUNY Farmingdale State College</a></div>
+      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/new-york/suny--farmingdale" itemprop="sameAs">Farmingdale State College</a></div>
       <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Farmingdale</span>, <span itemprop="addressRegion">New York</span></div>
       <div itemprop="areaServed"><span itemtype="http://schema.org/Text">North East</span></div>
       <div itemprop="member">Skyline Conference</div>
@@ -9212,7 +9212,7 @@
     <meta content="280" itemprop="position" />
     <div class="container" itemprop="item" itemscope="" itemtype="http://schema.org/CollegeOrUniversity">
       <link href="https://www.ncsasports.org/athletic-scholarships/baseball/new-york/suny--fredonia" itemprop="url" />
-      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/new-york/suny--fredonia" itemprop="sameAs">SUNY Fredonia</a></div>
+      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/new-york/suny--fredonia" itemprop="sameAs">SUNY at Fredonia</a></div>
       <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Fredonia</span>, <span itemprop="addressRegion">New York</span></div>
       <div itemprop="areaServed"><span itemtype="http://schema.org/Text">North East</span></div>
       <div itemprop="member">State University of New York Athletic Conference</div>
@@ -9234,7 +9234,7 @@
     <meta content="282" itemprop="position" />
     <div class="container" itemprop="item" itemscope="" itemtype="http://schema.org/CollegeOrUniversity">
       <link href="https://www.ncsasports.org/athletic-scholarships/baseball/new-york/suny--new-paltz" itemprop="url" />
-      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/new-york/suny--new-paltz" itemprop="sameAs">SUNY New Paltz</a></div>
+      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/new-york/suny--new-paltz" itemprop="sameAs">STATE UNIVERSITY OF NEW YORK AT NEW PALTZ</a></div>
       <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">New Paltz</span>, <span itemprop="addressRegion">New York</span></div>
       <div itemprop="areaServed"><span itemtype="http://schema.org/Text">North East</span></div>
       <div itemprop="member">State University of New York Athletic Conference</div>
@@ -9267,7 +9267,7 @@
     <meta content="285" itemprop="position" />
     <div class="container" itemprop="item" itemscope="" itemtype="http://schema.org/CollegeOrUniversity">
       <link href="https://www.ncsasports.org/athletic-scholarships/baseball/new-york/suny--purchase-college" itemprop="url" />
-      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/new-york/suny--purchase-college" itemprop="sameAs">SUNY Purchase College</a></div>
+      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/new-york/suny--purchase-college" itemprop="sameAs">SUNY at Purchase College</a></div>
       <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Purchase</span>, <span itemprop="addressRegion">New York</span></div>
       <div itemprop="areaServed"><span itemtype="http://schema.org/Text">North East</span></div>
       <div itemprop="member">Skyline Conference</div>
@@ -9410,7 +9410,7 @@
     <meta content="298" itemprop="position" />
     <div class="container" itemprop="item" itemscope="" itemtype="http://schema.org/CollegeOrUniversity">
       <link href="https://www.ncsasports.org/athletic-scholarships/baseball/new-york/union-college-ny" itemprop="url" />
-      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/new-york/union-college-ny" itemprop="sameAs">Union College – New York</a></div>
+      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/new-york/union-college-ny" itemprop="sameAs">Union College NY</a></div>
       <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Schenectady</span>, <span itemprop="addressRegion">New York</span></div>
       <div itemprop="areaServed"><span itemtype="http://schema.org/Text">North East</span></div>
       <div itemprop="member">Liberty League</div>
@@ -9861,7 +9861,7 @@
     <meta content="339" itemprop="position" />
     <div class="container" itemprop="item" itemscope="" itemtype="http://schema.org/CollegeOrUniversity">
       <link href="https://www.ncsasports.org/athletic-scholarships/baseball/virginia/washington-and-lee-university" itemprop="url" />
-      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/virginia/washington-and-lee-university" itemprop="sameAs">Washington &amp; Lee University</a></div>
+      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/virginia/washington-and-lee-university" itemprop="sameAs">Washington and Lee University</a></div>
       <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Lexington</span>, <span itemprop="addressRegion">Virginia</span></div>
       <div itemprop="areaServed"><span itemtype="http://schema.org/Text">Mid East</span></div>
       <div itemprop="member">Old Dominion Athletic Conference</div>
@@ -9993,7 +9993,7 @@
     <meta content="351" itemprop="position" />
     <div class="container" itemprop="item" itemscope="" itemtype="http://schema.org/CollegeOrUniversity">
       <link href="https://www.ncsasports.org/athletic-scholarships/baseball/pennsylvania/westminster-college-pennsylvania" itemprop="url" />
-      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/pennsylvania/westminster-college-pennsylvania" itemprop="sameAs">Westminster College – Pennsylvania</a></div>
+      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/pennsylvania/westminster-college-pennsylvania" itemprop="sameAs">WESTMINSTER COLLEGE PENNSYLVANIA</a></div>
       <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">New Wilmington</span>, <span itemprop="addressRegion">Pennsylvania</span></div>
       <div itemprop="areaServed"><span itemtype="http://schema.org/Text">North East</span></div>
       <div itemprop="member">Presidents' Athletic Conference</div>
@@ -10316,7 +10316,7 @@
     <meta content="11" itemprop="position" />
     <div class="container" itemprop="item" itemscope="" itemtype="http://schema.org/CollegeOrUniversity">
       <link href="https://www.ncsasports.org/athletic-scholarships/baseball/kansas/bethany-college-ks" itemprop="url" />
-      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/kansas/bethany-college-ks" itemprop="sameAs">Bethany College – Kansas</a></div>
+      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/kansas/bethany-college-ks" itemprop="sameAs">Bethany College Kansas</a></div>
       <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Lindsborg</span>, <span itemprop="addressRegion">Kansas</span></div>
       <div itemprop="areaServed"><span itemtype="http://schema.org/Text">Mid West</span></div>
       <div itemprop="member">Kansas Collegiate Athletic Conference</div>
@@ -10404,7 +10404,7 @@
     <meta content="19" itemprop="position" />
     <div class="container" itemprop="item" itemscope="" itemtype="http://schema.org/CollegeOrUniversity">
       <link href="https://www.ncsasports.org/athletic-scholarships/baseball/tennessee/bryan-college" itemprop="url" />
-      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/tennessee/bryan-college" itemprop="sameAs">Bryan College – Tennessee</a></div>
+      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/tennessee/bryan-college" itemprop="sameAs">Bryan College</a></div>
       <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Dayton</span>, <span itemprop="addressRegion">Tennessee</span></div>
       <div itemprop="areaServed"><span itemtype="http://schema.org/Text">Mid East</span></div>
       <div itemprop="member">Appalachian Athletic Conference</div>
@@ -10415,7 +10415,7 @@
     <meta content="20" itemprop="position" />
     <div class="container" itemprop="item" itemscope="" itemtype="http://schema.org/CollegeOrUniversity">
       <link href="https://www.ncsasports.org/athletic-scholarships/baseball/oregon/northwest-christian-university" itemprop="url" />
-      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/oregon/northwest-christian-university" itemprop="sameAs">Bushnell University (formerly Northwest Christian University)</a></div>
+      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/oregon/northwest-christian-university" itemprop="sameAs">Bushnell University</a></div>
       <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Eugene</span>, <span itemprop="addressRegion">Oregon</span></div>
       <div itemprop="areaServed"><span itemtype="http://schema.org/Text">West Coast</span></div>
       <div itemprop="member">Cascade Collegiate Conference</div>
@@ -10426,7 +10426,7 @@
     <meta content="21" itemprop="position" />
     <div class="container" itemprop="item" itemscope="" itemtype="http://schema.org/CollegeOrUniversity">
       <link href="https://www.ncsasports.org/athletic-scholarships/baseball/indiana/calumet-college-of-st-joseph" itemprop="url" />
-      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/indiana/calumet-college-of-st-joseph" itemprop="sameAs">Calumet College of St. Joseph</a></div>
+      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/indiana/calumet-college-of-st-joseph" itemprop="sameAs">Calumet College of Saint Joseph</a></div>
       <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Whiting</span>, <span itemprop="addressRegion">Indiana</span></div>
       <div itemprop="areaServed"><span itemtype="http://schema.org/Text">Great Lakes</span></div>
       <div itemprop="member">Chicagoland Collegiate Athletic Conference</div>
@@ -11482,7 +11482,7 @@
     <meta content="117" itemprop="position" />
     <div class="container" itemprop="item" itemscope="" itemtype="http://schema.org/CollegeOrUniversity">
       <link href="https://www.ncsasports.org/athletic-scholarships/baseball/pennsylvania/pennsylvania-state-university--schuylkill" itemprop="url" />
-      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/pennsylvania/pennsylvania-state-university--schuylkill" itemprop="sameAs">Penn State Schuylkill</a></div>
+      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/pennsylvania/pennsylvania-state-university--schuylkill" itemprop="sameAs">PENNSYLVANIA STATE UNIVERSITY-Penn State Schuylkill</a></div>
       <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Schuylkill Haven</span>, <span itemprop="addressRegion">Pennsylvania</span></div>
       <div itemprop="areaServed"><span itemtype="http://schema.org/Text">North East</span></div>
       <div itemprop="member">Penn State University Athletic Conference</div>
@@ -12365,7 +12365,7 @@
     <meta content="8" itemprop="position" />
     <div class="container" itemprop="item" itemscope="" itemtype="http://schema.org/CollegeOrUniversity">
       <link href="https://www.ncsasports.org/athletic-scholarships/baseball/indiana/ancilla-college" itemprop="url" />
-      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/indiana/ancilla-college" itemprop="sameAs">Ancilla College of Marian University</a></div>
+      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/indiana/ancilla-college" itemprop="sameAs">Ancilla College</a></div>
       <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Donaldson</span>, <span itemprop="addressRegion">Indiana</span></div>
       <div itemprop="areaServed"><span itemtype="http://schema.org/Text">Great Lakes</span></div>
       <div itemprop="member">MCCAA</div>
@@ -12530,7 +12530,7 @@
     <meta content="23" itemprop="position" />
     <div class="container" itemprop="item" itemscope="" itemtype="http://schema.org/CollegeOrUniversity">
       <link href="https://www.ncsasports.org/athletic-scholarships/baseball/illinois/black-hawk-college--quad-cities" itemprop="url" />
-      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/illinois/black-hawk-college--quad-cities" itemprop="sameAs">Black Hawk College – Quad Cities</a></div>
+      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/illinois/black-hawk-college--quad-cities" itemprop="sameAs">Black Hawk College</a></div>
       <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Moline</span>, <span itemprop="addressRegion">Illinois</span></div>
       <div itemprop="areaServed"><span itemtype="http://schema.org/Text">Great Lakes</span></div>
       <div itemprop="member">Arrowhead Conference</div>
@@ -12596,7 +12596,7 @@
     <meta content="29" itemprop="position" />
     <div class="container" itemprop="item" itemscope="" itemtype="http://schema.org/CollegeOrUniversity">
       <link href="https://www.ncsasports.org/athletic-scholarships/baseball/wisconsin/bryant--stratton-college-wi" itemprop="url" />
-      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/wisconsin/bryant--stratton-college-wi" itemprop="sameAs">Bryant &amp; Stratton College – Milwaukee</a></div>
+      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/wisconsin/bryant--stratton-college-wi" itemprop="sameAs">Bryant &amp; Stratton College Milwaukee</a></div>
       <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Milwaukee</span>, <span itemprop="addressRegion">Wisconsin</span></div>
       <div itemprop="areaServed"><span itemtype="http://schema.org/Text">Great Lakes</span></div>
       <div itemprop="member">Independent</div>
@@ -12607,7 +12607,7 @@
     <meta content="30" itemprop="position" />
     <div class="container" itemprop="item" itemscope="" itemtype="http://schema.org/CollegeOrUniversity">
       <link href="https://www.ncsasports.org/athletic-scholarships/baseball/virginia/bryant--stratton-college-va" itemprop="url" />
-      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/virginia/bryant--stratton-college-va" itemprop="sameAs">Bryant &amp; Stratton College – Virginia</a></div>
+      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/virginia/bryant--stratton-college-va" itemprop="sameAs">Bryant &amp; Stratton College Virginia Beach</a></div>
       <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Virginia Beach</span>, <span itemprop="addressRegion">Virginia</span></div>
       <div itemprop="areaServed"><span itemtype="http://schema.org/Text">Mid East</span></div>
       <div itemprop="member">NJCAA Region 10</div>
@@ -13280,19 +13280,6 @@
       <link href="https://www.ncsasports.org/athletic-scholarships/baseball/pennsylvania/delaware-county-community-college" itemprop="url" />
       <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/pennsylvania/delaware-county-community-college" itemprop="sameAs">Delaware County Community College</a></div>
       <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Media</span>, <span itemprop="addressRegion">Pennsylvania</span></div>
-      <div itemprop="areaServed"><span itemtype="http://schema.org/Text">North East</span></div>
-      <div itemprop="member">Eastern Pennsylvania Athletic Conference</div>
-      <div>JC</div>
-    </div>
-  </div>
-  <div class="row" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
-    <meta content="92" itemprop="position" />
-    <div class="container" itemprop="item" itemscope="" itemtype="http://schema.org/CollegeOrUniversity">
-      <link href="https://www.ncsasports.org/athletic-scholarships/baseball/delaware/delaware-technical--community-college--stanton-campus" itemprop="url" />
-      <div itemprop="name">
-        <a href="https://www.ncsasports.org/athletic-scholarships/baseball/delaware/delaware-technical--community-college--stanton-campus" itemprop="sameAs">Delaware Technical &amp; Community College — Stanton Campus</a>
-      </div>
-      <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Newark</span>, <span itemprop="addressRegion">Delaware</span></div>
       <div itemprop="areaServed"><span itemtype="http://schema.org/Text">North East</span></div>
       <div itemprop="member">Eastern Pennsylvania Athletic Conference</div>
       <div>JC</div>
@@ -14536,7 +14523,7 @@
     <meta content="205" itemprop="position" />
     <div class="container" itemprop="item" itemscope="" itemtype="http://schema.org/CollegeOrUniversity">
       <link href="https://www.ncsasports.org/athletic-scholarships/baseball/new-jersey/middlesex-county-college" itemprop="url" />
-      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/new-jersey/middlesex-county-college" itemprop="sameAs">Middlesex College</a></div>
+      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/new-jersey/middlesex-county-college" itemprop="sameAs">Middlesex County College</a></div>
       <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Edison</span>, <span itemprop="addressRegion">New Jersey</span></div>
       <div itemprop="areaServed"><span itemtype="http://schema.org/Text">North East</span></div>
       <div itemprop="member">Garden State Athletic Conference</div>
@@ -14661,7 +14648,7 @@
     <meta content="216" itemprop="position" />
     <div class="container" itemprop="item" itemscope="" itemtype="http://schema.org/CollegeOrUniversity">
       <link href="https://www.ncsasports.org/athletic-scholarships/baseball/new-york/monroe-college" itemprop="url" />
-      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/new-york/monroe-college" itemprop="sameAs">Monroe College – New Rochelle</a></div>
+      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/new-york/monroe-college" itemprop="sameAs">Monroe College</a></div>
       <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">New Rochelle</span>, <span itemprop="addressRegion">New York</span></div>
       <div itemprop="areaServed"><span itemtype="http://schema.org/Text">North East</span></div>
       <div itemprop="member">NJCAA Region 15</div>
@@ -15453,7 +15440,7 @@
     <meta content="288" itemprop="position" />
     <div class="container" itemprop="item" itemscope="" itemtype="http://schema.org/CollegeOrUniversity">
       <link href="https://www.ncsasports.org/athletic-scholarships/baseball/new-jersey/cumberland-county-college" itemprop="url" />
-      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/new-jersey/cumberland-county-college" itemprop="sameAs">Rowan College – South Jersey (Formerly Cumberland County College)</a></div>
+      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/new-jersey/cumberland-county-college" itemprop="sameAs">Rowan College at Cumberland County</a></div>
       <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Vineland</span>, <span itemprop="addressRegion">New Jersey</span></div>
       <div itemprop="areaServed"><span itemtype="http://schema.org/Text">North East</span></div>
       <div itemprop="member">Garden State Athletic Conference</div>
@@ -15464,7 +15451,7 @@
     <meta content="289" itemprop="position" />
     <div class="container" itemprop="item" itemscope="" itemtype="http://schema.org/CollegeOrUniversity">
       <link href="https://www.ncsasports.org/athletic-scholarships/baseball/new-jersey/gloucester-county-college" itemprop="url" />
-      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/new-jersey/gloucester-county-college" itemprop="sameAs">Rowan College – South Jersey (Gloucester)</a></div>
+      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/new-jersey/gloucester-county-college" itemprop="sameAs">ROWAN COLLEGE AT GLOUCESTER COUNTY</a></div>
       <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Sewell</span>, <span itemprop="addressRegion">New Jersey</span></div>
       <div itemprop="areaServed"><span itemtype="http://schema.org/Text">North East</span></div>
       <div itemprop="member">Garden State Athletic Conference</div>
@@ -15970,7 +15957,7 @@
     <meta content="335" itemprop="position" />
     <div class="container" itemprop="item" itemscope="" itemtype="http://schema.org/CollegeOrUniversity">
       <link href="https://www.ncsasports.org/athletic-scholarships/baseball/new-york/adirondack-community-college" itemprop="url" />
-      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/new-york/adirondack-community-college" itemprop="sameAs">SUNY Adirondack Community College</a></div>
+      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/new-york/adirondack-community-college" itemprop="sameAs">Adirondack Community College</a></div>
       <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Queensbury</span>, <span itemprop="addressRegion">New York</span></div>
       <div itemprop="areaServed"><span itemtype="http://schema.org/Text">North East</span></div>
       <div itemprop="member">Mountain-Valley Conference</div>
@@ -15992,7 +15979,7 @@
     <meta content="337" itemprop="position" />
     <div class="container" itemprop="item" itemscope="" itemtype="http://schema.org/CollegeOrUniversity">
       <link href="https://www.ncsasports.org/athletic-scholarships/baseball/new-york/cayuga-county-community-college" itemprop="url" />
-      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/new-york/cayuga-county-community-college" itemprop="sameAs">SUNY Cayuga Community College</a></div>
+      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/new-york/cayuga-county-community-college" itemprop="sameAs">CAYUGA COUNTY COMMUNITY COLLEGE</a></div>
       <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Auburn</span>, <span itemprop="addressRegion">New York</span></div>
       <div itemprop="areaServed"><span itemtype="http://schema.org/Text">North East</span></div>
       <div itemprop="member">Mid-State Athletic Conference</div>
@@ -16003,7 +15990,7 @@
     <meta content="338" itemprop="position" />
     <div class="container" itemprop="item" itemscope="" itemtype="http://schema.org/CollegeOrUniversity">
       <link href="https://www.ncsasports.org/athletic-scholarships/baseball/new-york/dutchess-community-college" itemprop="url" />
-      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/new-york/dutchess-community-college" itemprop="sameAs">SUNY Dutchess Community College</a></div>
+      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/new-york/dutchess-community-college" itemprop="sameAs">Dutchess Community College</a></div>
       <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Poughkeepsie</span>, <span itemprop="addressRegion">New York</span></div>
       <div itemprop="areaServed"><span itemtype="http://schema.org/Text">North East</span></div>
       <div itemprop="member">Mid-Hudson Athletic Conference</div>
@@ -16014,7 +16001,7 @@
     <meta content="339" itemprop="position" />
     <div class="container" itemprop="item" itemscope="" itemtype="http://schema.org/CollegeOrUniversity">
       <link href="https://www.ncsasports.org/athletic-scholarships/baseball/new-york/erie-community-college--north-campus" itemprop="url" />
-      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/new-york/erie-community-college--north-campus" itemprop="sameAs">SUNY Erie Community College</a></div>
+      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/new-york/erie-community-college--north-campus" itemprop="sameAs">Erie Community College</a></div>
       <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Buffalo</span>, <span itemprop="addressRegion">New York</span></div>
       <div itemprop="areaServed"><span itemtype="http://schema.org/Text">North East</span></div>
       <div itemprop="member">NJCAA Region 3</div>
@@ -16025,7 +16012,7 @@
     <meta content="340" itemprop="position" />
     <div class="container" itemprop="item" itemscope="" itemtype="http://schema.org/CollegeOrUniversity">
       <link href="https://www.ncsasports.org/athletic-scholarships/baseball/new-york/fultonmontgomery-community-college" itemprop="url" />
-      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/new-york/fultonmontgomery-community-college" itemprop="sameAs">SUNY Fulton-Montgomery Community College</a></div>
+      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/new-york/fultonmontgomery-community-college" itemprop="sameAs">Fulton-Montgomery Community College</a></div>
       <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Johnstown</span>, <span itemprop="addressRegion">New York</span></div>
       <div itemprop="areaServed"><span itemtype="http://schema.org/Text">North East</span></div>
       <div itemprop="member">NJCAA Region 3</div>
@@ -16036,7 +16023,7 @@
     <meta content="341" itemprop="position" />
     <div class="container" itemprop="item" itemscope="" itemtype="http://schema.org/CollegeOrUniversity">
       <link href="https://www.ncsasports.org/athletic-scholarships/baseball/new-york/genesee-community-college" itemprop="url" />
-      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/new-york/genesee-community-college" itemprop="sameAs">SUNY Genesee Community College</a></div>
+      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/new-york/genesee-community-college" itemprop="sameAs">Genesee Community College</a></div>
       <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Batavia</span>, <span itemprop="addressRegion">New York</span></div>
       <div itemprop="areaServed"><span itemtype="http://schema.org/Text">North East</span></div>
       <div itemprop="member">Western New York Conference</div>
@@ -16047,7 +16034,7 @@
     <meta content="342" itemprop="position" />
     <div class="container" itemprop="item" itemscope="" itemtype="http://schema.org/CollegeOrUniversity">
       <link href="https://www.ncsasports.org/athletic-scholarships/baseball/new-york/herkimer-county-community-college" itemprop="url" />
-      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/new-york/herkimer-county-community-college" itemprop="sameAs">SUNY Herkimer County Community College</a></div>
+      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/new-york/herkimer-county-community-college" itemprop="sameAs">Herkimer County Community College</a></div>
       <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Herkimer</span>, <span itemprop="addressRegion">New York</span></div>
       <div itemprop="areaServed"><span itemtype="http://schema.org/Text">North East</span></div>
       <div itemprop="member">Mountain Valley Conference</div>
@@ -16058,7 +16045,7 @@
     <meta content="343" itemprop="position" />
     <div class="container" itemprop="item" itemscope="" itemtype="http://schema.org/CollegeOrUniversity">
       <link href="https://www.ncsasports.org/athletic-scholarships/baseball/new-york/hudson-valley-community-college" itemprop="url" />
-      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/new-york/hudson-valley-community-college" itemprop="sameAs">SUNY Hudson Valley Community College</a></div>
+      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/new-york/hudson-valley-community-college" itemprop="sameAs">Hudson Valley Community College</a></div>
       <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Troy</span>, <span itemprop="addressRegion">New York</span></div>
       <div itemprop="areaServed"><span itemtype="http://schema.org/Text">North East</span></div>
       <div itemprop="member">NJCAA Region 3</div>
@@ -16069,7 +16056,7 @@
     <meta content="344" itemprop="position" />
     <div class="container" itemprop="item" itemscope="" itemtype="http://schema.org/CollegeOrUniversity">
       <link href="https://www.ncsasports.org/athletic-scholarships/baseball/new-york/jamestown-community-college" itemprop="url" />
-      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/new-york/jamestown-community-college" itemprop="sameAs">SUNY Jamestown Community College</a></div>
+      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/new-york/jamestown-community-college" itemprop="sameAs">Jamestown Community College</a></div>
       <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Jamestown</span>, <span itemprop="addressRegion">New York</span></div>
       <div itemprop="areaServed"><span itemtype="http://schema.org/Text">North East</span></div>
       <div itemprop="member">Western New York Athletic Conference</div>
@@ -16080,7 +16067,7 @@
     <meta content="345" itemprop="position" />
     <div class="container" itemprop="item" itemscope="" itemtype="http://schema.org/CollegeOrUniversity">
       <link href="https://www.ncsasports.org/athletic-scholarships/baseball/new-york/jefferson-community-college-new-york" itemprop="url" />
-      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/new-york/jefferson-community-college-new-york" itemprop="sameAs">SUNY Jefferson Community College</a></div>
+      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/new-york/jefferson-community-college-new-york" itemprop="sameAs">Jefferson Community College</a></div>
       <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Watertown</span>, <span itemprop="addressRegion">New York</span></div>
       <div itemprop="areaServed"><span itemtype="http://schema.org/Text">North East</span></div>
       <div itemprop="member">NJCAA Region 3</div>
@@ -16091,7 +16078,7 @@
     <meta content="346" itemprop="position" />
     <div class="container" itemprop="item" itemscope="" itemtype="http://schema.org/CollegeOrUniversity">
       <link href="https://www.ncsasports.org/athletic-scholarships/baseball/new-york/suny-mohawk-valley-community-college" itemprop="url" />
-      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/new-york/suny-mohawk-valley-community-college" itemprop="sameAs">SUNY Mohawk Valley Community College</a></div>
+      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/new-york/suny-mohawk-valley-community-college" itemprop="sameAs">Mohawk Valley Community College</a></div>
       <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Utica</span>, <span itemprop="addressRegion">New York</span></div>
       <div itemprop="areaServed"><span itemtype="http://schema.org/Text">North East</span></div>
       <div itemprop="member">NJCAA Region 3</div>
@@ -16102,7 +16089,7 @@
     <meta content="347" itemprop="position" />
     <div class="container" itemprop="item" itemscope="" itemtype="http://schema.org/CollegeOrUniversity">
       <link href="https://www.ncsasports.org/athletic-scholarships/baseball/new-york/monroe-community-college" itemprop="url" />
-      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/new-york/monroe-community-college" itemprop="sameAs">SUNY Monroe Community College</a></div>
+      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/new-york/monroe-community-college" itemprop="sameAs">Monroe Community College</a></div>
       <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Rochester</span>, <span itemprop="addressRegion">New York</span></div>
       <div itemprop="areaServed"><span itemtype="http://schema.org/Text">North East</span></div>
       <div itemprop="member">NJCAA Region 3</div>
@@ -16113,7 +16100,7 @@
     <meta content="348" itemprop="position" />
     <div class="container" itemprop="item" itemscope="" itemtype="http://schema.org/CollegeOrUniversity">
       <link href="https://www.ncsasports.org/athletic-scholarships/baseball/new-york/niagara-county-community-college" itemprop="url" />
-      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/new-york/niagara-county-community-college" itemprop="sameAs">SUNY Niagara County Community College</a></div>
+      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/new-york/niagara-county-community-college" itemprop="sameAs">Niagara County Community College</a></div>
       <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Sanborn</span>, <span itemprop="addressRegion">New York</span></div>
       <div itemprop="areaServed"><span itemtype="http://schema.org/Text">North East</span></div>
       <div itemprop="member">Western New York Conference</div>
@@ -16135,7 +16122,7 @@
     <meta content="350" itemprop="position" />
     <div class="container" itemprop="item" itemscope="" itemtype="http://schema.org/CollegeOrUniversity">
       <link href="https://www.ncsasports.org/athletic-scholarships/baseball/new-york/rockland-community-college" itemprop="url" />
-      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/new-york/rockland-community-college" itemprop="sameAs">SUNY Rockland Community College</a></div>
+      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/new-york/rockland-community-college" itemprop="sameAs">Rockland Community College</a></div>
       <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Suffern</span>, <span itemprop="addressRegion">New York</span></div>
       <div itemprop="areaServed"><span itemtype="http://schema.org/Text">North East</span></div>
       <div itemprop="member">Mid-Hudson Conference</div>
@@ -16146,7 +16133,7 @@
     <meta content="351" itemprop="position" />
     <div class="container" itemprop="item" itemscope="" itemtype="http://schema.org/CollegeOrUniversity">
       <link href="https://www.ncsasports.org/athletic-scholarships/baseball/new-york/schenectady-county-community-college" itemprop="url" />
-      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/new-york/schenectady-county-community-college" itemprop="sameAs">SUNY Schenectady County Community College</a></div>
+      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/new-york/schenectady-county-community-college" itemprop="sameAs">Schenectady County Community College</a></div>
       <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Schenectady</span>, <span itemprop="addressRegion">New York</span></div>
       <div itemprop="areaServed"><span itemtype="http://schema.org/Text">North East</span></div>
       <div itemprop="member">Mountain Valley Conference</div>
@@ -16157,7 +16144,7 @@
     <meta content="352" itemprop="position" />
     <div class="container" itemprop="item" itemscope="" itemtype="http://schema.org/CollegeOrUniversity">
       <link href="https://www.ncsasports.org/athletic-scholarships/baseball/new-york/sullivan-county-community-college" itemprop="url" />
-      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/new-york/sullivan-county-community-college" itemprop="sameAs">SUNY Sullivan County Community College</a></div>
+      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/new-york/sullivan-county-community-college" itemprop="sameAs">Sullivan County Community College</a></div>
       <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Loch Sheldrake</span>, <span itemprop="addressRegion">New York</span></div>
       <div itemprop="areaServed"><span itemtype="http://schema.org/Text">North East</span></div>
       <div itemprop="member">Mid-Hudson Conference</div>
@@ -16168,7 +16155,7 @@
     <meta content="353" itemprop="position" />
     <div class="container" itemprop="item" itemscope="" itemtype="http://schema.org/CollegeOrUniversity">
       <link href="https://www.ncsasports.org/athletic-scholarships/baseball/new-york/tompkinscortland-community-college" itemprop="url" />
-      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/new-york/tompkinscortland-community-college" itemprop="sameAs">SUNY Tompkins Cortland Community College</a></div>
+      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/new-york/tompkinscortland-community-college" itemprop="sameAs">Tompkins Cortland Community College</a></div>
       <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Dryden</span>, <span itemprop="addressRegion">New York</span></div>
       <div itemprop="areaServed"><span itemtype="http://schema.org/Text">North East</span></div>
       <div itemprop="member">Mid-State Athletic Conference</div>
@@ -16257,7 +16244,7 @@
     <div class="container" itemprop="item" itemscope="" itemtype="http://schema.org/CollegeOrUniversity">
       <link href="https://www.ncsasports.org/athletic-scholarships/baseball/maryland/the-community-college-of-baltimore-county--catonsville-campus1" itemprop="url" />
       <div itemprop="name">
-        <a href="https://www.ncsasports.org/athletic-scholarships/baseball/maryland/the-community-college-of-baltimore-county--catonsville-campus1" itemprop="sameAs">The Community College of Baltimore County – Catonsville Campus</a>
+        <a href="https://www.ncsasports.org/athletic-scholarships/baseball/maryland/the-community-college-of-baltimore-county--catonsville-campus1" itemprop="sameAs">Community College of Baltimore County</a>
       </div>
       <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Baltimore</span>, <span itemprop="addressRegion">Maryland</span></div>
       <div itemprop="areaServed"><span itemtype="http://schema.org/Text">North East</span></div>
@@ -16524,7 +16511,7 @@
     <meta content="385" itemprop="position" />
     <div class="container" itemprop="item" itemscope="" itemtype="http://schema.org/CollegeOrUniversity">
       <link href="https://www.ncsasports.org/athletic-scholarships/baseball/west-virginia/potomac-state-college-of-west-virginia-university" itemprop="url" />
-      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/west-virginia/potomac-state-college-of-west-virginia-university" itemprop="sameAs">West Virginia University Potomac State College</a></div>
+      <div itemprop="name"><a href="https://www.ncsasports.org/athletic-scholarships/baseball/west-virginia/potomac-state-college-of-west-virginia-university" itemprop="sameAs">POTOMAC STATE COLLEGE OF WEST VIRGINIA UNIVERSITY</a></div>
       <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Keyser</span>, <span itemprop="addressRegion">West Virginia</span></div>
       <div itemprop="areaServed"><span itemtype="http://schema.org/Text">Mid East</span></div>
       <div itemprop="member">NJCAA Region 20</div>
