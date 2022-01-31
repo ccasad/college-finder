@@ -1,0 +1,1149 @@
+ipeds_id,name,organization,city,state,longitude,latitude,web_address
+101189,Faulkner University,NAIA,Montgomery,AL,-86.21641,32.384181,www.faulkner.edu/
+102270,Stillman College,NAIA,Tuscaloosa,AL,-87.585278,33.200006,stillman.edu/
+102298,Talladega College,NAIA,Talladega,AL,-86.112704,33.433472,www.talladega.edu/
+101693,University of Mobile,NAIA,Mobile,AL,-88.128934,30.793247,www.umobile.edu/
+106713,Central Baptist College,NAIA,Conway,AR,-92.445021,35.083838,www.cbc.edu/
+106810,Crowley's Ridge College,NAIA,Paragould,AR,-90.584395,36.064845,www.crc.edu/
+106342,Lyon College,NAIA,Batesville,AR,-91.625354,35.777619,www.lyon.edu/
+107877,Williams Baptist University,NAIA,Walnut Ridge,AR,-90.940277,36.125676,williamsbaptistuniversity.com/
+105899,Arizona Christian University,NAIA,Glendale,AZ,-112.181776,33.622952,arizonachristian.edu/
+464226,Ottawa University-Surprise,NAIA,Surprise,AZ,-112.368233,33.628923,www.ottawa.edu/ouaz/home/
+120537,Hope International University,NAIA,Fullerton,CA,-117.88573,33.87616,www.hiu.edu/
+117627,La Sierra University,NAIA,Riverside,CA,-117.500054,33.910704,lasierra.edu/
+118541,Marymount California University,NAIA,Rancho Palos Verdes,CA,-118.333371,33.734887,www.marymountcalifornia.edu/
+118693,Menlo College,NAIA,Atherton,CA,-122.190797,37.453475,www.menlo.edu/
+455770,Providence Christian College,NAIA,Pasadena,CA,-118.141062,34.149327,www.providencecc.edu/
+112084,San Diego Christian College,NAIA,Santee,CA,-116.978112,32.842404,sdcc.edu/
+123457,Simpson University,NAIA,Redding,CA,-122.332981,40.61334,www.simpsonu.edu/
+117751,The Master's University and Seminary,NAIA,Santa Clarita,CA,-118.518193,34.381755,www.masters.edu/
+442930,University of Antelope Valley,NAIA,Lancaster,CA,-118.134968,34.683587,www.uav.edu/
+488785,University of Saint Katherine,NAIA,San Marcos,CA,-117.196552,33.151283,www.usk.edu/
+123651,Vanguard University of Southern California,NAIA,Costa Mesa,CA,-117.900911,33.662686,www.vanguard.edu/
+490133,Westcliff University,NAIA,Irvine,CA,-117.847973,33.685537,www.westcliff.edu/
+125727,Westmont College,NAIA,Santa Barbara,CA,-119.662517,34.450151,www.westmont.edu/
+122728,William Jessup University,NAIA,Rocklin,CA,-121.292312,38.819728,www.jessup.edu/
+446048,Ave Maria University,NAIA,Ave Maria,FL,-81.438945,26.335983,www.avemaria.edu/
+133526,Edward Waters College,NAIA,Jacksonville,FL,-81.684879,30.34479,www.ewc.edu/
+133979,Florida Memorial University,NAIA,Miami Gardens,FL,-80.270753,25.918278,www.fmuniv.edu/
+408844,Florida National University-Main Campus,NAIA,Hialeah,FL,-80.321846,25.86178,www.fnu.edu/
+135081,Keiser University-Ft Lauderdale,NAIA,Fort Lauderdale,FL,-80.163959,26.185869,www.keiseruniversity.edu/
+137564,Southeastern University,NAIA,Lakeland,FL,-81.918382,28.029733,www.seu.edu/
+137476,St. Thomas University,NAIA,Miami Gardens,FL,-80.253273,25.922071,www.stu.edu/
+138275,Warner University,NAIA,Lake Wales,FL,-81.599972,27.825751,www.warner.edu/academics/undergraduate_programs/admissions/criteria-for-admission/
+138293,Webber International University,NAIA,Babson Park,FL,-81.532315,27.838778,www.webber.edu/
+139205,Brewton-Parker College,NAIA,Mount Vernon,GA,-82.586136,32.185718,www.bpc.edu/
+447689,Georgia Gwinnett College,NAIA,Lawrenceville,GA,-84.00459,33.979409,www.ggc.edu/
+482158,Middle Georgia State University,NAIA,Macon,GA,-83.732058,32.808092,www.mga.edu/
+138868,Point University,NAIA,West Point,GA,-85.184931,32.87912,point.edu/
+140872,Reinhardt University,NAIA,Waleska,GA,-84.554264,34.319756,www.reinhardt.edu/
+141167,Thomas University,NAIA,Thomasville,GA,-83.963587,30.815576,www.thomasu.edu/
+141237,Truett McConnell University,NAIA,Cleveland,GA,-83.748911,34.596306,truett.edu/
+152992,Briar Cliff University,NAIA,Sioux City,IA,-96.428444,42.526443,www.briarcliff.edu/
+153126,Clarke University,NAIA,Dubuque,IA,-90.690487,42.509475,www.clarke.edu/
+153250,Dordt University,NAIA,Sioux Center,IA,-96.166562,43.082527,www.dordt.edu/
+153366,Graceland University-Lamoni,NAIA,Lamoni,IA,-93.924893,40.615966,www.graceland.edu/
+153375,Grand View University,NAIA,Des Moines,IA,-93.604352,41.620813,www.grandview.edu/
+154004,Morningside College,NAIA,Sioux City,IA,-96.359464,42.473891,www.morningside.edu/
+154013,Mount Mercy University,NAIA,Cedar Rapids,IA,-91.650991,42.001931,www.mtmercy.edu/
+154101,Northwestern College,NAIA,Orange City,IA,-96.058772,42.999007,www.nwciowa.edu/
+154235,Saint Ambrose University,NAIA,Davenport,IA,-90.579854,41.54065,www.sau.edu/
+154518,Waldorf University,NAIA,Forest City,IA,-93.641714,43.262923,www.waldorf.edu/
+154590,William Penn University,NAIA,Oskaloosa,IA,-92.647095,41.310111,www.wmpenn.edu/
+142328,Lewis-Clark State College,NAIA,Lewiston,ID,-117.024875,46.412199,www.lcsc.edu/
+142294,The College of Idaho,NAIA,Caldwell,ID,-116.677992,43.652284,www.collegeofidaho.edu/
+146339,Judson University,NAIA,Elgin,IL,-88.291336,42.061754,www.judsonu.edu/
+146667,Lincoln Christian University,NAIA,Lincoln,IL,-89.346721,40.148924,www.lincolnchristian.edu/
+146676,Lincoln College,NAIA,Lincoln,IL,-89.36153,40.155442,lincolncollege.edu/
+147828,Olivet Nazarene University,NAIA,Bourbonnais,IL,-87.875165,41.155237,www.olivet.edu/
+148487,Roosevelt University,NAIA,Chicago,IL,-87.624952,41.876055,www.roosevelt.edu/
+148627,Saint Xavier University,NAIA,Chicago,IL,-87.714749,41.707199,www.sxu.edu/
+149505,Trinity Christian College,NAIA,Palos Heights,IL,-87.783973,41.667687,www.trnty.edu/
+149514,Trinity International University-Illinois,NAIA,Deerfield,IL,-87.880851,42.197945,www.tiu.edu/
+148584,University of St Francis,NAIA,Joliet,IL,-88.096057,41.532225,www.stfrancis.edu/
+150145,Bethel University,NAIA,Mishawaka,IN,-86.194686,41.678399,www.betheluniversity.edu/
+150172,Calumet College of Saint Joseph,NAIA,Whiting,IN,-87.494123,41.671008,www.ccsj.edu/
+150668,Goshen College,NAIA,Goshen,IN,-85.827795,41.563582,www.goshen.edu/
+150677,Grace College and Theological Seminary,NAIA,Winona Lake,IN,-85.814228,41.22595,www.grace.edu/
+150941,Huntington University,NAIA,Huntington,IN,-85.497317,40.898152,www.huntington.edu/
+151290,Indiana Institute of Technology,NAIA,Fort Wayne,IN,-85.116479,41.078365,www.indianatech.edu/
+151333,Indiana University-Kokomo,NAIA,Kokomo,IN,-86.132048,40.460062,www.iuk.edu/
+151342,Indiana University-South Bend,NAIA,South Bend,IN,-86.221991,41.665324,iusb.edu/
+151379,Indiana University-Southeast,NAIA,New Albany,IN,-85.819985,38.345191,ius.edu/
+151801,Indiana Wesleyan University-Marion,NAIA,Marion,IN,-85.667503,40.517937,www.indwes.edu/
+151786,Marian University,NAIA,Indianapolis,IN,-86.202643,39.813233,www.marian.edu/
+152099,Oakland City University,NAIA,Oakland City,IN,-87.35144,38.340891,www.oak.edu/
+152530,Taylor University,NAIA,Upland,IN,-85.497034,40.456246,www.taylor.edu/
+152336,University of Saint Francis-Fort Wayne,NAIA,Fort Wayne,IN,-85.177246,41.087205,www.sf.edu/
+154688,Baker University,NAIA,Baldwin City,KS,-95.187346,38.778712,www.bakeru.edu/
+154712,Benedictine College,NAIA,Atchison,KS,-95.111473,39.572646,www.benedictine.edu/
+154721,Bethany College,NAIA,Lindsborg,KS,-97.67367,38.580598,www.bethanylb.edu/
+154855,Central Christian College of Kansas,NAIA,McPherson,KS,-97.668597,38.357978,www.centralchristian.edu/
+155089,Friends University,NAIA,Wichita,KS,-97.367048,37.678459,www.friends.edu/
+155414,Kansas Wesleyan University,NAIA,Salina,KS,-97.607973,38.813795,www.kwu.edu/
+155511,McPherson College,NAIA,McPherson,KS,-97.642996,38.371422,www.mcpherson.edu/
+155520,MidAmerica Nazarene University,NAIA,Olathe,KS,-94.781635,38.875615,www.mnu.edu/
+155627,Ottawa University-Ottawa,NAIA,Ottawa,KS,-95.264187,38.603173,www.ottawa.edu/
+155900,Southwestern College,NAIA,Winfield,KS,-96.975405,37.248608,www.sckans.edu/
+155937,Sterling College,NAIA,Sterling,KS,-98.208644,38.219937,www.sterling.edu/
+155973,Tabor College,NAIA,Hillsboro,KS,-97.200949,38.348606,tabor.edu/
+155812,University of Saint Mary,NAIA,Leavenworth,KS,-94.906743,39.279396,www.stmary.edu/
+156189,Alice Lloyd College,NAIA,Pippa Passes,KY,-82.875068,37.335087,www.alc.edu/
+156213,Asbury University,NAIA,Wilmore,KY,-84.662606,37.862029,www.asbury.edu/
+156356,Brescia University,NAIA,Owensboro,KY,-87.111639,37.769041,www.brescia.edu/
+156365,Campbellsville University,NAIA,Campbellsville,KY,-85.348943,37.343342,www.campbellsville.edu/
+156745,Georgetown College,NAIA,Georgetown,KY,-84.553767,38.207615,www.georgetowncollege.edu/
+157100,Kentucky Christian University,NAIA,Grayson,KY,-82.945561,38.338805,www.kcu.edu/
+157216,Lindsey Wilson College,NAIA,Columbia,KY,-85.299997,37.101502,www.lindsey.edu/
+157377,Midway University,NAIA,Midway,KY,-84.678142,38.146126,www.midway.edu/
+157809,Thomas More University,NAIA,Crestview Hills,KY,-84.568923,39.022963,www.thomasmore.edu/
+157863,Union College,NAIA,Barbourville,KY,-83.888477,36.870875,www.unionky.edu/
+157535,University of Pikeville,NAIA,Pikeville,KY,-82.521063,37.479232,www.upike.edu/
+156541,University of the Cumberlands,NAIA,Williamsburg,KY,-84.161646,36.737048,www.ucumberlands.edu/
+159382,Louisiana State University-Alexandria,NAIA,Alexandria,LA,-92.414409,31.178616,www.lsua.edu/
+159416,Louisiana State University-Shreveport,NAIA,Shreveport,LA,-93.70561,32.428465,www.lsus.edu/
+159656,Loyola University New Orleans,NAIA,New Orleans,LA,-90.120417,29.936141,www.loyno.edu/
+165802,Fisher College,NAIA,Boston,MA,-71.074125,42.355253,www.fisher.edu/
+168786,Aquinas College,NAIA,Grand Rapids,MI,-85.628785,42.96019,www.aquinas.edu/
+169327,Cleary University,NAIA,Howell,MI,-83.879987,42.586638,www.cleary.edu/
+169363,Concordia University-Ann Arbor,NAIA,Ann Arbor,MI,-83.68268,42.273157,www.cuaa.edu/
+170037,Cornerstone University,NAIA,Grand Rapids,MI,-85.595328,42.979966,www.cornerstone.edu/
+170675,Lawrence Technological University,NAIA,Southfield,MI,-83.25003,42.474072,www.ltu.edu/
+170806,Madonna University,NAIA,Livonia,MI,-83.404722,42.384323,www.madonna.edu/
+170967,Rochester University,NAIA,Rochester Hills,MI,-83.144959,42.667521,rochesteru.edu/
+172264,Siena Heights University,NAIA,Adrian,MI,-84.018841,41.905624,www.sienaheights.edu/
+172334,Spring Arbor University,NAIA,Spring Arbor,MI,-84.556074,42.206568,www.arbor.edu/
+171137,University of Michigan-Dearborn,NAIA,Dearborn,MI,-83.231417,42.317287,umdearborn.edu/
+176628,Avila University,NAIA,Kansas City,MO,-94.591758,38.91339,www.avila.edu/
+176947,Central Methodist University-College of Liberal Arts and Sciences,NAIA,Fayette,MO,-92.685253,39.150497,www.centralmethodist.edu/
+178697,College of the Ozarks,NAIA,Point Lookout,MO,-93.238174,36.616019,www.cofo.edu/
+177065,Columbia College,NAIA,Columbia,MO,-92.326354,38.957388,www.ccis.edu/
+177144,Culver-Stockton College,NAIA,Canton,MO,-91.529374,40.128993,www.culver.edu/
+177339,Evangel University,NAIA,Springfield,MO,-93.262614,37.220956,www.evangel.edu/
+177542,Hannibal-LaGrange University,NAIA,Hannibal,MO,-91.39094,39.729015,www.hlg.edu/
+177551,Harris-Stowe State University,NAIA,Saint Louis,MO,-90.224288,38.631744,www.hssu.edu/
+178244,Missouri Baptist University,NAIA,Saint Louis,MO,-90.462586,38.641526,www.mobap.edu/
+178369,Missouri Valley College,NAIA,Marshall,MO,-93.190654,39.108522,www.moval.edu/
+178721,Park University,NAIA,Parkville,MO,-94.679041,39.189256,www.park.edu/
+179964,William Woods University,NAIA,Fulton,MO,-91.950416,38.860287,www.williamwoods.edu/
+175430,Blue Mountain College,NAIA,Blue Mountain,MS,-89.02924,34.67209,www.bmc.edu/
+176318,Rust College,NAIA,Holly Springs,MS,-89.446999,34.776862,www.rustcollege.edu/
+176406,Tougaloo College,NAIA,Tougaloo,MS,-90.16076,32.403014,www.tougaloo.edu/
+176479,William Carey University,NAIA,Hattiesburg,MS,-89.291815,31.305264,www.wmcarey.edu/
+199032,Montreat College,NAIA,Montreat,NC,-82.2976,35.646577,www.montreat.edu/
+199698,St. Andrews University,NAIA,Laurinburg,NC,-79.478567,34.74563,www.sa.edu/
+200059,Dickinson State University,NAIA,Dickinson,ND,-102.799679,46.882917,www.dickinsonstate.edu/
+200226,Mayville State University,NAIA,Mayville,ND,-97.322554,47.505415,www.mayvillestate.edu/
+200156,University of Jamestown,NAIA,Jamestown,ND,-98.698416,46.914302,www.uj.edu/
+200572,Valley City State University,NAIA,Valley City,ND,-98.00389,46.918517,www.vcsu.edu/
+180814,Bellevue University,NAIA,Bellevue,NE,-95.91764,41.150225,www.bellevue.edu/
+180984,Concordia University-Nebraska,NAIA,Seward,NE,-97.089054,40.914853,www.cune.edu/
+181020,Doane University,NAIA,Crete,NE,-96.950932,40.622952,www.doane.edu/
+181127,Hastings College,NAIA,Hastings,NE,-98.374403,40.59025,www.hastings.edu/
+181330,Midland University,NAIA,Fremont,NE,-96.488008,41.43674,www.midlandu.edu/
+181534,Peru State College,NAIA,Peru,NE,-95.732731,40.474689,www.peru.edu/
+181853,York College,NAIA,York,NE,-97.579352,40.869526,www.york.edu/
+188182,University of the Southwest,NAIA,Hobbs,NM,-103.186948,32.775496,www.usw.edu/
+203757,Lourdes University,NAIA,Sylvania,OH,-83.706108,41.710009,www.lourdes.edu/
+204194,Mount Vernon Nazarene University,NAIA,Mount Vernon,OH,-82.471074,40.372901,www.mvnu.edu/
+201964,Ohio Christian University,NAIA,Circleville,OH,-82.904885,39.613155,www.ohiochristian.edu/
+205443,Shawnee State University,NAIA,Portsmouth,OH,-82.993769,38.730867,www.shawnee.edu/
+204486,University of Northwestern Ohio,NAIA,Lima,OH,-84.157004,40.762917,www.unoh.edu/
+205203,University of Rio Grande,NAIA,Rio Grande,OH,-82.378852,38.881764,www.rio.edu/
+206817,Bacone College,NAIA,Muskogee,OK,-95.334046,35.777082,www.bacone.edu/
+245953,Mid-America Christian University,NAIA,Oklahoma City,OK,-97.578297,35.347785,www.macu.edu/
+207458,Oklahoma City University,NAIA,Oklahoma City,OK,-97.541242,35.495271,www.okcu.edu/
+207351,Oklahoma Panhandle State University,NAIA,Goodwell,OK,-101.638488,36.594518,www.opsu.edu/
+206835,Oklahoma Wesleyan University,NAIA,Bartlesville,OK,-95.95671,36.717453,www.okwu.edu/
+207856,Southwestern Christian University,NAIA,Bethany,OK,-97.63934,35.513314,www.swcu.edu/
+207722,University of Science and Arts of Oklahoma,NAIA,Chickasha,OK,-97.95641,35.031392,www.usao.edu/
+210331,Corban University,NAIA,Salem,OR,-122.961129,44.882399,www.corban.edu/
+208646,Eastern Oregon University,NAIA,La Grande,OR,-118.092495,45.319795,www.eou.edu/
+209506,Oregon Institute of Technology,NAIA,Klamath Falls,OR,-121.785177,42.257152,www.oit.edu/
+215442,Point Park University,NAIA,Pittsburgh,PA,-80.002061,40.438768,www.pointpark.edu/
+217925,Columbia International University,NAIA,Columbia,SC,-81.07443,34.07551,www.ciu.edu/
+218399,Morris College,NAIA,Sumter,SC,-80.346155,33.938574,www.morris.edu/
+218654,University of South Carolina Beaufort,NAIA,Bluffton,SC,-80.973595,32.303308,www.uscb.edu/
+218919,Voorhees College,NAIA,Denmark,SC,-81.127863,33.307199,www.voorhees.edu/
+219082,Dakota State University,NAIA,Madison,SD,-97.113358,44.013014,dsu.edu/
+219091,Dakota Wesleyan University,NAIA,Mitchell,SD,-98.031188,43.697432,www.dwu.edu/
+219198,Mount Marty University,NAIA,Yankton,SD,-97.409904,42.874475,www.mountmarty.edu/
+219295,Presentation College,NAIA,Aberdeen,SD,-98.49129,45.483339,www.presentation.edu/
+219718,Bethel University,NAIA,McKenzie,TN,-88.516762,36.137848,www.bethelu.edu/
+219790,Bryan College-Dayton,NAIA,Dayton,TN,-84.999552,35.497209,www.bryan.edu/
+219949,Cumberland University,NAIA,Lebanon,TN,-86.298782,36.204514,www.cumberland.edu/
+220215,Freed-Hardeman University,NAIA,Henderson,TN,-88.637964,35.440611,www.fhu.edu/
+220701,Martin Methodist College,NAIA,Pulaski,TN,-87.035661,35.201019,www.martinmethodist.edu/
+486901,Milligan University,NAIA,Milligan,TN,-82.29407,36.300147,www.milligan.edu/
+221731,Tennessee Wesleyan University,NAIA,Athens,TN,-84.592728,35.446331,www.tnwesleyan.edu/
+225575,Huston-Tillotson University,NAIA,Austin,TX,-97.721691,30.264667,www.htu.edu/
+225885,Jarvis Christian College,NAIA,Hawkins,TX,-95.181513,32.587942,www.jarvis.edu/
+227331,Our Lady of the Lake University,NAIA,San Antonio,TX,-98.54365,29.426194,www.ollusa.edu/
+228325,Southwestern Assemblies of God University,NAIA,Waxahachie,TX,-96.853492,32.40443,www.sagu.edu/
+224545,Texas A&M University-Texarkana,NAIA,Texarkana,TX,-94.103617,33.490482,www.tamut.edu/
+228884,Texas College,NAIA,Tyler,TX,-95.312454,32.37456,www.texascollege.edu/
+229160,Texas Wesleyan University,NAIA,Fort Worth,TX,-97.279613,32.732962,www.txwes.edu/
+225502,University of Houston-Victoria,NAIA,Victoria,TX,-96.976334,28.816248,www.uhv.edu/
+229780,Wayland Baptist University,NAIA,Plainview,TX,-101.730042,34.187677,www.wbu.edu/
+229887,Wiley College,NAIA,Marshall,TX,-94.376814,32.537641,wileyc.edu/
+231554,Bluefield College,NAIA,Bluefield,VA,-81.246233,37.244557,www.bluefield.edu/
+240107,Viterbo University,NAIA,La Crosse,WI,-91.244297,43.803133,www4.viterbo.edu/
+237950,West Virginia University Institute of Technology,NAIA,Beckley,WV,-81.184072,37.775924,www.wvutech.edu/
+100654,Alabama A & M University,NCAA,Normal,AL,-86.568502,34.783368,www.aamu.edu/
+100724,Alabama State University,NCAA,Montgomery,AL,-86.295677,32.364317,www.alasu.edu/
+100858,Auburn University,NCAA,Auburn,AL,-85.488258,32.599378,www.auburn.edu/
+100830,Auburn University at Montgomery,NCAA,Montgomery,AL,-86.177544,32.36736,www.aum.edu/
+100937,Birmingham-Southern College,NCAA,Birmingham,AL,-86.850552,33.513774,www.bsc.edu/
+101435,Huntingdon College,NCAA,Montgomery,AL,-86.284366,32.351034,www.huntingdon.edu/
+101480,Jacksonville State University,NCAA,Jacksonville,AL,-85.765321,33.822938,www.jsu.edu/
+101675,Miles College,NCAA,Fairfield,AL,-86.908751,33.482442,www.miles.edu/
+102049,Samford University,NCAA,Birmingham,AL,-86.791799,33.464128,www.samford.edu/
+102234,Spring Hill College,NCAA,Mobile,AL,-88.138199,30.694751,www.shc.edu/
+100751,The University of Alabama,NCAA,Tuscaloosa,AL,-87.545978,33.211875,www.ua.edu/
+102368,Troy University,NCAA,Troy,AL,-85.957094,31.800672,www.troy.edu/
+102377,Tuskegee University,NCAA,Tuskegee,AL,-85.708492,32.4309,www.tuskegee.edu/
+100663,University of Alabama at Birmingham,NCAA,Birmingham,AL,-86.799345,33.505697,www.uab.edu/
+100706,University of Alabama in Huntsville,NCAA,Huntsville,AL,-86.640449,34.724557,www.uah.edu/
+101709,University of Montevallo,NCAA,Montevallo,AL,-86.865099,33.10625,www.montevallo.edu/
+101879,University of North Alabama,NCAA,Florence,AL,-87.681361,34.806738,www.una.edu/
+102094,University of South Alabama,NCAA,Mobile,AL,-88.178711,30.696033,www.southalabama.edu/
+101587,University of West Alabama,NCAA,Livingston,AL,-88.186329,32.588132,www.uwa.edu/
+106458,Arkansas State University,NCAA,Jonesboro,AR,-90.679988,35.842388,www.astate.edu/
+106467,Arkansas Tech University,NCAA,Russellville,AR,-93.13562,35.293237,www.atu.edu/
+107044,Harding University,NCAA,Searcy,AR,-91.726143,35.247386,www.harding.edu/
+107071,Henderson State University,NCAA,Arkadelphia,AR,-93.059703,34.128155,www.hsu.edu/
+107080,Hendrix College,NCAA,Conway,AR,-92.443256,35.101565,www.hendrix.edu/
+107512,Ouachita Baptist University,NCAA,Arkadelphia,AR,-93.052471,34.126093,www.obu.edu/
+107983,Southern Arkansas University Main Campus,NCAA,Magnolia,AR,-93.235922,33.291618,www.saumag.edu/
+106397,University of Arkansas,NCAA,Fayetteville,AR,-94.176981,36.070009,www.uark.edu/
+106245,University of Arkansas at Little Rock,NCAA,Little Rock,AR,-92.339778,34.723254,ualr.edu/www/
+106485,University of Arkansas at Monticello,NCAA,Monticello,AR,-91.811153,33.590909,www.uamont.edu/
+106412,University of Arkansas at Pine Bluff,NCAA,Pine Bluff,AR,-92.018683,34.244031,www.uapb.edu/
+108092,University of Arkansas-Fort Smith,NCAA,Fort Smith,AR,-94.373729,35.384184,uafs.edu/
+106704,University of Central Arkansas,NCAA,Conway,AR,-92.457672,35.077945,www.uca.edu/
+107558,University of the Ozarks,NCAA,Clarksville,AR,-93.467221,35.476278,www.ozarks.edu/
+104151,Arizona State University Campus Immersion,NCAA,Tempe,AZ,-111.934383,33.417721,www.asu.edu/
+483124,Arizona State University Digital Immersion,NCAA,Scottsdale,AZ,-111.923861,33.463786,www.asu.edu/
+104586,Embry-Riddle Aeronautical University-Prescott,NCAA,Prescott,AZ,-112.449741,34.616766,prescott.erau.edu/
+104717,Grand Canyon University,NCAA,Phoenix,AZ,-112.129929,33.513231,www.gcu.edu/
+104179,University of Arizona,NCAA,Tucson,AZ,-110.950815,32.232672,www.arizona.edu/
+487296,University of Arizona-Sierra Vista,NCAA,Sierra Vista,AZ,-110.245117,31.567832,azcast.arizona.edu/
+108232,Academy of Art University,NCAA,San Francisco,CA,-122.400578,37.787943,www.academyart.edu/
+109785,Azusa Pacific University,NCAA,Azusa,CA,-117.888375,34.130047,www.apu.edu/
+110097,Biola University,NCAA,La Mirada,CA,-118.014374,33.906203,www.biola.edu/
+110361,California Baptist University,NCAA,Riverside,CA,-117.425619,33.929321,www.calbaptist.edu/
+110404,California Institute of Technology,NCAA,Pasadena,CA,-118.125878,34.137349,www.caltech.edu/
+110413,California Lutheran University,NCAA,Thousand Oaks,CA,-118.878924,34.224566,www.callutheran.edu/
+110422,California Polytechnic State University-San Luis Obispo,NCAA,San Luis Obispo,CA,-120.657311,35.299513,calpoly.edu/
+110529,California State Polytechnic University-Pomona,NCAA,Pomona,CA,-117.821476,34.057912,www.cpp.edu/
+110486,California State University-Bakersfield,NCAA,Bakersfield,CA,-119.104711,35.350005,www.csub.edu/
+110538,California State University-Chico,NCAA,Chico,CA,-121.844859,39.729712,www.csuchico.edu/
+110547,California State University-Dominguez Hills,NCAA,Carson,CA,-118.255917,33.864766,www.csudh.edu/
+110574,California State University-East Bay,NCAA,Hayward,CA,-122.054135,37.657694,www.csueastbay.edu/
+110556,California State University-Fresno,NCAA,Fresno,CA,-119.744569,36.811154,www.fresnostate.edu/
+110565,California State University-Fullerton,NCAA,Fullerton,CA,-117.885446,33.881506,www.fullerton.edu/
+110583,California State University-Long Beach,NCAA,Long Beach,CA,-118.11204,33.782818,www.csulb.edu/
+110592,California State University-Los Angeles,NCAA,Los Angeles,CA,-118.168965,34.066927,www.calstatela.edu/
+409698,California State University-Monterey Bay,NCAA,Seaside,CA,-121.796178,36.652397,www.csumb.edu/
+110608,California State University-Northridge,NCAA,Northridge,CA,-118.529319,34.240126,www.csun.edu/
+110617,California State University-Sacramento,NCAA,Sacramento,CA,-121.423549,38.559415,www.csus.edu/
+110510,California State University-San Bernardino,NCAA,San Bernardino,CA,-117.323801,34.182622,www.csusb.edu/
+366711,California State University-San Marcos,NCAA,San Marcos,CA,-117.159013,33.130569,www.csusm.edu/
+110495,California State University-Stanislaus,NCAA,Turlock,CA,-120.852511,37.52577,www.csustan.edu/
+111948,Chapman University,NCAA,Orange,CA,-117.852518,33.79302,www.chapman.edu/
+112260,Claremont McKenna College,NCAA,Claremont,CA,-117.711188,34.102154,www.cmc.edu/
+112075,Concordia University-Irvine,NCAA,Irvine,CA,-117.812305,33.653665,www.cui.edu/
+114813,Fresno Pacific University,NCAA,Fresno,CA,-119.735199,36.726831,www.fresno.edu/
+115409,Harvey Mudd College,NCAA,Claremont,CA,-117.709837,34.106515,www.hmc.edu/
+115728,Holy Names University,NCAA,Oakland,CA,-122.187804,37.802276,www.hnu.edu/
+117946,Loyola Marymount University,NCAA,Los Angeles,CA,-118.415744,33.97085,www.lmu.edu/
+118684,Mendocino College,NCAA,Ukiah,CA,-123.228809,39.188989,www.mendocino.edu/
+120254,Occidental College,NCAA,Los Angeles,CA,-118.210908,34.127124,www.oxy.edu/
+121150,Pepperdine University,NCAA,Malibu,CA,-118.707077,34.037786,www.pepperdine.edu/
+121257,Pitzer College,NCAA,Claremont,CA,-117.706675,34.104107,www.pitzer.edu/
+121309,Point Loma Nazarene University,NCAA,San Diego,CA,-117.250265,32.718391,www.pointloma.edu/
+121345,Pomona College,NCAA,Claremont,CA,-117.714556,34.099027,www.pomona.edu/
+123554,Saint Mary's College of California,NCAA,Moraga,CA,-122.109031,37.840731,www.stmarys-ca.edu/
+123527,San Bernardino Valley College,NCAA,San Bernardino,CA,-117.313248,34.086353,www.valleycollege.edu/
+122409,San Diego State University,NCAA,San Diego,CA,-117.071228,32.77525,www.sdsu.edu/
+122597,San Francisco State University,NCAA,San Francisco,CA,-122.476799,37.721224,www.sfsu.edu/
+122755,San Jose State University,NCAA,San Jose,CA,-121.880621,37.336569,www.sjsu.edu/
+122931,Santa Clara University,NCAA,Santa Clara,CA,-121.93784,37.348362,www.scu.edu/
+123165,Scripps College,NCAA,Claremont,CA,-117.711294,34.104147,www.scrippscollege.edu/
+123572,Sonoma State University,NCAA,Rohnert Park,CA,-122.677066,38.340274,www.sonoma.edu/
+243744,Stanford University,NCAA,Stanford,CA,-122.167359,37.429434,www.stanford.edu/
+110635,University of California-Berkeley,NCAA,Berkeley,CA,-122.260463,37.871918,www.berkeley.edu/
+110644,University of California-Davis,NCAA,Davis,CA,-121.749567,38.539667,ucdavis.edu/
+110653,University of California-Irvine,NCAA,Irvine,CA,-117.841248,33.648434,www.uci.edu/
+110662,University of California-Los Angeles,NCAA,Los Angeles,CA,-118.442179,34.07178,www.ucla.edu/
+110671,University of California-Riverside,NCAA,Riverside,CA,-117.32741,33.97246,www.ucr.edu/
+110680,University of California-San Diego,NCAA,La Jolla,CA,-117.235866,32.877749,www.ucsd.edu/
+110705,University of California-Santa Barbara,NCAA,Santa Barbara,CA,-119.846426,34.416297,www.ucsb.edu/
+117140,University of La Verne,NCAA,La Verne,CA,-117.773262,34.100855,www.laverne.edu/
+121691,University of Redlands,NCAA,Redlands,CA,-117.163218,34.064218,www.redlands.edu/
+122436,University of San Diego,NCAA,San Diego,CA,-117.192073,32.770816,www.sandiego.edu/
+122612,University of San Francisco,NCAA,San Francisco,CA,-122.450477,37.776618,www.usfca.edu/
+123961,University of Southern California,NCAA,Los Angeles,CA,-118.284169,34.021281,www.usc.edu/
+120883,University of the Pacific,NCAA,Stockton,CA,-121.312301,37.981424,www.pacific.edu/
+125763,Whittier College,NCAA,Whittier,CA,-118.032299,33.978773,www.whittier.edu/
+126182,Adams State University,NCAA,Alamosa,CO,-105.879642,37.473636,www.adams.edu/
+126669,Colorado Christian University,NCAA,Lakewood,CO,-105.09456,39.71388,www.ccu.edu/
+127556,Colorado Mesa University,NCAA,Grand Junction,CO,-108.553275,39.080643,www.coloradomesa.edu/
+126775,Colorado School of Mines,NCAA,Golden,CO,-105.223364,39.751443,www.mines.edu/
+128106,Colorado State University Pueblo,NCAA,Pueblo,CO,-104.579033,38.30859,www.csupueblo.edu/
+127565,Metropolitan State University of Denver,NCAA,Denver,CO,-105.00504,39.744202,www.msudenver.edu/
+127918,Regis University,NCAA,Denver,CO,-105.030756,39.788175,www.regis.edu/
+128328,United States Air Force Academy,NCAA,USAF Academy,CO,-104.891358,39.010957,www.usafa.edu/
+126580,University of Colorado Colorado Springs,NCAA,Colorado Springs,CO,-104.800296,38.892735,www.uccs.edu/
+127741,University of Northern Colorado,NCAA,Greeley,CO,-104.692777,40.410855,www.unco.edu/
+128498,Albertus Magnus College,NCAA,New Haven,CT,-72.923848,41.332519,www.albertus.edu/
+128771,Central Connecticut State University,NCAA,New Britain,CT,-72.765991,41.692502,www2.ccsu.edu/
+129215,Eastern Connecticut State University,NCAA,Willimantic,CT,-72.218753,41.721673,www.easternct.edu/
+129242,Fairfield University,NCAA,Fairfield,CT,-73.255903,41.157673,fairfield.edu/
+129774,Mitchell College,NCAA,New London,CT,-72.09523,41.328013,www.mitchell.edu/
+130183,Post University,NCAA,Waterbury,CT,-73.081497,41.535549,www.post.edu/
+130226,Quinnipiac University,NCAA,Hamden,CT,-72.894117,41.418915,www.qu.edu/
+130253,Sacred Heart University,NCAA,Fairfield,CT,-73.243332,41.220893,www.sacredheart.edu/
+130493,Southern Connecticut State University,NCAA,New Haven,CT,-72.947897,41.333225,www.southernct.edu/
+130590,Trinity College,NCAA,Hartford,CT,-72.690882,41.747451,www.trincoll.edu/
+130624,United States Coast Guard Academy,NCAA,New London,CT,-72.101583,41.375823,www.uscga.edu/
+128744,University of Bridgeport,NCAA,Bridgeport,CT,-73.190166,41.164741,www.bridgeport.edu/
+129020,University of Connecticut,NCAA,Storrs,CT,-72.249948,41.809098,uconn.edu/
+129525,University of Hartford,NCAA,West Hartford,CT,-72.715213,41.798591,www.hartford.edu/
+129941,University of New Haven,NCAA,West Haven,CT,-72.961472,41.291314,www.newhaven.edu/
+130697,Wesleyan University,NCAA,Middletown,CT,-72.657146,41.554665,www.wesleyan.edu/
+130776,Western Connecticut State University,NCAA,Danbury,CT,-73.444264,41.400365,www.wcsu.edu/
+130794,Yale University,NCAA,New Haven,CT,-72.926688,41.311158,www.yale.edu/
+131450,Gallaudet University,NCAA,Washington,DC,-76.993675,38.907371,www.gallaudet.edu/
+131469,George Washington University,NCAA,Washington,DC,-77.048363,38.89923,www.gwu.edu/
+131496,Georgetown University,NCAA,Washington,DC,-77.073463,38.908809,www.georgetown.edu/
+131283,The Catholic University of America,NCAA,Washington,DC,-76.997909,38.933651,www.catholic.edu/
+130934,Delaware State University,NCAA,Dover,DE,-75.54053,39.187173,www.desu.edu/
+130989,Goldey-Beacom College,NCAA,Wilmington,DE,-75.689624,39.741501,www.gbc.edu/
+130943,University of Delaware,NCAA,Newark,DE,-75.752822,39.679577,www.udel.edu/
+131098,Wesley College,NCAA,Dover,DE,-75.527716,39.163182,www.wesley.edu/
+131113,Wilmington University,NCAA,New Castle,DE,-75.586998,39.682299,www.wilmu.edu/
+132471,Barry University,NCAA,Miami,FL,-80.198925,25.878908,www.barry.edu/
+132602,Bethune-Cookman University,NCAA,Daytona Beach,FL,-81.032946,29.207195,www.cookman.edu/
+133492,Eckerd College,NCAA,Saint Petersburg,FL,-82.687043,27.715798,www.eckerd.edu/
+133553,Embry-Riddle Aeronautical University-Daytona Beach,NCAA,Daytona Beach,FL,-81.048367,29.189903,daytonabeach.erau.edu/
+133711,Flagler College,NCAA,Saint Augustine,FL,-81.314887,29.892733,www.flagler.edu/
+133650,Florida Agricultural and Mechanical University,NCAA,Tallahassee,FL,-84.290226,30.428504,www.famu.edu/
+133669,Florida Atlantic University,NCAA,Boca Raton,FL,-80.102978,26.372421,www.fau.edu/
+433660,Florida Gulf Coast University,NCAA,Fort Myers,FL,-81.7726,26.463638,www.fgcu.edu/
+133881,Florida Institute of Technology,NCAA,Melbourne,FL,-80.622893,28.065815,www.fit.edu/
+133951,Florida International University,NCAA,Miami,FL,-80.373928,25.75732,www.fiu.edu/
+134079,Florida Southern College,NCAA,Lakeland,FL,-81.948203,28.032443,www.flsouthern.edu/
+134097,Florida State University,NCAA,Tallahassee,FL,-84.291921,30.440756,www.fsu.edu/
+134945,Jacksonville University,NCAA,Jacksonville,FL,-81.60458,30.353227,www.ju.edu/index.php
+132657,Lynn University,NCAA,Boca Raton,FL,-80.122806,26.385985,www.lynn.edu/
+136215,Nova Southeastern University,NCAA,Fort Lauderdale,FL,-80.24248,26.079337,www.nova.edu/
+136330,Palm Beach Atlantic University,NCAA,West Palm Beach,FL,-80.05247,26.7044,www.pba.edu/
+136950,Rollins College,NCAA,Winter Park,FL,-81.349239,28.592787,www.rollins.edu/
+137032,Saint Leo University,NCAA,Saint Leo,FL,-82.257801,28.336776,www.saintleo.edu/
+137546,Stetson University,NCAA,DeLand,FL,-81.300746,29.035475,www.stetson.edu/
+137847,The University of Tampa,NCAA,Tampa,FL,-82.46483,27.948455,www.ut.edu/
+138354,The University of West Florida,NCAA,Pensacola,FL,-87.218511,30.549076,uwf.edu/
+132903,University of Central Florida,NCAA,Orlando,FL,-81.200889,28.602159,www.ucf.edu/
+134130,University of Florida,NCAA,Gainesville,FL,-82.347911,29.64629,www.ufl.edu/
+484473,University of Florida-Online,NCAA,Gainesville,FL,-82.339848,29.649413,www.ufonline.ufl.edu/
+135726,University of Miami,NCAA,Coral Gables,FL,-80.278662,25.72126,www.miami.edu/
+136172,University of North Florida,NCAA,Jacksonville,FL,-81.509144,30.27194,www.unf.edu/
+137351,University of South Florida,NCAA,Tampa,FL,-82.413232,28.061458,www.usf.edu/
+138716,Albany State University,NCAA,Albany,GA,-84.141825,31.56928,www.asurams.edu/
+482149,Augusta University,NCAA,Augusta,GA,-81.989071,33.47037,www.augusta.edu/
+139144,Berry College,NCAA,Mount Berry,GA,-85.189202,34.290414,www.berry.edu/
+138947,Clark Atlanta University,NCAA,Atlanta,GA,-84.412584,33.747628,www.cau.edu/
+139366,Columbus State University,NCAA,Columbus,GA,-84.94106,32.50096,www.columbusstate.edu/
+139393,Covenant College,NCAA,Lookout Mountain,GA,-85.375066,34.965161,www.covenant.edu/
+139630,Emmanuel College,NCAA,Franklin Springs,GA,-83.14822,34.283641,www.ec.edu/
+139658,Emory University,NCAA,Atlanta,GA,-84.325512,33.790183,www.emory.edu/
+139719,Fort Valley State University,NCAA,Fort Valley,GA,-83.89537,32.537595,www.fvsu.edu/
+139861,Georgia College & State University,NCAA,Milledgeville,GA,-83.231962,33.082787,www.gcsu.edu/
+139755,Georgia Institute of Technology-Main Campus,NCAA,Atlanta,GA,-84.394832,33.77242,www.gatech.edu/
+139931,Georgia Southern University,NCAA,Statesboro,GA,-81.784045,32.426153,www.georgiasouthern.edu/
+139764,Georgia Southwestern State University,NCAA,Americus,GA,-84.217738,32.054662,gsw.edu/
+139940,Georgia State University,NCAA,Atlanta,GA,-84.38667,33.7527,www.gsu.edu/
+486840,Kennesaw State University,NCAA,Kennesaw,GA,-84.583052,34.038807,www.kennesaw.edu/
+140234,LaGrange College,NCAA,Lagrange,GA,-85.043113,33.038564,www.lagrange.edu/
+140447,Mercer University,NCAA,Macon,GA,-83.648295,32.831787,www.mercer.edu/
+140553,Morehouse College,NCAA,Atlanta,GA,-84.414917,33.745982,www.morehouse.edu/
+140696,Oglethorpe University,NCAA,Atlanta,GA,-84.333687,33.875441,oglethorpe.edu/
+140818,Piedmont University,NCAA,Demorest,GA,-83.542126,34.566042,www.piedmont.edu/
+140960,Savannah State University,NCAA,Savannah,GA,-81.063377,32.024781,www.savannahstate.edu/
+140988,Shorter University,NCAA,Rome,GA,-85.196529,34.257543,www.shorter.edu/
+139959,University of Georgia,NCAA,Athens,GA,-83.374039,33.956262,www.uga.edu/
+482680,University of North Georgia,NCAA,Dahlonega,GA,-83.985694,34.530219,www.ung.edu/
+141334,University of West Georgia,NCAA,Carrollton,GA,-85.097762,33.573621,www.westga.edu/
+141264,Valdosta State University,NCAA,Valdosta,GA,-83.289282,30.847402,www.valdosta.edu/
+141361,Young Harris College,NCAA,Young Harris,GA,-83.84587,34.933523,www.yhc.edu/
+141644,Hawaii Pacific University,NCAA,Honolulu,HI,-157.859645,21.310306,www.hpu.edu/
+141565,University of Hawaii at Hilo,NCAA,Hilo,HI,-155.080847,19.701189,hilo.hawaii.edu/
+141574,University of Hawaii at Manoa,NCAA,Honolulu,HI,-157.818979,21.298598,manoa.hawaii.edu/
+153001,Buena Vista University,NCAA,Storm Lake,IA,-95.208529,42.642255,www.bvu.edu/
+153108,Central College,NCAA,Pella,IA,-92.922199,41.401539,www.central.edu/
+153144,Coe College,NCAA,Cedar Rapids,IA,-91.658192,41.988263,www.coe.edu/
+153162,Cornell College,NCAA,Mount Vernon,IA,-91.423741,41.924554,www.cornellcollege.edu/
+153384,Grinnell College,NCAA,Grinnell,IA,-92.722094,41.747952,www.grinnell.edu/
+153621,Iowa Wesleyan University,NCAA,Mount Pleasant,IA,-91.552459,40.973791,www.iw.edu/
+153825,Loras College,NCAA,Dubuque,IA,-90.679023,42.503908,www.loras.edu/
+153834,Luther College,NCAA,Decorah,IA,-91.802809,43.312304,www.luther.edu/
+154350,Simpson College,NCAA,Indianola,IA,-93.563471,41.365503,simpson.edu/
+153278,University of Dubuque,NCAA,Dubuque,IA,-90.693428,42.49726,www.dbq.edu/
+153658,University of Iowa,NCAA,Iowa City,IA,-91.536425,41.661935,www.uiowa.edu/
+154493,Upper Iowa University,NCAA,Fayette,IA,-91.799543,42.838283,www.uiu.edu/
+154527,Wartburg College,NCAA,Waverly,IA,-92.483387,42.7277,www.wartburg.edu/
+142461,Northwest Nazarene University,NCAA,Nampa,ID,-116.565783,43.562411,www.nnu.edu/
+143084,Augustana College,NCAA,Rock Island,IL,-90.55057,41.502365,www.augustana.edu/
+143118,Aurora University,NCAA,Aurora,IL,-88.349023,41.753631,aurora.edu/
+145619,Benedictine University,NCAA,Lisle,IL,-88.097307,41.777569,www.ben.edu/
+143288,Blackburn College,NCAA,Carlinville,IL,-89.870241,39.287896,www.blackburn.edu/
+143358,Bradley University,NCAA,Peoria,IL,-89.616786,40.696896,www.bradley.edu/
+144005,Chicago State University,NCAA,Chicago,IL,-87.609384,41.718446,www.csu.edu/
+144351,Concordia University-Chicago,NCAA,River Forest,IL,-87.809482,41.898696,www.cuchicago.edu/
+148496,Dominican University,NCAA,River Forest,IL,-87.823003,41.902678,www.dom.edu/
+144892,Eastern Illinois University,NCAA,Charleston,IL,-88.175658,39.479843,www.eiu.edu/
+144962,Elmhurst University,NCAA,Elmhurst,IL,-87.945369,41.897164,www.elmhurst.edu/
+144971,Eureka College,NCAA,Eureka,IL,-89.269624,40.71482,www.eureka.edu/
+145372,Greenville University,NCAA,Greenville,IL,-89.40824,38.894162,www.greenville.edu/
+145691,Illinois College,NCAA,Jacksonville,IL,-90.246171,39.7313,www.ic.edu/
+145725,Illinois Institute of Technology,NCAA,Chicago,IL,-87.627321,41.8313,web.iit.edu/
+145813,Illinois State University,NCAA,Normal,IL,-88.990058,40.509403,illinoisstate.edu/
+145646,Illinois Wesleyan University,NCAA,Bloomington,IL,-88.992014,40.489901,www.iwu.edu/
+146427,Knox College,NCAA,Galesburg,IL,-90.373165,40.943064,www.knox.edu/
+146612,Lewis University,NCAA,Romeoville,IL,-88.079032,41.605432,www.lewisu.edu/
+147013,McKendree University,NCAA,Lebanon,IL,-89.816822,38.608154,www.mckendree.edu/
+147244,Millikin University,NCAA,Decatur,IL,-88.976298,39.842612,millikin.edu/
+147341,Monmouth College,NCAA,Monmouth,IL,-90.63731,40.914824,www.monmouthcollege.edu/
+147660,North Central College,NCAA,Naperville,IL,-88.14279,41.77576,northcentralcollege.edu/
+147679,North Park University,NCAA,Chicago,IL,-87.709948,41.975268,www.northpark.edu/
+147703,Northern Illinois University,NCAA,Dekalb,IL,-88.766428,41.933869,www.niu.edu/
+147767,Northwestern University,NCAA,Evanston,IL,-87.679858,42.050356,www.northwestern.edu/
+148016,Principia College,NCAA,Elsah,IL,-90.350285,38.948835,www.principiacollege.edu/
+148131,Quincy University,NCAA,Quincy,IL,-91.385975,39.938898,www.quincy.edu/
+148405,Rockford University,NCAA,Rockford,IL,-89.019536,42.270639,www.rockford.edu/
+149222,Southern Illinois University-Carbondale,NCAA,Carbondale,IL,-89.217273,37.714193,www.siu.edu/
+149231,Southern Illinois University-Edwardsville,NCAA,Edwardsville,IL,-89.997779,38.793949,www.siue.edu/
+144050,University of Chicago,NCAA,Chicago,IL,-87.599539,41.787994,www.uchicago.edu/
+145600,University of Illinois Chicago,NCAA,Chicago,IL,-87.650503,41.871837,www.uic.edu/
+148654,University of Illinois Springfield,NCAA,Springfield,IL,-89.616796,39.729524,www.uis.edu/
+145637,University of Illinois Urbana-Champaign,NCAA,Champaign,IL,-88.229114,40.104718,www.illinois.edu/
+149772,Western Illinois University,NCAA,Macomb,IL,-90.686899,40.468086,www.wiu.edu/
+149781,Wheaton College,NCAA,Wheaton,IL,-88.099643,41.870176,www.wheaton.edu/
+150066,Anderson University,NCAA,Anderson,IN,-85.664315,40.112768,anderson.edu/
+150136,Ball State University,NCAA,Muncie,IN,-85.409043,40.203431,www.bsu.edu/
+150163,Butler University,NCAA,Indianapolis,IN,-86.172167,39.8374,www.butler.edu/
+150400,DePauw University,NCAA,Greencastle,IN,-86.860363,39.640904,www.depauw.edu/
+150455,Earlham College,NCAA,Richmond,IN,-84.915037,39.823431,earlham.edu/
+150604,Franklin College,NCAA,Franklin,IN,-86.047182,39.478298,www.franklincollege.edu/
+150756,Hanover College,NCAA,Hanover,IN,-85.460051,38.715642,www.hanover.edu/
+151324,Indiana State University,NCAA,Terre Haute,IN,-87.407846,39.469073,www.indstate.edu/
+151351,Indiana University-Bloomington,NCAA,Bloomington,IN,-86.526559,39.16609,www.indiana.edu/
+151777,Manchester University,NCAA,North Manchester,IN,-85.762643,41.010549,www.manchester.edu/
+151102,Purdue University Fort Wayne,NCAA,Fort Wayne,IN,-85.108962,41.117278,www.pfw.edu/
+490805,Purdue University Northwest,NCAA,Hammond,IN,-87.474236,41.584324,www.pnw.edu/
+243780,Purdue University-Main Campus,NCAA,West Lafayette,IN,-86.914435,40.428206,www.purdue.edu/
+152318,Rose-Hulman Institute of Technology,NCAA,Terre Haute,IN,-87.326749,39.483602,www.rose-hulman.edu/
+152567,Trine University,NCAA,Angola,IN,-85.008009,41.632502,www.trine.edu/
+150534,University of Evansville,NCAA,Evansville,IN,-87.531644,37.971549,www.evansville.edu/
+151263,University of Indianapolis,NCAA,Indianapolis,IN,-86.133969,39.709571,uindy.edu/
+152080,University of Notre Dame,NCAA,Notre Dame,IN,-86.238959,41.703058,www.nd.edu/
+151306,University of Southern Indiana,NCAA,Evansville,IN,-87.677214,37.962374,www.usi.edu/
+152600,Valparaiso University,NCAA,Valparaiso,IN,-87.040172,41.462239,www.valpo.edu/
+152673,Wabash College,NCAA,Crawfordsville,IN,-86.906,40.037588,www.wabash.edu/
+155025,Emporia State University,NCAA,Emporia,KS,-96.179021,38.414784,www.emporia.edu/
+155061,Fort Hays State University,NCAA,Hays,KS,-99.342503,38.872156,www.fhsu.edu/
+155399,Kansas State University,NCAA,Manhattan,KS,-96.581077,39.188648,www.k-state.edu/
+155335,Newman University,NCAA,Wichita,KS,-97.37768,37.672643,www.newmanu.edu/
+155681,Pittsburg State University,NCAA,Pittsburg,KS,-94.702473,37.392071,www.pittstate.edu/
+155317,University of Kansas,NCAA,Lawrence,KS,-95.247567,38.958549,ku.edu/
+156082,Washburn University,NCAA,Topeka,KS,-95.702222,39.033778,www.washburn.edu/
+156125,Wichita State University,NCAA,Wichita,KS,-97.292361,37.718882,www.wichita.edu/
+156286,Bellarmine University,NCAA,Louisville,KY,-85.704997,38.219279,www.bellarmine.edu/
+156295,Berea College,NCAA,Berea,KY,-84.292893,37.57202,www.berea.edu/
+156408,Centre College,NCAA,Danville,KY,-84.779392,37.645709,www.centre.edu/
+156620,Eastern Kentucky University,NCAA,Richmond,KY,-84.300796,37.740845,www.eku.edu/
+157058,Kentucky State University,NCAA,Frankfort,KY,-84.855402,38.201427,www.kysu.edu/
+157076,Kentucky Wesleyan College,NCAA,Owensboro,KY,-87.119658,37.744489,kwc.edu/
+157386,Morehead State University,NCAA,Morehead,KY,-83.434021,38.186768,www.moreheadstate.edu/
+157401,Murray State University,NCAA,Murray,KY,-88.323629,36.612419,www.murraystate.edu/
+157447,Northern Kentucky University,NCAA,Highland Heights,KY,-84.463483,39.029714,www.nku.edu/
+157757,Spalding University,NCAA,Louisville,KY,-85.757725,38.242407,www.spalding.edu/
+157818,Transylvania University,NCAA,Lexington,KY,-84.493202,38.052983,www.transy.edu/
+157085,University of Kentucky,NCAA,Lexington,KY,-84.504747,38.038911,www.uky.edu/
+157289,University of Louisville,NCAA,Louisville,KY,-85.760412,38.216862,www.louisville.edu/
+157951,Western Kentucky University,NCAA,Bowling Green,KY,-86.456828,36.985035,www.wku.edu/
+158477,Centenary College of Louisiana,NCAA,Shreveport,LA,-93.730834,32.483335,www.centenary.edu/
+159009,Grambling State University,NCAA,Grambling,LA,-92.713245,32.523797,www.gram.edu/
+159568,Louisiana College,NCAA,Pineville,LA,-92.425973,31.324528,www.lacollege.edu/
+159391,Louisiana State University and Agricultural & Mechanical College,NCAA,Baton Rouge,LA,-91.178921,30.414986,www.lsu.edu/
+159647,Louisiana Tech University,NCAA,Ruston,LA,-92.649963,32.528297,www.latech.edu/
+159717,McNeese State University,NCAA,Lake Charles,LA,-93.217222,30.178187,www.mcneese.edu/
+159966,Nicholls State University,NCAA,Thibodaux,LA,-90.801571,29.794486,www.nicholls.edu/
+160038,Northwestern State University of Louisiana,NCAA,Natchitoches,LA,-93.097797,31.750666,www.nsula.edu/
+160612,Southeastern Louisiana University,NCAA,Hammond,LA,-90.468676,30.514652,www.southeastern.edu/
+160621,Southern University and A & M College,NCAA,Baton Rouge,LA,-91.190105,30.524558,www.subr.edu/
+160755,Tulane University of Louisiana,NCAA,New Orleans,LA,-90.122144,29.940069,tulane.edu/
+160658,University of Louisiana at Lafayette,NCAA,Lafayette,LA,-92.020165,30.212191,www.louisiana.edu/
+159993,University of Louisiana at Monroe,NCAA,Monroe,LA,-92.07374,32.527748,www.ulm.edu/
+159939,University of New Orleans,NCAA,New Orleans,LA,-90.067142,30.027704,new.uno.edu/
+164447,American International College,NCAA,Springfield,MA,-72.558338,42.112346,www.aic.edu/
+164465,Amherst College,NCAA,Amherst,MA,-72.518493,42.372459,www.amherst.edu/
+164492,Anna Maria College,NCAA,Paxton,MA,-71.91896,42.330542,www.annamaria.edu/
+164562,Assumption University,NCAA,Worcester,MA,-71.828991,42.294226,www.assumption.edu/
+164580,Babson College,NCAA,Wellesley,MA,-71.264057,42.297017,www.babson.edu/
+164720,Becker College,NCAA,Worcester,MA,-71.811894,42.269171,www.becker.edu/
+164739,Bentley University,NCAA,Waltham,MA,-71.222839,42.385995,www.bentley.edu/
+164924,Boston College,NCAA,Chestnut Hill,MA,-71.169242,42.336213,www.bc.edu/
+165015,Brandeis University,NCAA,Waltham,MA,-71.260155,42.365727,www.brandeis.edu/
+165024,Bridgewater State University,NCAA,Bridgewater,MA,-70.974553,41.98749,www.bridgew.edu/
+165334,Clark University,NCAA,Worcester,MA,-71.823356,42.249987,www.clarku.edu/
+167394,College of Our Lady of the Elms,NCAA,Chicopee,MA,-72.60154,42.141781,www.elms.edu/
+166124,College of the Holy Cross,NCAA,Worcester,MA,-71.808214,42.23752,www.holycross.edu/
+165529,Curry College,NCAA,Milton,MA,-71.116539,42.238061,www.curry.edu/
+165574,Dean College,NCAA,Franklin,MA,-71.397813,42.085634,www.dean.edu/
+165644,Eastern Nazarene College,NCAA,Quincy,MA,-71.011079,42.271228,www.enc.edu/
+165662,Emerson College,NCAA,Boston,MA,-71.065384,42.352202,www.emerson.edu/
+165699,Endicott College,NCAA,Beverly,MA,-70.840847,42.553296,www.endicott.edu/
+165820,Fitchburg State University,NCAA,Fitchburg,MA,-71.789666,42.588298,www.fitchburgstate.edu/
+165866,Framingham State University,NCAA,Framingham,MA,-71.437565,42.297116,www.framingham.edu/
+165936,Gordon College,NCAA,Wenham,MA,-70.82151,42.590567,www.gordon.edu/
+166027,Harvard University,NCAA,Cambridge,MA,-71.118313,42.374471,www.harvard.edu/
+166391,Lasell University,NCAA,Newton,MA,-71.24347,42.342148,www.lasell.edu/
+166452,Lesley University,NCAA,Cambridge,MA,-71.117303,42.38012,www.lesley.edu/
+167288,Massachusetts College of Liberal Arts,NCAA,North Adams,MA,-73.102817,42.691361,www.mcla.edu/
+166683,Massachusetts Institute of Technology,NCAA,Cambridge,MA,-71.093226,42.359243,web.mit.edu/
+166692,Massachusetts Maritime Academy,NCAA,Buzzards Bay,MA,-70.624084,41.739072,www.maritime.edu/
+166850,Merrimack College,NCAA,North Andover,MA,-71.124216,42.668344,www.merrimack.edu/
+167260,Nichols College,NCAA,Dudley,MA,-71.930283,42.044033,www.nichols.edu/
+167358,Northeastern University,NCAA,Boston,MA,-71.088782,42.339992,www.northeastern.edu/
+482705,Northeastern University Lifelong Learning Network,NCAA,Boston,MA,-71.088782,42.339992,www.northeastern.edu/learnforlife/
+167455,Pine Manor College,NCAA,Chestnut Hill,MA,-71.156464,42.320827,www.pmc.edu/
+167729,Salem State University,NCAA,Salem,MA,-70.890234,42.503575,www.salemstate.edu/
+167899,Springfield College,NCAA,Springfield,MA,-72.556751,42.101576,www.springfield.edu/
+167996,Stonehill College,NCAA,Easton,MA,-71.080632,42.05905,www.stonehill.edu/
+168005,Suffolk University,NCAA,Boston,MA,-71.060917,42.357945,www.suffolk.edu/
+168148,Tufts University,NCAA,Medford,MA,-71.118293,42.40855,www.tufts.edu/
+166629,University of Massachusetts-Amherst,NCAA,Amherst,MA,-72.526728,42.385999,www.umass.edu/
+166638,University of Massachusetts-Boston,NCAA,Boston,MA,-71.036865,42.312881,www.umb.edu/
+167987,University of Massachusetts-Dartmouth,NCAA,North Dartmouth,MA,-71.004552,41.62869,www.umassd.edu/
+166513,University of Massachusetts-Lowell,NCAA,Lowell,MA,-71.326809,42.652864,www.uml.edu/
+168227,Wentworth Institute of Technology,NCAA,Boston,MA,-71.094983,42.336632,wit.edu/
+168254,Western New England University,NCAA,Springfield,MA,-72.520466,42.115017,www1.wne.edu/
+168263,Westfield State University,NCAA,Westfield,MA,-72.796503,42.132698,www.westfield.ma.edu/
+168281,Wheaton College,NCAA,Norton,MA,-71.183979,41.966637,www.wheatoncollege.edu/
+168342,Williams College,NCAA,Williamstown,MA,-73.203132,42.712725,www.williams.edu/
+168421,Worcester Polytechnic Institute,NCAA,Worcester,MA,-71.808339,42.274853,www.wpi.edu/
+168430,Worcester State University,NCAA,Worcester,MA,-71.844018,42.267526,www.worcester.edu/
+162283,Coppin State University,NCAA,Baltimore,MD,-76.658687,39.311258,www.coppin.edu/
+162584,Frostburg State University,NCAA,Frostburg,MD,-78.934293,39.650918,www.frostburg.edu/
+162760,Hood College,NCAA,Frederick,MD,-77.419049,39.420631,www.hood.edu/
+162928,Johns Hopkins University,NCAA,Baltimore,MD,-76.621595,39.328977,www.jhu.edu/
+164270,McDaniel College,NCAA,Westminster,MD,-77.001992,39.584231,www.mcdaniel.edu/
+163462,Mount St. Mary's University,NCAA,Emmitsburg,MD,-77.351887,39.681705,msmary.edu/
+163851,Salisbury University,NCAA,Salisbury,MD,-75.604815,38.34648,www.salisbury.edu/
+163912,St. Mary's College of Maryland,NCAA,St. Mary's City,MD,-76.429097,38.190904,www.smcm.edu/
+164173,Stevenson University,NCAA,Stevenson,MD,-76.702092,39.421988,www.stevenson.edu/
+164076,Towson University,NCAA,Towson,MD,-76.611164,39.393622,www.towson.edu/
+164155,United States Naval Academy,NCAA,Annapolis,MD,-76.481692,38.980507,www.usna.edu/
+163338,University of Maryland Eastern Shore,NCAA,Princess Anne,MD,-75.686852,38.207386,www.umes.edu/
+163268,University of Maryland-Baltimore County,NCAA,Baltimore,MD,-76.711607,39.256686,umbc.edu/
+163286,University of Maryland-College Park,NCAA,College Park,MD,-76.944721,38.988178,www.umd.edu/
+164216,Washington College,NCAA,Chestertown,MD,-76.06878,39.217329,www.washcoll.edu/
+160977,Bates College,NCAA,Lewiston,ME,-70.203333,44.105299,www.bates.edu/
+161004,Bowdoin College,NCAA,Brunswick,ME,-69.963942,43.907134,www.bowdoin.edu/
+161086,Colby College,NCAA,Waterville,ME,-69.66337,44.564211,www.colby.edu/
+487524,Husson University,NCAA,Bangor,ME,-68.791476,44.829002,www.husson.edu/
+161518,Saint Joseph's College of Maine,NCAA,Standish,ME,-70.483373,43.826314,www.sjcme.edu/
+161563,Thomas College,NCAA,Waterville,ME,-69.664734,44.524909,www.thomas.edu/
+161253,University of Maine,NCAA,Orono,ME,-68.669332,44.899257,www.umaine.edu/
+161226,University of Maine at Farmington,NCAA,Farmington,ME,-70.147121,44.666911,www.umf.maine.edu/
+161341,University of Maine at Presque Isle,NCAA,Presque Isle,ME,-68.016343,46.672285,www.umpi.edu/
+161554,University of Southern Maine,NCAA,Portland,ME,-70.274247,43.662863,www.usm.maine.edu/
+168528,Adrian College,NCAA,Adrian,MI,-84.061481,41.898591,www.adrian.edu/
+168546,Albion College,NCAA,Albion,MI,-84.745639,42.245049,www.albion.edu/
+168591,Alma College,NCAA,Alma,MI,-84.672053,43.38004,alma.edu/
+169080,Calvin University,NCAA,Grand Rapids,MI,-85.587548,42.929916,www.calvin.edu/
+169248,Central Michigan University,NCAA,Mount Pleasant,MI,-84.77525,43.591203,www.cmich.edu/
+169479,Davenport University,NCAA,Grand Rapids,MI,-85.533519,42.850013,www.davenport.edu/
+169798,Eastern Michigan University,NCAA,Ypsilanti,MI,-83.627443,42.251675,www.emich.edu/
+172440,Finlandia University,NCAA,Hancock,MI,-88.588756,47.127868,www.finlandia.edu/
+170082,Grand Valley State University,NCAA,Allendale,MI,-85.889826,42.963001,www.gvsu.edu/
+170286,Hillsdale College,NCAA,Hillsdale,MI,-84.633195,41.933682,www.hillsdale.edu/
+170301,Hope College,NCAA,Holland,MI,-86.102089,42.787298,www.hope.edu/
+170532,Kalamazoo College,NCAA,Kalamazoo,MI,-85.601857,42.290789,www.kzoo.edu/
+171100,Michigan State University,NCAA,East Lansing,MI,-84.476111,42.73212,www.msu.edu/
+171492,Northwood University,NCAA,Midland,MI,-84.27682,43.628717,www.northwood.edu/
+171571,Oakland University,NCAA,Rochester Hills,MI,-83.216418,42.674573,www.oakland.edu/
+171599,Olivet College,NCAA,Olivet,MI,-84.923891,42.442891,www.olivetcollege.edu/
+172051,Saginaw Valley State University,NCAA,University Center,MI,-83.964273,43.51176,www.svsu.edu/
+170976,University of Michigan-Ann Arbor,NCAA,Ann Arbor,MI,-83.742769,42.275921,umich.edu/
+172644,Wayne State University,NCAA,Detroit,MI,-83.068998,42.358994,www.wayne.edu/
+172699,Western Michigan University,NCAA,Kalamazoo,MI,-85.613759,42.282194,wmich.edu/
+173045,Augsburg University,NCAA,Minneapolis,MN,-93.240436,44.966307,www.augsburg.edu/
+173124,Bemidji State University,NCAA,Bemidji,MN,-94.874119,47.482341,www.bemidjistate.edu/
+173142,Bethany Lutheran College,NCAA,Mankato,MN,-93.990805,44.166649,www.blc.edu/
+173160,Bethel University,NCAA,Saint Paul,MN,-93.161663,45.057655,www.bethel.edu/
+173258,Carleton College,NCAA,Northfield,MN,-93.154666,44.462318,www.carleton.edu/
+173300,Concordia College at Moorhead,NCAA,Moorhead,MN,-96.76749,46.862482,www.concordiacollege.edu/
+173328,Concordia University-Saint Paul,NCAA,Saint Paul,MN,-93.154861,44.949759,www.csp.edu/
+174862,Crown College,NCAA,Saint Bonifacius,MN,-93.743019,44.885393,www.crown.edu/
+173647,Gustavus Adolphus College,NCAA,Saint Peter,MN,-93.972196,44.323626,gustavus.edu/
+173665,Hamline University,NCAA,Saint Paul,MN,-93.164479,44.966246,www.hamline.edu/
+173902,Macalester College,NCAA,Saint Paul,MN,-93.168053,44.938565,www.macalester.edu/
+173452,Martin Luther College,NCAA,New Ulm,MN,-94.472326,44.30526,www.mlc-wels.edu/
+173920,Minnesota State University-Mankato,NCAA,Mankato,MN,-93.99945,44.146712,mankato.mnsu.edu/
+174437,North Central University,NCAA,Minneapolis,MN,-93.261511,44.968625,www.northcentral.edu/
+174783,Saint Cloud State University,NCAA,Saint Cloud,MN,-94.152657,45.553227,www.stcloudstate.edu/
+174792,Saint Johns University,NCAA,Collegeville,MN,-94.393621,45.580075,csbsju.edu/
+174817,Saint Mary's University of Minnesota,NCAA,Winona,MN,-91.695449,44.044736,www.smumn.edu/
+175078,Southwest Minnesota State University,NCAA,Marshall,MN,-95.759548,44.45373,www.smsu.edu/
+174844,St Olaf College,NCAA,Northfield,MN,-93.182039,44.461529,wp.stolaf.edu/
+174899,The College of Saint Scholastica,NCAA,Duluth,MN,-92.106134,46.816082,www.css.edu/
+174075,University of Minnesota-Crookston,NCAA,Crookston,MN,-96.606188,47.802536,www.crk.umn.edu/
+174233,University of Minnesota-Duluth,NCAA,Duluth,MN,-92.084385,46.817126,www.d.umn.edu/
+174251,University of Minnesota-Morris,NCAA,Morris,MN,-95.899729,45.589775,morris.umn.edu/
+174066,University of Minnesota-Twin Cities,NCAA,Minneapolis,MN,-93.235464,44.972851,twin-cities.umn.edu/
+174491,University of Northwestern-St Paul,NCAA,Saint Paul,MN,-93.167822,45.033703,www.unwsp.edu/
+174914,University of St Thomas,NCAA,Saint Paul,MN,-93.188986,44.943439,www.stthomas.edu/
+175272,Winona State University,NCAA,Winona,MN,-91.643723,44.046159,www.winona.edu/
+177214,Drury University,NCAA,Springfield,MO,-93.286192,37.219681,www.drury.edu/
+177418,Fontbonne University,NCAA,Saint Louis,MO,-90.315712,38.642697,www.fontbonne.edu/
+177940,Lincoln University,NCAA,Jefferson City,MO,-92.166724,38.564431,www.lincolnu.edu/
+177968,Lindenwood University,NCAA,Saint Charles,MO,-90.501286,38.785425,www.lindenwood.edu/
+178059,Maryville University of Saint Louis,NCAA,Saint Louis,MO,-90.505998,38.644774,www.maryville.edu/
+178341,Missouri Southern State University,NCAA,Joplin,MO,-94.461689,37.095155,www.mssu.edu/
+179566,Missouri State University-Springfield,NCAA,Springfield,MO,-93.281281,37.199258,www.missouristate.edu/
+178411,Missouri University of Science and Technology,NCAA,Rolla,MO,-91.775583,37.953426,www.mst.edu/
+178387,Missouri Western State University,NCAA,Saint Joseph,MO,-94.785643,39.7575,www.missouriwestern.edu/
+178624,Northwest Missouri State University,NCAA,Maryville,MO,-94.883339,40.351692,www.nwmissouri.edu/
+179043,Rockhurst University,NCAA,Kansas City,MO,-94.573003,39.032318,www.rockhurst.edu/
+179159,Saint Louis University,NCAA,Saint Louis,MO,-90.2351,38.636801,www.slu.edu/
+179557,Southeast Missouri State University,NCAA,Cape Girardeau,MO,-89.531187,37.311107,www.semo.edu/
+179326,Southwest Baptist University,NCAA,Bolivar,MO,-93.407056,37.602425,www.sbuniv.edu/
+178615,Truman State University,NCAA,Kirksville,MO,-92.581658,40.188267,www.truman.edu/
+176965,University of Central Missouri,NCAA,Warrensburg,MO,-93.737428,38.759111,www.ucmo.edu/
+178396,University of Missouri-Columbia,NCAA,Columbia,MO,-92.328843,38.94531,missouri.edu/
+178420,University of Missouri-St Louis,NCAA,Saint Louis,MO,-90.311091,38.710312,www.umsl.edu/
+179867,Washington University in St Louis,NCAA,Saint Louis,MO,-90.310604,38.647929,www.wustl.edu/
+179894,Webster University,NCAA,Saint Louis,MO,-90.345151,38.588875,www.webster.edu/
+179946,Westminster College,NCAA,Fulton,MO,-91.955273,38.849354,www.wcmo.edu/
+179955,William Jewell College,NCAA,Liberty,MO,-94.413126,39.247844,www.jewell.edu/
+175342,Alcorn State University,NCAA,Alcorn State,MS,-91.142854,31.877216,www.alcorn.edu/
+175421,Belhaven University,NCAA,Jackson,MS,-90.169228,32.318415,www.belhaven.edu/
+175616,Delta State University,NCAA,Cleveland,MS,-90.735365,33.744745,www.deltastate.edu/
+175856,Jackson State University,NCAA,Jackson,MS,-90.207405,32.296105,www.jsums.edu/
+175980,Millsaps College,NCAA,Jackson,MS,-90.179957,32.322746,www.millsaps.edu/
+176053,Mississippi College,NCAA,Clinton,MS,-90.329821,32.335515,www.mc.edu/
+176080,Mississippi State University,NCAA,Mississippi State,MS,-88.790139,33.454852,www.msstate.edu/
+176044,Mississippi Valley State University,NCAA,Itta Bena,MS,-90.341274,33.514142,www.mvsu.edu/
+176017,University of Mississippi,NCAA,University,MS,-89.537434,34.365529,www.olemiss.edu/
+176372,University of Southern Mississippi,NCAA,Hattiesburg,MS,-89.331236,31.32661,www.usm.edu/
+180179,Montana State University Billings,NCAA,Billings,MT,-108.523009,45.796896,www.msubillings.edu/
+197869,Appalachian State University,NCAA,Boone,NC,-81.680583,36.215536,www.appstate.edu/
+197911,Barton College,NCAA,Wilson,NC,-77.913867,35.734376,www.barton.edu/
+197984,Belmont Abbey College,NCAA,Belmont,NC,-81.041315,35.260651,www.belmontabbeycollege.edu/
+198066,Brevard College,NCAA,Brevard,NC,-82.729494,35.236763,www.brevard.edu/
+198136,Campbell University,NCAA,Buies Creek,NC,-78.738238,35.409149,www.campbell.edu/
+198215,Catawba College,NCAA,Salisbury,NC,-80.482751,35.691443,www.catawba.edu/
+198303,Chowan University,NCAA,Murfreesboro,NC,-77.099141,36.436258,www.chowan.edu/
+198385,Davidson College,NCAA,Davidson,NC,-80.843979,35.499767,davidson.edu/
+198419,Duke University,NCAA,Durham,NC,-78.937624,36.001135,www.duke.edu/
+198464,East Carolina University,NCAA,Greenville,NC,-77.368291,35.607186,www.ecu.edu/
+198507,Elizabeth City State University,NCAA,Elizabeth City,NC,-76.214041,36.277978,www.ecsu.edu/
+198516,Elon University,NCAA,Elon,NC,-79.50344,36.104148,www.elon.edu/
+198561,Gardner-Webb University,NCAA,Boiling Springs,NC,-81.668141,35.24732,www.gardner-webb.edu/
+198598,Greensboro College,NCAA,Greensboro,NC,-79.800232,36.071082,www.greensboro.edu/
+198613,Guilford College,NCAA,Greensboro,NC,-79.887737,36.094233,www.guilford.edu/
+198695,High Point University,NCAA,High Point,NC,-79.994675,35.972035,www.highpoint.edu/
+198835,Lenoir-Rhyne University,NCAA,Hickory,NC,-81.327598,35.739968,www.lr.edu/
+198899,Mars Hill University,NCAA,Mars Hill,NC,-82.551827,35.82752,www.mhu.edu/
+198969,Methodist University,NCAA,Fayetteville,NC,-78.874426,35.135058,www.methodist.edu/
+199102,North Carolina A & T State University,NCAA,Greensboro,NC,-79.773375,36.07282,www.ncat.edu/
+199157,North Carolina Central University,NCAA,Durham,NC,-78.898602,35.974237,www.nccu.edu/
+199193,North Carolina State University at Raleigh,NCAA,Raleigh,NC,-78.674517,35.785111,www.ncsu.edu/
+199209,North Carolina Wesleyan College,NCAA,Rocky Mount,NC,-77.773982,36.019665,www.ncwc.edu/
+199306,Pfeiffer University,NCAA,Misenheimer,NC,-80.283168,35.484696,www.pfeiffer.edu/
+199412,Queens University of Charlotte,NCAA,Charlotte,NC,-80.833509,35.189051,www.queens.edu/
+199069,University of Mount Olive,NCAA,Mount Olive,NC,-78.069388,35.208166,www.umo.edu/
+199111,University of North Carolina at Asheville,NCAA,Asheville,NC,-82.565392,35.617068,www.unca.edu/
+199120,University of North Carolina at Chapel Hill,NCAA,Chapel Hill,NC,-79.050969,35.911769,www.unc.edu/
+199139,University of North Carolina at Charlotte,NCAA,Charlotte,NC,-80.730919,35.306022,www.uncc.edu/
+199148,University of North Carolina at Greensboro,NCAA,Greensboro,NC,-79.809414,36.068236,www.uncg.edu/
+199281,University of North Carolina at Pembroke,NCAA,Pembroke,NC,-79.200347,34.688313,www.uncp.edu/
+199218,University of North Carolina Wilmington,NCAA,Wilmington,NC,-77.875527,34.225223,www.uncw.edu/
+199847,Wake Forest University,NCAA,Winston-Salem,NC,-80.277446,36.133609,www.wfu.edu/
+200004,Western Carolina University,NCAA,Cullowhee,NC,-83.186258,35.308979,www.wcu.edu/
+199272,William Peace University,NCAA,Raleigh,NC,-78.637697,35.789139,www.peace.edu/
+199962,Wingate University,NCAA,Wingate,NC,-80.44305,34.986064,www.wingate.edu/
+199999,Winston-Salem State University,NCAA,Winston-Salem,NC,-80.225033,36.089554,www.wssu.edu/
+200253,Minot State University,NCAA,Minot,ND,-101.29861,48.246961,www.minotstateu.edu/
+200332,North Dakota State University-Main Campus,NCAA,Fargo,ND,-96.800838,46.893127,www.ndsu.edu/
+200217,University of Mary,NCAA,Bismarck,ND,-100.75274,46.723767,www.umary.edu/
+181002,Creighton University,NCAA,Omaha,NE,-95.947811,41.265361,www.creighton.edu/
+181446,Nebraska Wesleyan University,NCAA,Lincoln,NE,-96.64831,40.839098,www.nebrwesleyan.edu/
+181394,University of Nebraska at Omaha,NCAA,Omaha,NE,-96.008516,41.258769,www.unomaha.edu/
+181464,University of Nebraska-Lincoln,NCAA,Lincoln,NE,-96.700508,40.817598,www.unl.edu/
+181783,Wayne State College,NCAA,Wayne,NE,-97.015122,42.241556,www.wsc.edu/
+182634,Colby-Sawyer College,NCAA,New London,NH,-71.975805,43.411663,www.colby-sawyer.edu/
+182670,Dartmouth College,NCAA,Hanover,NH,-72.289949,43.704115,www.dartmouth.edu/
+182795,Franklin Pierce University,NCAA,Rindge,NH,-72.058011,42.78014,www.franklinpierce.edu/
+183062,Keene State College,NCAA,Keene,NH,-72.279276,42.926452,www.keene.edu/
+182980,New England College,NCAA,Henniker,NH,-71.822282,43.176403,www.nec.edu/
+183080,Plymouth State University,NCAA,Plymouth,NH,-71.690164,43.759573,www.plymouth.edu/
+183211,Rivier University,NCAA,Nashua,NH,-71.45626,42.738676,www.rivier.edu/
+183239,Saint Anselm College,NCAA,Manchester,NH,-71.503622,42.986889,www.anselm.edu/
+183026,Southern New Hampshire University,NCAA,Manchester,NH,-71.451842,43.038922,www.snhu.edu/
+183822,Bloomfield College,NCAA,Bloomfield,NJ,-74.194309,40.795105,www.bloomfield.edu/
+183910,Caldwell University,NCAA,Caldwell,NJ,-74.272571,40.832753,www.caldwell.edu/
+183974,Centenary University,NCAA,Hackettstown,NJ,-74.833644,40.84764,www.centenaryuniversity.edu/
+184348,Drew University,NCAA,Madison,NJ,-74.424584,40.761829,www.drew.edu/
+184694,Fairleigh Dickinson University-Florham Campus,NCAA,Madison,NJ,-74.432121,40.774498,www.fdu.edu/
+184603,Fairleigh Dickinson University-Metropolitan Campus,NCAA,Teaneck,NJ,-74.028986,40.897209,www.fdu.edu/
+184612,Felician University,NCAA,Lodi,NJ,-74.096452,40.867272,www.felician.edu/
+185262,Kean University,NCAA,Union,NJ,-74.233503,40.677981,www.kean.edu/
+185572,Monmouth University,NCAA,West Long Branch,NJ,-74.006447,40.280066,www.monmouth.edu/
+185590,Montclair State University,NCAA,Montclair,NJ,-74.198141,40.860414,www.montclair.edu/
+185129,New Jersey City University,NCAA,Jersey City,NJ,-74.08727,40.709937,www.njcu.edu/
+185828,New Jersey Institute of Technology,NCAA,Newark,NJ,-74.177113,40.741997,www.njit.edu/
+186131,Princeton University,NCAA,Princeton,NJ,-74.659365,40.348732,www.princeton.edu/
+186201,Ramapo College of New Jersey,NCAA,Mahwah,NJ,-74.174086,41.080942,www.ramapo.edu/
+186283,Rider University,NCAA,Lawrenceville,NJ,-74.737833,40.278796,www.rider.edu/
+184782,Rowan University,NCAA,Glassboro,NJ,-75.119119,39.709108,www.rowan.edu/
+186371,Rutgers University-Camden,NCAA,Camden,NJ,-75.12224,39.948064,www.camden.rutgers.edu/
+186380,Rutgers University-New Brunswick,NCAA,New Brunswick,NJ,-74.446251,40.498769,newbrunswick.rutgers.edu/
+186399,Rutgers University-Newark,NCAA,Newark,NJ,-74.175809,40.739122,www.newark.rutgers.edu/
+186618,Saint Elizabeth University,NCAA,Morristown,NJ,-74.438221,40.78182,www.steu.edu/
+186432,Saint Peter's University,NCAA,Jersey City,NJ,-74.071541,40.727105,www.saintpeters.edu/
+186584,Seton Hall University,NCAA,South Orange,NJ,-74.246027,40.742336,www.shu.edu/
+186867,Stevens Institute of Technology,NCAA,Hoboken,NJ,-74.025334,40.744776,www.stevens.edu/
+186876,Stockton University,NCAA,Galloway,NJ,-74.531087,39.492036,www.stockton.edu/
+187134,The College of New Jersey,NCAA,Ewing,NJ,-74.778791,40.268651,www.tcnj.edu/
+187444,William Paterson University of New Jersey,NCAA,Wayne,NJ,-74.200248,40.945255,www.wpunj.edu/
+187648,Eastern New Mexico University-Main Campus,NCAA,Portales,NM,-103.34819,34.175592,www.enmu.edu/
+187897,New Mexico Highlands University,NCAA,Las Vegas,NM,-105.219197,35.596233,www.nmhu.edu/
+188030,New Mexico State University-Main Campus,NCAA,Las Cruces,NM,-106.752069,32.281568,www.nmsu.edu/
+187985,University of New Mexico-Main Campus,NCAA,Albuquerque,NM,-106.620155,35.083868,www.unm.edu/
+182281,University of Nevada-Las Vegas,NCAA,Las Vegas,NV,-115.138462,36.106047,www.unlv.edu/
+182290,University of Nevada-Reno,NCAA,Reno,NV,-119.815377,39.543642,www.unr.edu/
+188429,Adelphi University,NCAA,Garden City,NY,-73.653321,40.721439,www.adelphi.edu/
+189088,Bard College,NCAA,Annandale-On-Hudson,NY,-73.909927,42.020386,www.bard.edu/
+196079,Binghamton University,NCAA,Vestal,NY,-75.966889,42.087868,www.binghamton.edu/
+189705,Canisius College,NCAA,Buffalo,NY,-78.852577,42.925206,www.canisius.edu/
+189848,Cazenovia College,NCAA,Cazenovia,NY,-75.854882,42.932489,www.cazenovia.edu/
+190044,Clarkson University,NCAA,Potsdam,NY,-74.999359,44.662716,www.clarkson.edu/
+193399,College of Mount Saint Vincent,NCAA,Bronx,NY,-73.908887,40.913657,www.mountsaintvincent.edu/
+190558,College of Staten Island CUNY,NCAA,Staten Island,NY,-74.14849,40.601831,www.csi.cuny.edu/
+190150,Columbia University in the City of New York,NCAA,New York,NY,-73.961885,40.808286,www.columbia.edu/
+190248,Concordia College,NCAA,Bronxville,NY,-73.82202,40.943382,www.concordia-ny.edu/
+190415,Cornell University,NCAA,Ithaca,NY,-76.483084,42.4472,www.cornell.edu/
+190512,CUNY Bernard M Baruch College,NCAA,New York,NY,-73.983417,40.740238,www.baruch.cuny.edu/
+190567,CUNY City College,NCAA,New York,NY,-73.948542,40.819846,www.ccny.cuny.edu/
+190600,CUNY John Jay College of Criminal Justice,NCAA,New York,NY,-73.98841,40.770351,www.jjay.cuny.edu/
+190637,CUNY Lehman College,NCAA,Bronx,NY,-73.895379,40.872962,www.lehman.edu/
+190664,CUNY Queens College,NCAA,Queens,NY,-73.816098,40.735182,www.qc.cuny.edu/
+190716,D'Youville College,NCAA,Buffalo,NY,-78.890868,42.902636,www.dyc.edu/
+190761,Dominican College of Blauvelt,NCAA,Orangeburg,NY,-73.950555,41.047419,www.dc.edu/
+190983,Elmira College,NCAA,Elmira,NY,-76.813459,42.0961,www.elmira.edu/
+196042,Farmingdale State College,NCAA,Farmingdale,NY,-73.42832,40.754224,www.farmingdale.edu/
+191241,Fordham University,NCAA,Bronx,NY,-73.882705,40.859354,www.fordham.edu/
+191515,Hamilton College,NCAA,Clinton,NY,-75.408195,43.050245,www.hamilton.edu/
+191621,Hilbert College,NCAA,Hamburg,NY,-78.820257,42.75464,www.hilbert.edu/
+191649,Hofstra University,NCAA,Hempstead,NY,-73.60078,40.715959,www.hofstra.edu/
+191676,Houghton College,NCAA,Houghton,NY,-78.155426,42.426137,www.houghton.edu/
+191931,Iona College,NCAA,New Rochelle,NY,-73.788046,40.925725,www.iona.edu/
+191968,Ithaca College,NCAA,Ithaca,NY,-76.494136,42.422154,www.ithaca.edu/
+192192,Keuka College,NCAA,Keuka Park,NY,-77.090562,42.615253,www.keuka.edu/
+192323,Le Moyne College,NCAA,Syracuse,NY,-76.090435,43.049192,www.lemoyne.edu/
+192448,Long Island University,NCAA,Brookville,NY,-73.593678,40.820714,www.liu.edu/
+192703,Manhattan College,NCAA,Riverdale,NY,-73.901893,40.889756,www.manhattan.edu/
+192749,Manhattanville College,NCAA,Purchase,NY,-73.715645,41.032187,www.mville.edu/
+192819,Marist College,NCAA,Poughkeepsie,NY,-73.935484,41.720937,www.marist.edu/
+192925,Medaille College,NCAA,Buffalo,NY,-78.855941,42.92856,www.medaille.edu/
+193016,Mercy College,NCAA,Dobbs Ferry,NY,-73.874447,41.021626,www.mercy.edu/
+193292,Molloy College,NCAA,Rockville Centre,NY,-73.626183,40.685941,www.molloy.edu/
+193353,Mount Saint Mary College,NCAA,Newburgh,NY,-74.012655,41.513872,www.msmc.edu/
+194091,New York Institute of Technology,NCAA,Old Westbury,NY,-73.6078,40.812447,www.nyit.edu/
+193900,New York University,NCAA,New York,NY,-73.997264,40.729452,www.nyu.edu/
+193973,Niagara University,NCAA,Niagara University,NY,-79.036689,43.137279,www.niagara.edu/
+194161,Nyack College,NCAA,New York,NY,-74.015605,40.705798,www.nyack.edu/consumerinfo
+194310,Pace University,NCAA,New York,NY,-74.004719,40.711014,www.pace.edu/
+194824,Rensselaer Polytechnic Institute,NCAA,Troy,NY,-73.676646,42.729978,www.rpi.edu/
+195003,Rochester Institute of Technology,NCAA,Rochester,NY,-77.67386,43.084188,www.rit.edu/
+195720,Saint John Fisher College,NCAA,Rochester,NY,-77.513056,43.116259,www.sjfc.edu/
+195474,Siena College,NCAA,Loudonville,NY,-73.7526,42.717602,www.siena.edu/
+195526,Skidmore College,NCAA,Saratoga Springs,NY,-73.785335,43.097035,www.skidmore.edu/
+195164,St Bonaventure University,NCAA,Saint Bonaventure,NY,-78.481107,42.080191,www.sbu.edu/
+195216,St Lawrence University,NCAA,Canton,NY,-75.161343,44.589879,www.stlawu.edu/
+195809,St. John's University-New York,NCAA,Queens,NY,-73.796104,40.722523,www.stjohns.edu/
+195544,St. Joseph's College-New York,NCAA,Brooklyn,NY,-73.967664,40.690418,www.sjcny.edu/
+195243,St. Thomas Aquinas College,NCAA,Sparkill,NY,-73.936799,41.041576,www.stac.edu/
+196176,State University of New York at New Paltz,NCAA,New Paltz,NY,-74.082188,41.740936,www.newpaltz.edu/
+196097,Stony Brook University,NCAA,Stony Brook,NY,-73.12046,40.91476,www.stonybrook.edu/
+196060,SUNY at Albany,NCAA,Albany,NY,-73.824662,42.685489,www.albany.edu/
+196158,SUNY at Fredonia,NCAA,Fredonia,NY,-79.337375,42.452236,www.fredonia.edu/
+196219,SUNY at Purchase College,NCAA,Purchase,NY,-73.701955,41.047223,www.purchase.edu/
+196121,SUNY Brockport,NCAA,Brockport,NY,-77.947188,43.211926,www.brockport.edu/
+196237,SUNY College at Old Westbury,NCAA,Old Westbury,NY,-73.571907,40.799021,www.oldwestbury.edu/
+196194,SUNY College at Oswego,NCAA,Oswego,NY,-76.540798,43.454287,www.oswego.edu/
+196246,SUNY College at Plattsburgh,NCAA,Plattsburgh,NY,-73.466536,44.69293,www.plattsburgh.edu/
+196033,SUNY College of Agriculture and Technology at Cobleskill,NCAA,Cobleskill,NY,-74.498258,42.672534,www.cobleskill.edu/
+196006,SUNY College of Technology at Alfred,NCAA,Alfred,NY,-77.794632,42.255262,www.alfredstate.edu/
+196015,SUNY College of Technology at Canton,NCAA,Canton,NY,-75.182906,44.604096,www.canton.edu/
+196149,SUNY Cortland,NCAA,Cortland,NY,-76.188655,42.598022,www2.cortland.edu/
+196291,SUNY Maritime College,NCAA,Throggs Neck,NY,-73.795309,40.807217,www.sunymaritime.edu/
+196185,SUNY Oneonta,NCAA,Oneonta,NY,-75.063632,42.468861,suny.oneonta.edu/
+196112,SUNY Polytechnic Institute,NCAA,Utica,NY,-75.229841,43.137701,www.sunypoly.edu/
+195234,The College of Saint Rose,NCAA,Albany,NY,-73.786661,42.664297,www.strose.edu/
+196866,Union College,NCAA,Schenectady,NY,-73.928788,42.818097,www.union.edu/
+197027,United States Merchant Marine Academy,NCAA,Kings Point,NY,-73.763004,40.81357,www.usmma.edu/
+197036,United States Military Academy,NCAA,West  Point,NY,-73.956603,41.390479,www.westpoint.edu/
+195030,University of Rochester,NCAA,Rochester,NY,-77.631202,43.126397,www.rochester.edu/
+197045,Utica College,NCAA,Utica,NY,-75.272916,43.096213,www.utica.edu/
+197133,Vassar College,NCAA,Poughkeepsie,NY,-73.895088,41.686895,www.vassar.edu/
+197197,Wagner College,NCAA,Staten Island,NY,-74.092913,40.615588,www.wagner.edu/
+197230,Wells College,NCAA,Aurora,NY,-76.696028,42.742943,www.wells.edu/
+197708,Yeshiva University,NCAA,New York,NY,-73.929873,40.850605,www.yu.edu/
+201104,Ashland University,NCAA,Ashland,OH,-82.321061,40.861755,www.ashland.edu/
+201195,Baldwin Wallace University,NCAA,Berea,OH,-81.851145,41.373017,www.bw.edu/
+201371,Bluffton University,NCAA,Bluffton,OH,-83.899439,40.895606,www.bluffton.edu/
+201441,Bowling Green State University-Main Campus,NCAA,Bowling Green,OH,-83.640896,41.375513,www.bgsu.edu/
+201548,Capital University,NCAA,Columbus,OH,-82.937867,39.954875,www.capital.edu/
+201645,Case Western Reserve University,NCAA,Cleveland,OH,-81.609596,41.507419,www.case.edu/
+201654,Cedarville University,NCAA,Cedarville,OH,-83.814692,39.749237,www.cedarville.edu/
+202514,Defiance College,NCAA,Defiance,OH,-84.357075,41.296842,www.defiance.edu/
+202523,Denison University,NCAA,Granville,OH,-82.523272,40.071505,www.denison.edu/
+205957,Franciscan University of Steubenville,NCAA,Steubenville,OH,-80.620524,40.376919,www.franciscan.edu/
+203085,Heidelberg University,NCAA,Tiffin,OH,-83.168387,41.114833,www.heidelberg.edu/
+203128,Hiram College,NCAA,Hiram,OH,-81.143981,41.3107,www.hiram.edu/
+203368,John Carroll University,NCAA,University Heights,OH,-81.531338,41.491321,jcu.edu/
+203517,Kent State University at Kent,NCAA,Kent,OH,-81.342533,41.146653,www.kent.edu/
+203535,Kenyon College,NCAA,Gambier,OH,-82.397977,40.374408,www.kenyon.edu/
+203580,Lake Erie College,NCAA,Painesville,OH,-81.251817,41.717841,www.lec.edu/
+203775,Malone University,NCAA,Canton,OH,-81.376863,40.825662,www.malone.edu/
+203845,Marietta College,NCAA,Marietta,OH,-81.450045,39.41668,www.marietta.edu/
+204024,Miami University-Oxford,NCAA,Oxford,OH,-84.732954,39.507757,miamioh.edu/
+204200,Mount Saint Joseph University,NCAA,Cincinnati,OH,-84.639453,39.095893,www.msj.edu/
+204264,Muskingum University,NCAA,New Concord,OH,-81.737127,39.996585,www.muskingum.edu/
+204468,Notre Dame College,NCAA,Cleveland,OH,-81.516617,41.506894,www.notredamecollege.edu/
+204501,Oberlin College,NCAA,Oberlin,OH,-82.216795,41.291992,www.oberlin.edu/
+204617,Ohio Dominican University,NCAA,Columbus,OH,-82.940689,39.992764,www.ohiodominican.edu/
+204635,Ohio Northern University,NCAA,Ada,OH,-83.827441,40.7662,www.onu.edu/
+204796,Ohio State University-Main Campus,NCAA,Columbus,OH,-83.014853,39.999324,www.osu.edu/
+204857,Ohio University-Main Campus,NCAA,Athens,OH,-82.100985,39.326798,www.ohio.edu/
+204909,Ohio Wesleyan University,NCAA,Delaware,OH,-83.069757,40.295963,www.owu.edu/
+204936,Otterbein University,NCAA,Westerville,OH,-82.936444,40.125327,www.otterbein.edu/
+206589,The College of Wooster,NCAA,Wooster,OH,-81.934674,40.81046,www.wooster.edu/
+202763,The University of Findlay,NCAA,Findlay,OH,-83.652313,41.053344,www.findlay.edu/
+206048,Tiffin University,NCAA,Tiffin,OH,-83.184197,41.118316,www.tiffin.edu/
+200800,University of Akron Main Campus,NCAA,Akron,OH,-81.511679,41.078551,www.uakron.edu/
+201885,University of Cincinnati-Main Campus,NCAA,Cincinnati,OH,-84.51428,39.131159,www.uc.edu/
+202480,University of Dayton,NCAA,Dayton,OH,-84.176113,39.739547,udayton.edu/
+204185,University of Mount Union,NCAA,Alliance,OH,-81.111029,40.905256,www.mountunion.edu/
+206084,University of Toledo,NCAA,Toledo,OH,-83.614714,41.660572,www.utoledo.edu/
+206437,Walsh University,NCAA,North Canton,OH,-81.369931,40.873908,www.walsh.edu/
+206507,Wilmington College,NCAA,Wilmington,OH,-83.818342,39.444744,www.wilmington.edu/
+206525,Wittenberg University,NCAA,Springfield,OH,-83.815445,39.934029,www.wittenberg.edu/
+206604,Wright State University-Main Campus,NCAA,Dayton,OH,-84.064881,39.780634,www.wright.edu/
+206622,Xavier University,NCAA,Cincinnati,OH,-84.47465,39.149547,www.xavier.edu/
+206695,Youngstown State University,NCAA,Youngstown,OH,-80.64659,41.104928,ysu.edu/
+206914,Cameron University,NCAA,Lawton,OK,-98.434163,34.606487,www.cameron.edu/
+207041,East Central University,NCAA,Ada,OK,-96.663849,34.771934,www.ecok.edu/
+207263,Northeastern State University,NCAA,Tahlequah,OK,-94.967229,35.919939,www.nsuok.edu/
+207306,Northwestern Oklahoma State University,NCAA,Alva,OK,-98.667673,36.796658,www.nwosu.edu/
+207403,Oklahoma Baptist University,NCAA,Shawnee,OK,-96.932459,35.360492,www.okbu.edu/
+207324,Oklahoma Christian University,NCAA,Edmond,OK,-97.469526,35.611412,www.oc.edu/
+207388,Oklahoma State University-Main Campus,NCAA,Stillwater,OK,-97.069743,36.123085,www.okstate.edu/
+207582,Oral Roberts University,NCAA,Tulsa,OK,-95.952547,36.049129,oru.edu/
+207661,Rogers State University,NCAA,Claremore,OK,-95.635718,36.321437,www.rsu.edu/
+207847,Southeastern Oklahoma State University,NCAA,Durant,OK,-96.376864,34.006808,www.se.edu/
+206862,Southern Nazarene University,NCAA,Bethany,OK,-97.629504,35.513295,snu.edu/
+207865,Southwestern Oklahoma State University,NCAA,Weatherford,OK,-98.707768,35.535281,www.swosu.edu/
+206941,University of Central Oklahoma,NCAA,Edmond,OK,-97.471508,35.6552,www.uco.edu/
+207500,University of Oklahoma-Norman Campus,NCAA,Norman,OK,-97.444211,35.209407,www.ou.edu/
+208822,George Fox University,NCAA,Newberg,OR,-122.967494,45.303629,www.georgefox.edu/
+209056,Lewis & Clark College,NCAA,Portland,OR,-122.669137,45.450882,www.lclark.edu/
+209065,Linfield University-McMinnville Campus,NCAA,McMinnville,OR,-123.199642,45.201173,www.linfield.edu/
+209542,Oregon State University,NCAA,Corvallis,OR,-123.274723,44.56395,oregonstate.edu/
+209612,Pacific University,NCAA,Forest Grove,OR,-123.108777,45.521394,www.pacificu.edu/
+209807,Portland State University,NCAA,Portland,OR,-122.686289,45.511601,www.pdx.edu/
+209551,University of Oregon,NCAA,Eugene,OR,-123.075792,44.045146,www.uoregon.edu/
+209825,University of Portland,NCAA,Portland,OR,-122.726691,45.572724,www.up.edu/
+210429,Western Oregon University,NCAA,Monmouth,OR,-123.238309,44.852235,www.wou.edu/
+210401,Willamette University,NCAA,Salem,OR,-123.030537,44.935457,www.willamette.edu/
+210571,Albright College,NCAA,Reading,PA,-75.909742,40.361351,www.albright.edu/home/
+210669,Allegheny College,NCAA,Meadville,PA,-80.147168,41.64869,allegheny.edu/
+210775,Alvernia University,NCAA,Reading,PA,-75.936754,40.310028,www.alvernia.edu/
+211088,Arcadia University,NCAA,Glenside,PA,-75.163876,40.092606,www.arcadia.edu/
+211158,Bloomsburg University of Pennsylvania,NCAA,Bloomsburg,PA,-76.447844,41.00782,www.bloomu.edu/
+211291,Bucknell University,NCAA,Lewisburg,PA,-76.882616,40.954317,www.bucknell.edu/
+211352,Cabrini University,NCAA,Radnor,PA,-75.375263,40.056355,www.cabrini.edu/
+215114,Cairn University-Langhorne,NCAA,Langhorne,PA,-74.909509,40.165809,www.cairn.edu/
+211361,California University of Pennsylvania,NCAA,California,PA,-79.88679,40.064964,www.calu.edu/
+211556,Chatham University,NCAA,Pittsburgh,PA,-79.926083,40.448432,www.chatham.edu/
+211583,Chestnut Hill College,NCAA,Philadelphia,PA,-75.228742,40.08678,www.chc.edu/
+211644,Clarion University of Pennsylvania,NCAA,Clarion,PA,-79.377501,41.207805,www.clarion.edu/
+211024,Clarks Summit University,NCAA,Clarks Summit,PA,-75.685472,41.495062,www.clarkssummitu.edu/
+211981,Delaware Valley University,NCAA,Doylestown,PA,-75.158452,40.298659,www.delval.edu/
+210739,DeSales University,NCAA,Center Valley,PA,-75.375608,40.539091,www.desales.edu/
+212009,Dickinson College,NCAA,Carlisle,PA,-77.197854,40.202796,www.dickinson.edu/
+212115,East Stroudsburg University of Pennsylvania,NCAA,East Stroudsburg,PA,-75.173905,40.99599,www.esu.edu/
+212133,Eastern University,NCAA,Saint Davids,PA,-75.370316,40.050448,www.eastern.edu/about/student-consumer-information
+212197,Elizabethtown College,NCAA,Elizabethtown,PA,-76.593224,40.149236,www.etown.edu/
+212577,Franklin and Marshall College,NCAA,Lancaster,PA,-76.319037,40.048045,www.fandm.edu/
+212601,Gannon University,NCAA,Erie,PA,-80.087166,42.128403,www.gannon.edu/
+212656,Geneva College,NCAA,Beaver Falls,PA,-80.321826,40.772518,www.geneva.edu/
+212674,Gettysburg College,NCAA,Gettysburg,PA,-77.236792,39.836597,www.gettysburg.edu/
+212805,Grove City College,NCAA,Grove City,PA,-80.081481,41.1558,www.gcc.edu/
+212832,Gwynedd Mercy University,NCAA,Gwynedd Valley,PA,-75.236601,40.202804,www.gmercyu.edu/
+212911,Haverford College,NCAA,Haverford,PA,-75.305207,40.007452,www.haverford.edu/
+213011,Immaculata University,NCAA,Immaculata,PA,-75.570711,40.027981,www.immaculata.edu/
+213020,Indiana University of Pennsylvania-Main Campus,NCAA,Indiana,PA,-79.159332,40.617531,www.iup.edu/
+213251,Juniata College,NCAA,Huntingdon,PA,-78.017292,40.500523,www.juniata.edu/
+213303,Keystone College,NCAA,La Plume,PA,-75.777456,41.558969,www.keystone.edu/
+213321,King's College,NCAA,Wilkes-Barre,PA,-75.879822,41.250097,www.kings.edu/
+213349,Kutztown University of Pennsylvania,NCAA,Kutztown,PA,-75.783933,40.513561,www.kutztown.edu/
+213358,La Roche University,NCAA,Pittsburgh,PA,-80.014851,40.568615,www.laroche.edu/
+213367,La Salle University,NCAA,Philadelphia,PA,-75.153061,40.037979,www.lasalle.edu/
+213385,Lafayette College,NCAA,Easton,PA,-75.209786,40.69956,www.lafayette.edu/
+213400,Lancaster Bible College,NCAA,Lancaster,PA,-76.287761,40.075347,www.lbc.edu/
+213507,Lebanon Valley College,NCAA,Annville,PA,-76.514431,40.330604,www.lvc.edu/
+213543,Lehigh University,NCAA,Bethlehem,PA,-75.380236,40.606822,www.lehigh.edu/
+213598,Lincoln University,NCAA,Lincoln University,PA,-75.926458,39.807723,www.lincoln.edu/
+213613,Lock Haven University,NCAA,Lock Haven,PA,-77.460108,41.141517,www.lockhaven.edu/
+213783,Mansfield University of Pennsylvania,NCAA,Mansfield,PA,-77.073901,41.807467,www.mansfield.edu/
+213826,Marywood University,NCAA,Scranton,PA,-75.634142,41.434587,www.marywood.edu/
+213987,Mercyhurst University,NCAA,Erie,PA,-80.053412,42.10578,www.mercyhurst.edu/
+213996,Messiah University,NCAA,Mechanicsburg,PA,-76.988269,40.156579,www.messiah.edu/
+214041,Millersville University of Pennsylvania,NCAA,Millersville,PA,-76.357381,40.000337,www.millersville.edu/
+214069,Misericordia University,NCAA,Dallas,PA,-75.971541,41.345277,www.misericordia.edu/
+214157,Moravian College,NCAA,Bethlehem,PA,-75.383638,40.630947,www.moravian.edu/
+214166,Mount Aloysius College,NCAA,Cresson,PA,-78.600898,40.459679,www.mtaloy.edu/
+214175,Muhlenberg College,NCAA,Allentown,PA,-75.508502,40.596416,www.muhlenberg.edu/
+214272,Neumann University,NCAA,Aston,PA,-75.440022,39.874876,www.neumann.edu/
+366252,Pennsylvania College of Technology,NCAA,Williamsport,PA,-77.023665,41.234145,www.pct.edu/
+215770,Saint Joseph's University,NCAA,Philadelphia,PA,-75.238343,39.994442,www.sju.edu/
+215798,Saint Vincent College,NCAA,Latrobe,PA,-79.403762,40.29265,www.stvincent.edu/
+215947,Seton Hill University,NCAA,Greensburg,PA,-79.557433,40.309407,www.setonhill.edu/
+216010,Shippensburg University of Pennsylvania,NCAA,Shippensburg,PA,-77.522335,40.057933,www.ship.edu/
+216038,Slippery Rock University of Pennsylvania,NCAA,Slippery Rock,PA,-80.045965,41.062719,www.sru.edu/
+216278,Susquehanna University,NCAA,Selinsgrove,PA,-76.875329,40.797502,www.susqu.edu/
+216287,Swarthmore College,NCAA,Swarthmore,PA,-75.354278,39.905159,www.swarthmore.edu/
+495767,The Pennsylvania State University,NCAA,University Park,PA,-77.862848,40.7965,www.psu.edu/
+216357,Thiel College,NCAA,Greenville,PA,-80.384383,41.41354,www.thiel.edu/
+216366,Thomas Jefferson University,NCAA,Philadelphia,PA,-75.158266,39.948274,www.jefferson.edu/
+215062,University of Pennsylvania,NCAA,Philadelphia,PA,-75.19391,39.950929,www.upenn.edu/
+215266,University of Pittsburgh-Bradford,NCAA,Bradford,PA,-78.673701,41.943415,www.upb.pitt.edu/
+215275,University of Pittsburgh-Greensburg,NCAA,Greensburg,PA,-79.532676,40.276447,www.greensburg.pitt.edu/
+215284,University of Pittsburgh-Johnstown,NCAA,Johnstown,PA,-78.834163,40.265957,www.upj.pitt.edu/
+215293,University of Pittsburgh-Pittsburgh Campus,NCAA,Pittsburgh,PA,-79.953254,40.444388,www.pitt.edu/
+215929,University of Scranton,NCAA,Scranton,PA,-75.656915,41.406556,www.scranton.edu/
+215132,University of the Sciences,NCAA,Philadelphia,PA,-75.207001,39.946412,www.usciences.edu/
+216542,University of Valley Forge,NCAA,Phoenixville,PA,-75.5469,40.117835,www.valleyforge.edu/
+216524,Ursinus College,NCAA,Collegeville,PA,-75.456505,40.193023,www.ursinus.edu/
+216597,Villanova University,NCAA,Villanova,PA,-75.345457,40.039388,www.villanova.edu/
+216667,Washington & Jefferson College,NCAA,Washington,PA,-80.24049,40.170622,www.washjeff.edu/
+216694,Waynesburg University,NCAA,Waynesburg,PA,-80.186205,39.899871,www.waynesburg.edu/
+216764,West Chester University of Pennsylvania,NCAA,West Chester,PA,-75.59812,39.953398,www.wcupa.edu/
+216807,Westminster College,NCAA,New Wilmington,PA,-80.331017,41.119272,www.westminster.edu/
+216852,Widener University,NCAA,Chester,PA,-75.355363,39.861689,www.widener.edu/
+216931,Wilkes University,NCAA,Wilkes-Barre,PA,-75.890262,41.244199,www.wilkes.edu/
+217013,Wilson College,NCAA,Chambersburg,PA,-77.650712,39.949659,www.wilson.edu/
+217059,York College of Pennsylvania,NCAA,York,PA,-76.727984,39.94614,www.ycp.edu/
+217156,Brown University,NCAA,Providence,RI,-71.40385,41.82617,www.brown.edu/
+217165,Bryant University,NCAA,Smithfield,RI,-71.539547,41.920092,www.bryant.edu/
+217235,Johnson & Wales University-Providence,NCAA,Providence,RI,-71.41277,41.819956,www.jwu.edu/campuses/providence/index.html
+217420,Rhode Island College,NCAA,Providence,RI,-71.46556,41.842415,www.ric.edu/
+217518,Roger Williams University,NCAA,Bristol,RI,-71.260374,41.650214,www.rwu.edu/
+217536,Salve Regina University,NCAA,Newport,RI,-71.30124,41.471545,www.salve.edu/
+217484,University of Rhode Island,NCAA,Kingston,RI,-71.527356,41.484691,web.uri.edu/
+217633,Anderson University,NCAA,Anderson,SC,-82.640358,34.5152,www.andersonuniversity.edu/
+217721,Benedict College,NCAA,Columbia,SC,-81.020403,34.012941,www.benedict.edu/
+217688,Charleston Southern University,NCAA,Charleston,SC,-80.072587,32.983047,www.charlestonsouthern.edu/
+217864,Citadel Military College of South Carolina,NCAA,Charleston,SC,-79.958775,32.797183,www.citadel.edu/
+217873,Claflin University,NCAA,Orangeburg,SC,-80.854319,33.498444,www.claflin.edu/
+217882,Clemson University,NCAA,Clemson,SC,-82.835114,34.679381,www.clemson.edu/
+218724,Coastal Carolina University,NCAA,Conway,SC,-79.011767,33.794995,www.coastal.edu/
+217907,Coker University,NCAA,Hartsville,SC,-80.070416,34.37696,coker.edu/
+217819,College of Charleston,NCAA,Charleston,SC,-79.939794,32.784225,www.cofc.edu/
+217998,Erskine College,NCAA,Due West,SC,-82.39095,34.332087,www.erskine.edu/
+218061,Francis Marion University,NCAA,Florence,SC,-79.652854,34.189777,www.fmarion.edu/
+218229,Lander University,NCAA,Greenwood,SC,-82.164736,34.199892,www.lander.edu/
+218238,Limestone University,NCAA,Gaffney,SC,-81.649161,35.057076,www.limestone.edu/
+218414,Newberry College,NCAA,Newberry,SC,-81.619777,34.285868,www.newberry.edu/
+218441,North Greenville University,NCAA,Tigerville,SC,-82.37026,35.069758,www.ngu.edu/
+218539,Presbyterian College,NCAA,Clinton,SC,-81.87448,34.465834,www.presby.edu/
+217776,Southern Wesleyan University,NCAA,Central,SC,-82.761586,34.728068,www.swu.edu/
+218645,University of South Carolina Aiken,NCAA,Aiken,SC,-81.767612,33.572704,www.usca.edu/
+218663,University of South Carolina-Columbia,NCAA,Columbia,SC,-81.026935,33.996788,www.sc.edu/
+218742,University of South Carolina-Upstate,NCAA,Spartanburg,SC,-81.970583,34.996403,www.uscupstate.edu/
+218964,Winthrop University,NCAA,Rock Hill,SC,-81.031404,34.941515,www.winthrop.edu/
+218973,Wofford College,NCAA,Spartanburg,SC,-81.933568,34.959411,www.wofford.edu/
+219000,Augustana University,NCAA,Sioux Falls,SD,-96.736975,43.525148,www.augie.edu/
+219259,Northern State University,NCAA,Aberdeen,SD,-98.484728,45.450829,www.northern.edu/
+219356,South Dakota State University,NCAA,Brookings,SD,-96.782139,44.317485,www.sdstate.edu/
+219383,University of Sioux Falls,NCAA,Sioux Falls,SD,-96.738229,43.531574,www.usiouxfalls.edu/
+219602,Austin Peay State University,NCAA,Clarksville,TN,-87.354081,36.533319,www.apsu.edu/
+219709,Belmont University,NCAA,Nashville,TN,-86.794807,36.135589,www.belmont.edu/
+219806,Carson-Newman University,NCAA,Jefferson City,TN,-83.491709,36.122934,www.cn.edu/
+219833,Christian Brothers University,NCAA,Memphis,TN,-89.983241,35.127437,www.cbu.edu/
+220075,East Tennessee State University,NCAA,Johnson City,TN,-82.366954,36.301643,www.etsu.edu/
+220516,King University,NCAA,Bristol,TN,-82.159421,36.585309,www.king.edu/
+220598,Lane College,NCAA,Jackson,TN,-88.806535,35.627378,www.lanecollege.edu/
+220604,Le Moyne-Owen College,NCAA,Memphis,TN,-90.034101,35.118641,www.loc.edu/
+220613,Lee University,NCAA,Cleveland,TN,-84.871399,35.166019,www.leeuniversity.edu/
+220631,Lincoln Memorial University,NCAA,Harrogate,TN,-83.660198,36.578508,www.lmunet.edu/
+219976,Lipscomb University,NCAA,Nashville,TN,-86.799791,36.106253,www.lipscomb.edu/
+220710,Maryville College,NCAA,Maryville,TN,-83.964223,35.751505,www.maryvillecollege.edu/
+220978,Middle Tennessee State University,NCAA,Murfreesboro,TN,-86.360618,35.848005,www.mtsu.edu/
+221351,Rhodes College,NCAA,Memphis,TN,-89.990803,35.154405,www.rhodes.edu/
+221838,Tennessee State University,NCAA,Nashville,TN,-86.828275,36.166321,www.tnstate.edu/
+221847,Tennessee Technological University,NCAA,Cookeville,TN,-85.504039,36.174754,www.tntech.edu/
+221759,The University of Tennessee-Knoxville,NCAA,Knoxville,TN,-83.925852,35.952082,www.utk.edu/
+221768,The University of Tennessee-Martin,NCAA,Martin,TN,-88.864211,36.340338,www.utm.edu/
+221519,The University of the South,NCAA,Sewanee,TN,-85.920179,35.204719,www.sewanee.edu/
+221892,Trevecca Nazarene University,NCAA,Nashville,TN,-86.754238,36.141324,www.trevecca.edu/
+221953,Tusculum University,NCAA,Greeneville,TN,-82.760818,36.172435,www.tusculum.edu/
+221971,Union University,NCAA,Jackson,TN,-88.858524,35.676896,www.uu.edu/
+220862,University of Memphis,NCAA,Memphis,TN,-89.938068,35.118878,www.memphis.edu/
+221999,Vanderbilt University,NCAA,Nashville,TN,-86.803369,36.14659,www.vanderbilt.edu/
+222178,Abilene Christian University,NCAA,Abilene,TX,-99.709797,32.468943,www.acu.edu/
+222831,Angelo State University,NCAA,San Angelo,TX,-100.465051,31.440914,www.angelo.edu/
+222983,Austin College,NCAA,Sherman,TX,-96.596331,33.646345,www.austincollege.edu/
+223232,Baylor University,NCAA,Waco,TX,-97.121041,31.546872,www.baylor.edu/
+224004,Concordia University Texas,NCAA,Austin,TX,-97.835703,30.420232,www.concordia.edu/
+224226,Dallas Baptist University,NCAA,Dallas,TX,-96.947006,32.710017,www.dbu.edu/
+224527,East Texas Baptist University,NCAA,Marshall,TX,-94.374488,32.557847,www.etbu.edu/
+225247,Hardin-Simmons University,NCAA,Abilene,TX,-99.73564,32.476434,www.hsutx.edu/
+225399,Houston Baptist University,NCAA,Houston,TX,-95.515954,29.693819,www.hbu.edu/
+225548,Howard Payne University,NCAA,Brownwood,TX,-98.985204,31.716467,www.hputx.edu/
+226091,Lamar University,NCAA,Beaumont,TX,-94.072244,30.042738,www.lamar.edu/
+226231,LeTourneau University,NCAA,Longview,TX,-94.726394,32.46632,www.letu.edu/
+226383,Lubbock Christian University,NCAA,Lubbock,TX,-101.934426,33.575973,www.lcu.edu/
+226587,McMurry University,NCAA,Abilene,TX,-99.748682,32.429776,ww2.mcm.edu/
+227526,Prairie View A & M University,NCAA,Prairie View,TX,-95.989475,30.092425,www.pvamu.edu/
+227757,Rice University,NCAA,Houston,TX,-95.402035,29.717897,www.rice.edu/
+227845,Saint Edward's University,NCAA,Austin,TX,-97.754998,30.229618,www.stedwards.edu/
+227881,Sam Houston State University,NCAA,Huntsville,TX,-95.546205,30.714738,www.shsu.edu/
+228042,Schreiner University,NCAA,Kerrville,TX,-99.130586,30.031458,www.schreiner.edu/
+228343,Southwestern University,NCAA,Georgetown,TX,-97.665738,30.634341,www.southwestern.edu/
+228149,St. Mary's University,NCAA,San Antonio,TX,-98.562778,29.453244,www.stmarytx.edu/
+228431,Stephen F Austin State University,NCAA,Nacogdoches,TX,-94.64908,31.621056,www.sfasu.edu/
+228501,Sul Ross State University,NCAA,Alpine,TX,-103.651469,30.363139,www.sulross.edu/
+228529,Tarleton State University,NCAA,Stephenville,TX,-98.214866,32.214988,www.tarleton.edu/
+226152,Texas A & M International University,NCAA,Laredo,TX,-99.436043,27.571172,www.tamiu.edu/
+228723,Texas A & M University-College Station,NCAA,College Station,TX,-96.336475,30.618726,www.tamu.edu/
+224147,Texas A & M University-Corpus Christi,NCAA,Corpus Christi,TX,-97.32395,27.713723,www.tamucc.edu/
+228705,Texas A & M University-Kingsville,NCAA,Kingsville,TX,-97.882387,27.525168,www.tamuk.edu/
+228875,Texas Christian University,NCAA,Fort Worth,TX,-97.364758,32.70961,www.tcu.edu/
+228981,Texas Lutheran University,NCAA,Seguin,TX,-97.982669,29.573261,www.tlu.edu/
+229063,Texas Southern University,NCAA,Houston,TX,-95.361113,29.721046,www.tsu.edu/
+228459,Texas State University,NCAA,San Marcos,TX,-97.943029,29.888885,www.txstate.edu/
+229115,Texas Tech University,NCAA,Lubbock,TX,-101.874783,33.583448,www.ttu.edu/
+228769,The University of Texas at Arlington,NCAA,Arlington,TX,-97.11296,32.729718,www.uta.edu/
+228778,The University of Texas at Austin,NCAA,Austin,TX,-97.738273,30.282825,www.utexas.edu/
+228787,The University of Texas at Dallas,NCAA,Richardson,TX,-96.749702,32.984673,www.utdallas.edu/
+229027,The University of Texas at San Antonio,NCAA,San Antonio,TX,-98.620657,29.583709,www.utsa.edu/
+228802,The University of Texas at Tyler,NCAA,Tyler,TX,-95.254337,32.315772,www.uttyler.edu/
+229018,The University of Texas Permian Basin,NCAA,Odessa,TX,-102.329634,31.889509,www.utpb.edu/
+227368,The University of Texas Rio Grande Valley,NCAA,Edinburg,TX,-98.173567,26.306759,www.utrgv.edu/
+229267,Trinity University,NCAA,San Antonio,TX,-98.48186,29.462682,new.trinity.edu/
+224323,University of Dallas,NCAA,Irving,TX,-96.919512,32.846221,www.udallas.edu/
+225511,University of Houston,NCAA,Houston,TX,-95.343537,29.720393,www.uh.edu/
+226471,University of Mary Hardin-Baylor,NCAA,Belton,TX,-97.463471,31.066793,go.umhb.edu/
+227863,University of St Thomas,NCAA,Houston,TX,-95.393102,29.736438,www.stthom.edu/
+225627,University of the Incarnate Word,NCAA,San Antonio,TX,-98.46583,29.46708,www.uiw.edu/
+229814,West Texas A & M University,NCAA,Canyon,TX,-101.914736,34.982789,www.wtamu.edu/
+230038,Brigham Young University-Provo,NCAA,Provo,UT,-111.649281,40.250851,www.byu.edu/
+230171,Dixie State University,NCAA,Saint George,UT,-113.565903,37.102769,dixie.edu/
+230764,University of Utah,NCAA,Salt Lake City,UT,-111.846044,40.762484,www.utah.edu/
+230737,Utah Valley University,NCAA,Orem,UT,-111.716456,40.281078,www.uvu.edu/
+231420,Averett University,NCAA,Danville,VA,-79.413203,36.577287,www.averett.edu/
+449931,Averett University-Non-Traditional Programs,NCAA,Danville,VA,-79.413203,36.577287,gps.averett.edu/
+231581,Bridgewater College,NCAA,Bridgewater,VA,-78.969007,38.378484,www.bridgewater.edu/
+231712,Christopher Newport University,NCAA,Newport News,VA,-76.494364,37.062495,cnu.edu/
+232043,Eastern Mennonite University,NCAA,Harrisonburg,VA,-78.880326,38.471134,emu.edu/
+232025,Emory & Henry College,NCAA,Emory,VA,-81.829142,36.772857,www.ehc.edu/
+232089,Ferrum College,NCAA,Ferrum,VA,-80.021639,36.926912,www.ferrum.edu/
+232186,George Mason University,NCAA,Fairfax,VA,-77.307428,38.829976,www2.gmu.edu/
+232256,Hampden-Sydney College,NCAA,Hampden-Sydney,VA,-78.464216,37.240615,www.hsc.edu/
+232423,James Madison University,NCAA,Harrisonburg,VA,-78.870484,38.436311,www.jmu.edu/
+232557,Liberty University,NCAA,Lynchburg,VA,-79.18222,37.350232,www.liberty.edu/
+232566,Longwood University,NCAA,Farmville,VA,-78.39575,37.301137,www.longwood.edu/
+232672,Mary Baldwin University,NCAA,Staunton,VA,-79.069273,38.153884,www.marybaldwin.edu/
+232706,Marymount University,NCAA,Arlington,VA,-77.128785,38.905562,www.marymount.edu/
+232937,Norfolk State University,NCAA,Norfolk,VA,-76.261375,36.848429,www.nsu.edu/
+232982,Old Dominion University,NCAA,Norfolk,VA,-76.30666,36.886418,www.odu.edu/
+233277,Radford University,NCAA,Radford,VA,-80.549728,37.136907,www.radford.edu/
+233295,Randolph-Macon College,NCAA,Ashland,VA,-77.478416,37.76043,www.rmc.edu/
+233426,Roanoke College,NCAA,Salem,VA,-80.055467,37.294861,www.roanoke.edu/
+233541,Shenandoah University,NCAA,Winchester,VA,-78.157433,39.167355,www.su.edu/
+233611,Southern Virginia University,NCAA,Buena Vista,VA,-79.35037,37.740368,www.svu.edu/
+233897,The University of Virginia's College at Wise,NCAA,Wise,VA,-82.559656,36.970602,www.uvawise.edu/
+232609,University of Lynchburg,NCAA,Lynchburg,VA,-79.181653,37.399774,www.lynchburg.edu/
+232681,University of Mary Washington,NCAA,Fredericksburg,VA,-77.476055,38.302492,www.umw.edu/
+233374,University of Richmond,NCAA,University of Richmond,VA,-77.538806,37.577393,www.richmond.edu/
+234076,University of Virginia-Main Campus,NCAA,Charlottesville,VA,-78.503428,38.035665,www.virginia.edu/
+234030,Virginia Commonwealth University,NCAA,Richmond,VA,-77.452697,37.54962,www.vcu.edu/
+234085,Virginia Military Institute,NCAA,Lexington,VA,-79.437067,37.7896,www.vmi.edu/
+233921,Virginia Polytechnic Institute and State University,NCAA,Blacksburg,VA,-80.423675,37.229012,www.vt.edu/
+234155,Virginia State University,NCAA,Petersburg,VA,-77.419026,37.234692,www.vsu.edu/
+234173,Virginia Wesleyan University,NCAA,Virginia Beach,VA,-76.18606,36.868417,www.vwu.edu/
+234207,Washington and Lee University,NCAA,Lexington,VA,-79.443018,37.788939,www.wlu.edu/
+231624,William & Mary,NCAA,Williamsburg,VA,-76.708214,37.269489,www.wm.edu/
+230834,Castleton University,NCAA,Castleton,VT,-73.180842,43.608397,www.castleton.edu/
+230959,Middlebury College,NCAA,Middlebury,VT,-73.176068,44.009117,www.middlebury.edu/
+230995,Norwich University,NCAA,Northfield,VT,-72.659783,44.140237,www.norwich.edu/
+231059,Saint Michael's College,NCAA,Colchester,VT,-73.167069,44.494558,www.smcvt.edu/
+234827,Central Washington University,NCAA,Ellensburg,WA,-120.538368,47.002687,www.cwu.edu/
+235316,Gonzaga University,NCAA,Spokane,WA,-117.400625,47.666531,www.gonzaga.edu/
+236230,Pacific Lutheran University,NCAA,Tacoma,WA,-122.440421,47.14516,www.plu.edu/
+236452,Saint Martin's University,NCAA,Lacey,WA,-122.816354,47.041068,www.stmartin.edu/
+236595,Seattle University,NCAA,Seattle,WA,-122.318851,47.608859,www.seattleu.edu/
+236328,University of Puget Sound,NCAA,Tacoma,WA,-122.478982,47.26308,www.pugetsound.edu/
+236948,University of Washington-Seattle Campus,NCAA,Seattle,WA,-122.30514,47.65538,www.washington.edu/
+236939,Washington State University,NCAA,Pullman,WA,-117.158168,46.730448,wsu.edu/
+237057,Whitman College,NCAA,Walla Walla,WA,-118.331546,46.069815,www.whitman.edu/
+237066,Whitworth University,NCAA,Spokane,WA,-117.416714,47.753358,www.whitworth.edu/
+238333,Beloit College,NCAA,Beloit,WI,-89.029285,42.504022,www.beloit.edu/
+238458,Carroll University,NCAA,Waukesha,WI,-88.228114,43.004527,www.carrollu.edu/
+238476,Carthage College,NCAA,Kenosha,WI,-87.820924,42.622969,www.carthage.edu/
+238616,Concordia University-Wisconsin,NCAA,Mequon,WI,-87.91552,43.253387,www.cuw.edu/
+238661,Edgewood College,NCAA,Madison,WI,-89.422884,43.057059,www.edgewood.edu/
+238980,Lakeland University,NCAA,Plymouth,WI,-87.883414,43.841573,www.lakeland.edu/
+239017,Lawrence University,NCAA,Appleton,WI,-88.397822,44.261323,www.lawrence.edu/
+239071,Maranatha Baptist University,NCAA,Watertown,WI,-88.737016,43.195013,www.mbu.edu/
+239080,Marian University,NCAA,Fond Du Lac,WI,-88.420638,43.777411,www.marianuniversity.edu/
+239318,Milwaukee School of Engineering,NCAA,Milwaukee,WI,-87.907691,43.045364,www.msoe.edu/
+239512,Northland College,NCAA,Ashland,WI,-90.87476,46.579087,www.northland.edu/
+239628,Ripon College,NCAA,Ripon,WI,-88.842333,43.844135,www.ripon.edu/
+239716,Saint Norbert College,NCAA,De Pere,WI,-88.067812,44.44483,www.snc.edu/
+240268,University of Wisconsin-Eau Claire,NCAA,Eau Claire,WI,-91.501906,44.798284,www.uwec.edu/
+240329,University of Wisconsin-La Crosse,NCAA,La Crosse,WI,-91.23186,43.81568,www.uwlax.edu/
+240453,University of Wisconsin-Milwaukee,NCAA,Milwaukee,WI,-87.880488,43.076848,uwm.edu/
+240365,University of Wisconsin-Oshkosh,NCAA,Oshkosh,WI,-88.549369,44.026206,www.uwosh.edu/
+240374,University of Wisconsin-Parkside,NCAA,Kenosha,WI,-87.855231,42.647718,www.uwp.edu/
+240462,University of Wisconsin-Platteville,NCAA,Platteville,WI,-90.48622,42.733451,www.uwplatt.edu/
+240471,University of Wisconsin-River Falls,NCAA,River Falls,WI,-92.622641,44.8534,www.uwrf.edu/
+240480,University of Wisconsin-Stevens Point,NCAA,Stevens Point,WI,-89.570934,44.529582,www.uwsp.edu/
+240417,University of Wisconsin-Stout,NCAA,Menomonie,WI,-91.926653,44.873187,www.uwstout.edu/
+240426,University of Wisconsin-Superior,NCAA,Superior,WI,-92.091007,46.717629,www.uwsuper.edu/
+240189,University of Wisconsin-Whitewater,NCAA,Whitewater,WI,-88.742368,42.835563,www.uww.edu/
+240338,Wisconsin Lutheran College,NCAA,Milwaukee,WI,-88.022718,43.036943,www.wlc.edu/
+237118,Alderson Broaddus University,NCAA,Philippi,WV,-80.047728,39.158067,www.ab.edu/
+237181,Bethany College,NCAA,Bethany,WV,-80.560056,40.205819,www.bethanywv.edu/
+237215,Bluefield State College,NCAA,Bluefield,WV,-81.239037,37.265732,bluefieldstate.edu/
+237330,Concord University,NCAA,Athens,WV,-81.006696,37.423723,www.concord.edu/
+237358,Davis & Elkins College,NCAA,Elkins,WV,-79.846022,38.931232,www.dewv.edu/
+237367,Fairmont State University,NCAA,Fairmont,WV,-80.162433,39.483079,www.fairmontstate.edu/
+237385,Glenville State College,NCAA,Glenville,WV,-80.834295,38.93547,www.glenville.edu/
+237525,Marshall University,NCAA,Huntington,WV,-82.428964,38.422482,www.marshall.edu/
+237640,Ohio Valley University,NCAA,Vienna,WV,-81.537808,39.312447,www.ovu.edu/
+237783,Salem University,NCAA,Salem,WV,-80.571767,39.288632,www.salemu.edu/
+237792,Shepherd University,NCAA,Shepherdstown,WV,-77.804101,39.433071,www.shepherd.edu/
+237312,University of Charleston,NCAA,Charleston,WV,-81.616244,38.333367,www.ucwv.edu/
+237932,West Liberty University,NCAA,West Liberty,WV,-80.602256,40.164417,www.westliberty.edu/
+237899,West Virginia State University,NCAA,Institute,WV,-81.765034,38.380541,www.wvstateu.edu/
+238032,West Virginia University,NCAA,Morgantown,WV,-79.954391,39.634371,www.wvu.edu/
+237969,West Virginia Wesleyan College,NCAA,Buckhannon,WV,-80.218969,38.990661,www.wvwc.edu/
+238078,Wheeling University,NCAA,Wheeling,WV,-80.690804,40.070873,www.wju.edu/

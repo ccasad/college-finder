@@ -13,8 +13,8 @@ let csvColleges = [];
 
 const _process = async () => {
   // schools with baseball from NCSA website
-  const dataBaseballNCSA = await fs.readFileSync(`./data/colleges.txt`, "utf8");
-  _parseHtmlFile(dataBaseballNCSA);
+  const dataBaseballNCSA = await fs.readFileSync(`./data/colleges_with_baseball_from_ncsa.txt`, "utf8");
+  await _parseHtmlFile(dataBaseballNCSA);
 
   // schools with baseball from collegedata.com website
   // const dataBaseballCD = await fs.readFileSync(`./data/colleges.txt`, "utf8");
@@ -129,7 +129,7 @@ const _mergeData = async () => {
   return mergedColleges;
 };
 
-const _parseHtmlFile = (data) => {
+const _parseHtmlFile = async (data) => {
   const parsingOptions = {
     ignoreAttributes: false,
     unpairedTags: ["hr", "br", "link", "meta"],
@@ -154,6 +154,7 @@ const _parseHtmlFile = (data) => {
       baseballColleges.push(item);
     }
   }
+  await fs.writeFileSync("./data/colleges_with_baseball_from_ncsa.json", JSON.stringify(baseballColleges));
 };
 
 const _buildGeoJson = (json) => {

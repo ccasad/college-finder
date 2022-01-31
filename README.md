@@ -6,6 +6,7 @@
 * 
 
 ### Data
+- https://web3.ncaa.org/directory/api/directory/memberList?type=12&sportCode=MBA&_=1642602836906
 - https://nces.ed.gov/ipeds/datacenter/institutionprofile.aspx?unitId=232186
 - https://nces.ed.gov/collegenavigator/?id=211291
 - https://www.collegedata.com/
