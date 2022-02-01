@@ -11,7 +11,7 @@
       "skipFiles": [
         "<node_internals>/**"
       ],
-      "program": "${workspaceFolder}/get_logos.js"
+      "program": "${workspaceFolder}/merge_ncaa_with_wiki.js"
     }
   ]
 }
